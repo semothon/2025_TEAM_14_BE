@@ -19,7 +19,6 @@ public class AuthController {
         this.userService = userService;
     }
 
-    // 회원가입
     @PostMapping("/signup")
     public ResponseEntity<?> signUp(@RequestBody SignUpRequest signUpRequest) {
         try {
@@ -32,7 +31,6 @@ public class AuthController {
         }
     }
 
-    // 로그인 (세션)
     @PostMapping("/login")
     public ResponseEntity<?> login(@RequestBody LoginRequest loginRequest, HttpServletRequest request) {
         try {
@@ -47,7 +45,6 @@ public class AuthController {
         }
     }
 
-    // 로그아웃
     @PostMapping("/logout")
     public ResponseEntity<?> logout(HttpServletRequest request) {
         HttpSession session = request.getSession(false);
@@ -55,5 +52,15 @@ public class AuthController {
             session.invalidate();
         }
         return ResponseEntity.ok("로그아웃되었습니다.");
+    }
+
+    // 이메일 중복 체크 API (GET 요청, 쿼리 파라미터 이용)
+    @GetMapping("/check-email")
+    public ResponseEntity<?> checkEmail(@RequestParam String email) {
+        if (userService.emailExists(email)) {
+            return ResponseEntity.ok("이미 사용 중인 이메일입니다.");
+        } else {
+            return ResponseEntity.ok("사용 가능한 이메일입니다.");
+        }
     }
 }
