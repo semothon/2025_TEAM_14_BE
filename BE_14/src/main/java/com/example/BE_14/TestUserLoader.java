@@ -26,8 +26,8 @@ public class TestUserLoader implements CommandLineRunner {
             SignUpRequest request = SignUpRequest.builder()
                     .email(testEmail)
                     .password("testpass")
-                    .name("Test User")
-                    .department("Test Department")
+                    .name("김세모")
+                    .department("컴퓨터공학과")
                     .studyYear(1)
                     .transferMinor("none")
                     .build();

@@ -33,6 +33,6 @@ public class User {
     @Column(name = "study_year", nullable = false)
     private int studyYear;
 
-    @Column(nullable = false)
+    @Column(nullable = true) // 선택 사항
     private String transferMinor; // 전과/부전공 여부
 }
