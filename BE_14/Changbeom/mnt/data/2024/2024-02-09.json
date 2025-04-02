@@ -4,23 +4,38 @@
     "stacks": [
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2024-02-09T00:01:08.170713",
             "title": "주간식단표 240213-0216",
+            "keywords": [
+                "학생회관(국제)",
+                "2024-02-09",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "0S000083",
-            "major": "생활협동조합(서울).주간식당메뉴",
+            "department": "생활협동조합(서울).주간식당메뉴",
             "timestamp": "2024-02-09T00:16:16.970581",
             "title": "2월 2주차 청운관식당(학생/교직원) 주간메뉴표",
+            "keywords": [
+                "생활협동조합(서울)",
+                "2024-02-09",
+                "학식"
+            ],
             "url": "https://coop.khu.ac.kr/9%ec%9b%94-3%ec%a3%bc%ec%b0%a8-%ec%a3%bc%ea%b0%84%eb%a9%94%eb%89%b4%ed%91%9c-2-copy-copy/"
         },
         {
             "id": "00000098",
-            "major": "대학생활(포커스)",
+            "department": "대학생활(포커스)",
             "timestamp": "2024-02-09T09:08:02.142305",
             "title": "스포츠산업을 이끌 새로운 DNA",
+            "keywords": [
+                "대학생활(포커스)",
+                "2024-02-09",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/focus/list.do?page=1&condition=all&pageSize=15&tps=15"
         }
     ]

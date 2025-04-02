@@ -4,366 +4,633 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-05-21T23:06:36.988940",
             "title": "오늘의 채용공고가 36건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-05-21",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=3"
         },
         {
             "id": "00000040",
-            "major": "미래인재센터.추천채용",
+            "department": "미래인재센터.추천채용",
             "timestamp": "2024-05-21T23:06:41.358645",
             "title": "오늘의 추천채용이 3건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-05-21",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&page=1"
         },
         {
             "id": "0S000017",
-            "major": "호텔관광대학.일반공지사항",
+            "department": "호텔관광대학.일반공지사항",
             "timestamp": "2024-05-21T09:26:15.005354",
             "title": "[GC녹십자] HR Internship 모집",
+            "keywords": [
+                "호텔관광대학",
+                "2024-05-21",
+                "모집"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000032",
-            "major": "화학과",
+            "department": "화학과",
             "timestamp": "2024-05-21T09:27:22.374831",
             "title": "2024학년도 1학기 성적 열람 및 공시(정정)기간 안내",
+            "keywords": [
+                "화학과",
+                "2024-05-21",
+                "성적"
+            ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-05-21T09:28:14.825428",
             "title": "[GC녹십자] HR Internship 모집 (~5/28)",
+            "keywords": [
+                "정경대학",
+                "2024-05-21",
+                "모집",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2024-05-21T09:57:10.296923",
             "title": "한국의약품안전관리원 ‘대학생과 함께하는 의약품 안전 세미나’ 안내",
+            "keywords": [
+                "약학대학",
+                "2024-05-21",
+                "세미나"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000032",
-            "major": "화학과",
+            "department": "화학과",
             "timestamp": "2024-05-21T09:58:06.545060",
             "title": "(3학년 2학기 대상자 필독) 졸업논문 지도교수 신청 안내",
+            "keywords": [
+                "화학과",
+                "2024-05-21",
+                "논문",
+                "졸업"
+            ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2024-05-21T10:00:39.582543",
             "title": "「제1회 DDM Union 청년 창업 아이디어 챌린지」",
+            "keywords": [
+                "경영대학",
+                "2024-05-21",
+                "창업"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "0S000073",
-            "major": "미디어커뮤니케이션대학원",
+            "department": "미디어커뮤니케이션대학원",
             "timestamp": "2024-05-21T10:01:07.173256",
             "title": "[안내] 코로나19 위기단계 하향에 따른 학사 운영 안내 N",
+            "keywords": [
+                "미디어커뮤니케이션대학원",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "https://communication.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
         },
         {
             "id": "00000025",
-            "major": "국제대학",
+            "department": "국제대학",
             "timestamp": "2024-05-21T10:04:08.196887",
             "title": "2023학년도 후기(24년 8월) 국제대학 졸업능력인증 신청안내(5/22~5/31)",
+            "keywords": [
+                "국제대학",
+                "2024-05-21",
+                "졸업"
+            ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2024-05-21T10:26:45.301487",
             "title": "한약재 품질관리 1차 기본교육 안내",
+            "keywords": [
+                "약학대학",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2024-05-21T10:29:28.425363",
             "title": "[일반대학원] 2024학년도 1학기 대학원 성적입력 및 공시(정정)기간 안내",
+            "keywords": [
+                "의과대학",
+                "2024-05-21",
+                "성적"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000039",
-            "major": "지리학과.취업공지",
+            "department": "지리학과.취업공지",
             "timestamp": "2024-05-21T11:28:39.149666",
             "title": "[GC녹십자] HR Intership 모집 (~5/28)",
+            "keywords": [
+                "지리학과",
+                "2024-05-21",
+                "모집",
+                "취업"
+            ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600057&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-21T11:30:09.237036",
             "title": "[학생지원센터(장학)]2024학년도 1학기 마일리지장학",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-21",
+                "장학"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1734"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-21T11:30:09.237205",
             "title": "서울/국제캠퍼스 정전에 따른 네트워크 및 정보서비스 중지 안내(7/6, 7/7, 8/16~18)",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1733"
         },
         {
             "id": "00000031",
-            "major": "체육대학",
+            "department": "체육대학",
             "timestamp": "2024-05-21T11:34:32.176537",
             "title": "2024학년도 1학기 학부 성적입력 및 공시(정정)기간 안내",
+            "keywords": [
+                "체육대학",
+                "2024-05-21",
+                "성적"
+            ],
             "url": "http://sports.khu.ac.kr/bbs/board.php?bo_table=05_01&page=1"
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2024-05-21T11:57:13.442472",
             "title": "2024학년도 1학기 성적 열람 및 공시(정정)기간 공고",
+            "keywords": [
+                "약학대학",
+                "2024-05-21",
+                "성적"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2024-05-21T12:01:13.021569",
             "title": "[일반] 2024학년도 1학기 성적 열람 및 공시(정정) 기간 공고",
+            "keywords": [
+                "간호대학원",
+                "2024-05-21",
+                "성적"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2024-05-21T12:01:13.033460",
             "title": "[간호대학원] 2024학년도 1학기 성적 열람 및 공시(정정) 기간 공고",
+            "keywords": [
+                "간호대학원",
+                "2024-05-21",
+                "성적"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "0S000021",
-            "major": "미술대학",
+            "department": "미술대학",
             "timestamp": "2024-05-21T13:26:58.364374",
             "title": "2024학년도 1학기 성적입력 및 공시(정정)기간 안내",
+            "keywords": [
+                "미술대학",
+                "2024-05-21",
+                "성적"
+            ],
             "url": "https://khuart.khu.ac.kr/khuart/user/bbs/BMSR00040/list.do?menuNo=1400031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000021",
-            "major": "미술대학",
+            "department": "미술대학",
             "timestamp": "2024-05-21T13:26:58.456729",
             "title": "2024학년도 롯데장학재단 제6기 취업준비생 장학금 홍보",
+            "keywords": [
+                "미술대학",
+                "2024-05-21",
+                "장학",
+                "취업"
+            ],
             "url": "https://khuart.khu.ac.kr/khuart/user/bbs/BMSR00040/list.do?menuNo=1400031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000021",
-            "major": "미술대학",
+            "department": "미술대학",
             "timestamp": "2024-05-21T13:26:58.502630",
             "title": "코로나19 감염증 대응을 위한 출석인정 대책 및 코로나19 백신 공결제도 폐지 안내",
+            "keywords": [
+                "미술대학",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "https://khuart.khu.ac.kr/khuart/user/bbs/BMSR00040/list.do?menuNo=1400031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-21T13:30:04.735265",
             "title": "24년 여름학기 현장실습 참여학생 모집 안내(2차)",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-21",
+                "모집"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1735"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-05-21T13:59:43.498315",
             "title": "24년 여름학기 현장실습 참여학생 모집 안내(2차)",
+            "keywords": [
+                "정경대학",
+                "2024-05-21",
+                "모집",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000007",
-            "major": "컴퓨터공학부.취업",
+            "department": "컴퓨터공학부.취업",
             "timestamp": "2024-05-21T14:00:11.374473",
             "title": "[채용] 현대로템 2024년 2차 정기채용 (지원 기간: ~06/02)",
+            "keywords": [
+                "컴퓨터공학부",
+                "2024-05-21",
+                "취업"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000017",
-            "major": "호텔관광대학.일반공지사항",
+            "department": "호텔관광대학.일반공지사항",
             "timestamp": "2024-05-21T14:26:42.189595",
             "title": "[현대로템] 2024년 현대로템 2차 정기채용",
+            "keywords": [
+                "호텔관광대학",
+                "2024-05-21",
+                "취업"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000022",
-            "major": "음악대학",
+            "department": "음악대학",
             "timestamp": "2024-05-21T14:27:07.721919",
             "title": "평화의전당 광장 주차통제 안내 [NCT 도영 솔로 콘서트]",
+            "keywords": [
+                "음악대학",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "http://music.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005013"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-05-21T14:28:44.144264",
             "title": "[현대로템] 2024년 현대로템 2차 정기채용 안내 (~6/2)",
+            "keywords": [
+                "정경대학",
+                "2024-05-21",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2024-05-21T14:29:42.212326",
             "title": "[학사] 2024학년도 1학기 성적 열람 및 공시(정정)기간 공고",
+            "keywords": [
+                "의과대학",
+                "2024-05-21",
+                "성적"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000022",
-            "major": "음악대학",
+            "department": "음악대학",
             "timestamp": "2024-05-21T15:27:57.116190",
             "title": "국내 홍역 지속 발생에 따른 외국인 유학생 대상 홍역 예방 및...",
+            "keywords": [
+                "음악대학",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "http://music.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005013"
         },
         {
             "id": "0S000033",
-            "major": "생물학과",
+            "department": "생물학과",
             "timestamp": "2024-05-21T15:28:44.923374",
             "title": "2024학년도 1학기 성적 열람 및 공시(정정)기간 공고 안내",
+            "keywords": [
+                "생물학과",
+                "2024-05-21",
+                "성적"
+            ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900033&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-05-21T15:29:35.171964",
             "title": "[추천채용] 오뚜기물류서비스㈜ 추천채용",
+            "keywords": [
+                "정경대학",
+                "2024-05-21",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000091",
-            "major": "교무처-교직팀",
+            "department": "교무처-교직팀",
             "timestamp": "2024-05-21T15:46:44.731565",
             "title": "[서울C] 2024학년도 하계 해외교육기관탐방 프로그램 선발 결과 안내",
+            "keywords": [
+                "교무처-교직팀",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "https://education.khu.ac.kr/education/user/bbs/BMSR00040/list.do?menuNo=7000028&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000091",
-            "major": "교무처-교직팀",
+            "department": "교무처-교직팀",
             "timestamp": "2024-05-21T15:46:44.732428",
             "title": "[서울C] 2024학년도 하계 해외교육기관탐방 프로그램 선발 결과 안내",
+            "keywords": [
+                "교무처-교직팀",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "https://education.khu.ac.kr/education/user/bbs/BMSR00040/list.do?menuNo=7000028&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2024-05-21T15:59:36.309142",
             "title": "[학사] (공통)2024학년도 1학기 성적 열람 및 공시(정정)기간 공고",
+            "keywords": [
+                "의과대학",
+                "2024-05-21",
+                "성적"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-05-21T16:00:17.921599",
             "title": "[현대로템] 2024년 현대로템 2차 정기채용 (~6/2)",
+            "keywords": [
+                "식품영양학과",
+                "2024-05-21",
+                "취업"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-05-21T16:00:17.921845",
             "title": "[삼양그룹] 2024년 5월 신입사원 채용 (~5/27(월) 09시까지)",
+            "keywords": [
+                "식품영양학과",
+                "2024-05-21",
+                "취업"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-05-21T16:00:17.922068",
             "title": "[GC녹십자] HR Internship 모집 (~5/28)",
+            "keywords": [
+                "식품영양학과",
+                "2024-05-21",
+                "모집"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000019",
-            "major": "우정원",
+            "department": "우정원",
             "timestamp": "2024-05-21T16:03:31.916972",
             "title": "우정원 기숙사 내 흡연 금지 안내NEW",
+            "keywords": [
+                "우정원",
+                "2024-05-21",
+                "기숙사"
+            ],
             "url": "https://wjwdorm.khu.ac.kr/60/6010.kmc"
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-05-21T16:06:27.268981",
             "title": "[국가우수]2024년도 인문100년 · 예술체육비전장학금 신규장학생 대학추천 결과 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-05-21",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-05-21T16:06:27.269216",
             "title": "[공통][교외]2024년도 대학생 그룹 해외문화탐방 지원 장학생 선발 공고",
+            "keywords": [
+                "미래혁신원",
+                "2024-05-21",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-05-21T16:06:27.269441",
             "title": "[국제C] 메가스터디 안내문자(카톡) 관련 및 본인명의 계좌 확인 요청 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-05-21",
+                "스터디",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-05-21T16:06:27.270918",
             "title": "[국가우수]2024년도 인문100년 · 예술체육비전장학금 신규장학생 대학추천 결과 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-05-21",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-05-21T16:06:27.271141",
             "title": "[공통][교외]2024년도 대학생 그룹 해외문화탐방 지원 장학생 선발 공고",
+            "keywords": [
+                "미래혁신원",
+                "2024-05-21",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-05-21T16:06:27.271353",
             "title": "[국제C] 메가스터디 안내문자(카톡) 관련 및 본인명의 계좌 확인 요청 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-05-21",
+                "스터디",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2024-05-21T16:06:40.926445",
             "title": "[공지] 외국인 유학생 홍역 감염 관련 안내",
+            "keywords": [
+                "생체의공학과",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2024-05-21T16:36:47.161134",
             "title": "서울/국제캠퍼스 정전에 따른 네트워크 및 정보서비스 중지 안내(7/6, 7/7, 8/16~18)",
+            "keywords": [
+                "전자공학과",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-05-21T16:59:26.190991",
             "title": "[현대글로비스] 2024년 상반기 채용연계형 인턴십 안내",
+            "keywords": [
+                "정경대학",
+                "2024-05-21",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-05-21T16:59:26.231249",
             "title": "[추천채용] 한국펀드파트너스 추천채용 안내",
+            "keywords": [
+                "정경대학",
+                "2024-05-21",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-05-21T17:26:34.853727",
             "title": "「병역판정검사 받은 해 입영희망자(2005년생) 현역병 입영 신청」안내",
+            "keywords": [
+                "무용학부",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2024-05-21T19:31:39.093072",
             "title": "[질병관리청] 해외여행 시 홍역 예방수칙",
+            "keywords": [
+                "공공대학원",
+                "2024-05-21",
+                "기타"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000070",
-            "major": "중앙박물관",
+            "department": "중앙박물관",
             "timestamp": "2024-05-21T20:31:11.883569",
             "title": "[중앙박물관] 2024 봄 대동제 스탬프 이벤트 진행 안내 (5/22...",
+            "keywords": [
+                "중앙박물관",
+                "2024-05-21",
+                "이벤트"
+            ],
             "url": "http://museum.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=007001"
         }
     ]

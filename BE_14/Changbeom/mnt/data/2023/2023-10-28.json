@@ -4,23 +4,38 @@
     "stacks": [
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2023-10-28T10:08:51.442598",
             "title": "[추천채용] 코리아타임스 추천채용 안내",
+            "keywords": [
+                "정경대학",
+                "2023-10-28",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000089",
-            "major": "동서의학대학원",
+            "department": "동서의학대학원",
             "timestamp": "2023-10-28T12:35:08.773279",
             "title": "2024년 의학영양학과 오픈하우스 입시설명회 영상",
+            "keywords": [
+                "동서의학대학원",
+                "2023-10-28",
+                "강연"
+            ],
             "url": "http://gsm.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
         },
         {
             "id": "0S000056",
-            "major": "국제통상-금융투자학부",
+            "department": "국제통상-금융투자학부",
             "timestamp": "2023-10-28T15:09:35.936063",
             "title": "2023년도 동계 국제화연수(OCHR at Sonoma State University, USA) 선발 공고",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2023-10-28",
+                "연수"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=notice&page=1"
         }
     ]

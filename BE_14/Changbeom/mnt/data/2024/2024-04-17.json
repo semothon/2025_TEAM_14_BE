@@ -4,296 +4,510 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-04-17T23:06:36.572190",
             "title": "오늘의 채용공고가 25건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-04-17",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=2"
         },
         {
             "id": "00000040",
-            "major": "미래인재센터.추천채용",
+            "department": "미래인재센터.추천채용",
             "timestamp": "2024-04-17T23:06:41.041448",
             "title": "오늘의 추천채용이 1건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-04-17",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&page=1"
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2024-04-17T09:28:33.846331",
             "title": "2024학년도 1학기 마이크로디그리(Micro Degree) 신청 및 포기 안내",
+            "keywords": [
+                "행정학과",
+                "2024-04-17",
+                "기타"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2024-04-17T09:28:33.881080",
             "title": "2024학년도 1학기 조기졸업 신청 안내",
+            "keywords": [
+                "행정학과",
+                "2024-04-17",
+                "졸업"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2024-04-17T09:28:34.051611",
             "title": "2024학년도 1학기 마이크로디그리(Micro Degree) 신청 및 포기 안내",
+            "keywords": [
+                "행정학과",
+                "2024-04-17",
+                "기타"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2024-04-17T09:28:34.098505",
             "title": "2024학년도 1학기 조기졸업 신청 안내",
+            "keywords": [
+                "행정학과",
+                "2024-04-17",
+                "졸업"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000013",
-            "major": "철학과",
+            "department": "철학과",
             "timestamp": "2024-04-17T09:56:03.182432",
             "title": "[철학과 사무실]하계 해외 연수 신청 안내",
+            "keywords": [
+                "철학과",
+                "2024-04-17",
+                "연수"
+            ],
             "url": "http://sophia.khu.ac.kr/?pageid=1&page_id=2782&mod=list"
         },
         {
             "id": "0S000017",
-            "major": "호텔관광대학.일반공지사항",
+            "department": "호텔관광대학.일반공지사항",
             "timestamp": "2024-04-17T09:56:12.765464",
             "title": "[한국MICE협회] 2024 MICE 디지털 전문가 양성과정 교육생 모집",
+            "keywords": [
+                "호텔관광대학",
+                "2024-04-17",
+                "모집"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000015",
-            "major": "호텔관광대학.장학공지사항",
+            "department": "호텔관광대학.장학공지사항",
             "timestamp": "2024-04-17T10:55:54.495647",
             "title": "2024학년도 1학기 재단법인 우강장학재단 장학생 선발 안내",
+            "keywords": [
+                "호텔관광대학",
+                "2024-04-17",
+                "장학"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900109&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2024-04-17T10:56:15.791421",
             "title": "2024 식의약 데이터 분석.활용 경진대회 안내",
+            "keywords": [
+                "약학대학",
+                "2024-04-17",
+                "공모전"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-04-17T10:59:34.549486",
             "title": "제28회 실크 텍스타일 디자인 공모전 모집요강 (한국실크연구원)",
+            "keywords": [
+                "식품영양학과",
+                "2024-04-17",
+                "공모전",
+                "모집"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-04-17T11:06:04.923971",
             "title": "2024년도 제31기 미래에셋박현주재단 장학생 선발 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-04-17",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-04-17T11:06:04.926213",
             "title": "2024년도 제31기 미래에셋박현주재단 장학생 선발 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-04-17",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-04-17T11:58:44.086317",
             "title": "[현대백화점] 2024년 상반기 경영지원(회계/재무)부문 신입사원추천채용",
+            "keywords": [
+                "정경대학",
+                "2024-04-17",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-04-17T13:28:05.018239",
             "title": "[GC녹십자] 2024 GC녹십자 채용전제형 인턴 채용(병/의원 영업) (~4/23)",
+            "keywords": [
+                "정경대학",
+                "2024-04-17",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-04-17T13:29:42.466022",
             "title": "[GC녹십자] 2024 상반기 GC녹십자 채용전제형 인턴 채용(병/의원 영업)",
+            "keywords": [
+                "식품영양학과",
+                "2024-04-17",
+                "취업"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-04-17T13:36:13.027131",
             "title": "[2024 해커스 장학생 선발 상세 안내]",
+            "keywords": [
+                "미래혁신원",
+                "2024-04-17",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-04-17T13:36:13.029612",
             "title": "[2024 해커스 장학생 선발 상세 안내]",
+            "keywords": [
+                "미래혁신원",
+                "2024-04-17",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000086",
-            "major": "아트퓨전디자인대학원",
+            "department": "아트퓨전디자인대학원",
             "timestamp": "2024-04-17T13:45:52.325620",
             "title": "2024학년도 후기 신입생 모집 안내 [내국인/정원내]",
+            "keywords": [
+                "아트퓨전디자인대학원",
+                "2024-04-17",
+                "모집"
+            ],
             "url": "/bbs/board.php?bo_table=06_01&wr_id=465&page=1"
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-04-17T14:06:34.422513",
             "title": "[공통][교외] 재단법인 플라톤 아카데미 인문지혜 장학생 판플러스(PAN+)",
+            "keywords": [
+                "미래혁신원",
+                "2024-04-17",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-04-17T14:06:34.425325",
             "title": "[공통][교외] 재단법인 플라톤 아카데미 인문지혜 장학생 판플러스(PAN+)",
+            "keywords": [
+                "미래혁신원",
+                "2024-04-17",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-04-17T14:06:34.425559",
             "title": "재단법인 플라톤 아카데미 인문지혜 장학생 판플러스(PAN+)",
+            "keywords": [
+                "미래혁신원",
+                "2024-04-17",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-04-17T14:06:34.425789",
             "title": "재단법인 플라톤 아카데미 인문지혜 장학생 판플러스(PAN+)",
+            "keywords": [
+                "미래혁신원",
+                "2024-04-17",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-04-17T15:00:03.184773",
             "title": "[LINC 3.0] 창업 프로그램 디지털 배지 발급 확대 및 스타트업 마이크로디그리 시행",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-04-17",
+                "창업"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1685"
         },
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2024-04-17T15:00:06.994373",
             "title": "쿡앱스 채용 연계 인턴십 \"슈퍼루키 챌린지\" 모집 공고",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-04-17",
+                "모집",
+                "취업"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=651"
         },
         {
             "id": "00000042",
-            "major": "생체의공학과.취업",
+            "department": "생체의공학과.취업",
             "timestamp": "2024-04-17T15:07:01.535576",
             "title": "[LINC 3.0] 창업 프로그램 디지털 배지 발급 확대 및 스타트업 마이크로디그리 시행 안내",
+            "keywords": [
+                "생체의공학과",
+                "2024-04-17",
+                "창업",
+                "취업"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2024-04-17T15:07:14.803295",
             "title": "[홍보] [LINC사업단] 디지털배지 운영 확대 및 스타트업 마이크로디그리 신설안내",
+            "keywords": [
+                "전자공학과",
+                "2024-04-17",
+                "기타"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-04-17T15:26:50.955717",
             "title": "[LINC 3.0] 창업 프로그램 디지털 배지 발급 확대 및 스타트업 마이크로디그리 시행 안내",
+            "keywords": [
+                "무용학부",
+                "2024-04-17",
+                "창업"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "00000035",
-            "major": "대학주보.헤드라인",
+            "department": "대학주보.헤드라인",
             "timestamp": "2024-04-17T15:36:03.685910",
             "title": "연구실 탐방프로그램, 진로 확인할 좋은 기회",
+            "keywords": [
+                "대학주보",
+                "2024-04-17",
+                "기타"
+            ],
             "url": "http://media.khu.ac.kr/khunews/list.asp?code1=1012006022801&code2=&headline=&section=&auth=&page=1&field=&flag=&issue_date_split=&search_text1=&search=&keyword="
         },
         {
             "id": "0S000013",
-            "major": "철학과",
+            "department": "철학과",
             "timestamp": "2024-04-17T15:56:18.868255",
             "title": "창업 디지털배지 확대 및 스타트업 마이크로디그리 신설 안내",
+            "keywords": [
+                "철학과",
+                "2024-04-17",
+                "창업"
+            ],
             "url": "http://sophia.khu.ac.kr/?pageid=1&page_id=2782&mod=list"
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2024-04-17T15:56:19.435354",
             "title": "[LINC 3.0] 창업 프로그램 디지털 배지 발급 확대 및 스타트업 마이크로디그리 시행 안내",
+            "keywords": [
+                "호텔관광대학",
+                "2024-04-17",
+                "창업"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-04-17T16:00:01.138321",
             "title": "[최종현학술원] 오프라인 청중 모집 (4.25) - AI, 바이오 특강",
+            "keywords": [
+                "식품영양학과",
+                "2024-04-17",
+                "강연",
+                "모집"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-04-17T16:00:01.138536",
             "title": "[LINC 3.0] 창업 프로그램 디지털 배지 발급 확대 및 스타트업 마이크로디그리 시행 안내",
+            "keywords": [
+                "식품영양학과",
+                "2024-04-17",
+                "창업"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2024-04-17T16:00:01.554711",
             "title": "2024학년도 1학기 중간고사 시험 일정 및 배정 강의실 공지",
+            "keywords": [
+                "경영대학",
+                "2024-04-17",
+                "기타"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2024-04-17T16:01:12.175715",
             "title": "사회복지현장실습 OT 안내(24.05.08(화))",
+            "keywords": [
+                "공공대학원",
+                "2024-04-17",
+                "기타"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000017",
-            "major": "호텔관광대학.일반공지사항",
+            "department": "호텔관광대학.일반공지사항",
             "timestamp": "2024-04-17T16:26:10.872230",
             "title": "[신세계그룹] 신세계 지식향연",
+            "keywords": [
+                "호텔관광대학",
+                "2024-04-17",
+                "기타"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000017",
-            "major": "호텔관광대학.일반공지사항",
+            "department": "호텔관광대학.일반공지사항",
             "timestamp": "2024-04-17T16:26:10.950599",
             "title": "미국 괌 초특급호텔 / 플로리다 힐튼호텔 인턴채용",
+            "keywords": [
+                "호텔관광대학",
+                "2024-04-17",
+                "취업"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000030",
-            "major": "수학과.취업정보",
+            "department": "수학과.취업정보",
             "timestamp": "2024-04-17T16:27:08.221860",
             "title": "2024 콜마그룹 대졸신입사원 공개채용(~4/28)",
+            "keywords": [
+                "수학과",
+                "2024-04-17",
+                "취업"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000030",
-            "major": "수학과.취업정보",
+            "department": "수학과.취업정보",
             "timestamp": "2024-04-17T16:27:08.252861",
             "title": "[GC녹십자] 2024 GC녹십자 채용전제형 인턴 채용(병/의원 영업) (~4/23)",
+            "keywords": [
+                "수학과",
+                "2024-04-17",
+                "취업"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2024-04-17T17:01:58.012898",
             "title": "사회복지현장실습 OT 안내(24.05.08(수))",
+            "keywords": [
+                "공공대학원",
+                "2024-04-17",
+                "기타"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2024-04-17T17:26:44.724975",
             "title": "디지털배지 운영확대 및 스타트업 마이크로디그리 신설 안내",
+            "keywords": [
+                "약학대학",
+                "2024-04-17",
+                "기타"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000051",
-            "major": "경제학과",
+            "department": "경제학과",
             "timestamp": "2024-04-17T23:29:10.457478",
             "title": "2024학년도 1학기 경제학과 졸업시험 안내",
+            "keywords": [
+                "경제학과",
+                "2024-04-17",
+                "졸업"
+            ],
             "url": "https://econ.khu.ac.kr/econ/user/bbs/BMSR00040/list.do?menuNo=4400060&pageIndex=2&searchCondition=&searchKeyword="
         }
     ]

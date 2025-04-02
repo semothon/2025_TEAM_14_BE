@@ -4,233 +4,402 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2025-02-05T23:33:27.730496",
             "title": "오늘의 채용공고가 13건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2025-02-05",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=1"
         },
         {
             "id": "00000076",
-            "major": "중국어학과.취업정보",
+            "department": "중국어학과.취업정보",
             "timestamp": "2025-02-05T09:04:52.733488",
             "title": "[대학내일ES] 마케터,디자이너,영상PD 인턴 대규모 채용 안내(~2.10)",
+            "keywords": [
+                "중국어학과",
+                "2025-02-05",
+                "취업"
+            ],
             "url": "https://zhongwen.khu.ac.kr/zhongwen/user/bbs/BMSR00040/list.do?menuNo=2300012&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2025-02-05T09:34:47.204278",
             "title": "[대학내일ES] 마케터,디자이너,영상PD 인턴 대규모 채용 안내(~2.10)",
+            "keywords": [
+                "프랑스어학과",
+                "2025-02-05",
+                "취업"
+            ],
             "url": "https://france.khu.ac.kr/france/user/bbs/BMSR00040/list.do?menuNo=2600013&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000083",
-            "major": "스페인어학과.취업정보",
+            "department": "스페인어학과.취업정보",
             "timestamp": "2025-02-05T09:34:51.739040",
             "title": "[대학내일ES] 마케터,디자이너,영상PD 인턴 대규모 채용 안내(~2.10)",
+            "keywords": [
+                "스페인어학과",
+                "2025-02-05",
+                "취업"
+            ],
             "url": "https://spanish.khu.ac.kr/spanish/user/bbs/BMSR00040/list.do?menuNo=2500014&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000087",
-            "major": "체육대학원.중요공지",
+            "department": "체육대학원.중요공지",
             "timestamp": "2025-02-05T09:34:59.730147",
             "title": "2025학년도 1학기 재학생(복학생, 장학생 포함) 등록안내",
+            "keywords": [
+                "체육대학원",
+                "2025-02-05",
+                "장학",
+                "휴·복학"
+            ],
             "url": "http://gradsport.khu.ac.kr/bbs/board.php?bo_table=07_01&page=1"
         },
         {
             "id": "0S000077",
-            "major": "교육대학원(서울)",
+            "department": "교육대학원(서울)",
             "timestamp": "2025-02-05T09:39:30.148610",
             "title": "[수강신청] 2025학년도 1학기 수강신청 안내(재학생/신입생)",
+            "keywords": [
+                "교육대학원(서울)",
+                "2025-02-05",
+                "수강신청"
+            ],
             "url": "https://eduseoul.khu.ac.kr/edu_seoul/user/bbs/BMSR00040/list.do?menuNo=12800075&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2025-02-05T09:39:37.194342",
             "title": "2025학년도 1학기 수료자 수강신청 안내",
+            "keywords": [
+                "경영대학원",
+                "2025-02-05",
+                "수강신청"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000058",
-            "major": "정보전자신소재공학과",
+            "department": "정보전자신소재공학과",
             "timestamp": "2025-02-05T10:04:41.868343",
             "title": "졸업 예정 학기 졸업논문(MSE400-00) 수강 안내",
+            "keywords": [
+                "정보전자신소재공학과",
+                "2025-02-05",
+                "논문",
+                "졸업"
+            ],
             "url": "https://amie.khu.ac.kr/amie/user/bbs/BMSR00040/list.do?menuNo=17700015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2025-02-05T10:05:24.202373",
             "title": "[문과대 행정실] 문과대학 세미나실 예약 방법 변경사항 안내",
+            "keywords": [
+                "문과대학",
+                "2025-02-05",
+                "세미나"
+            ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800019&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2025-02-05T10:05:28.464943",
             "title": "[문과대 행정실] 세미나실 및 동관 강의실 예약방법 변경",
+            "keywords": [
+                "영어영문학과",
+                "2025-02-05",
+                "세미나"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000007",
-            "major": "영어영문학과.취업정보",
+            "department": "영어영문학과.취업정보",
             "timestamp": "2025-02-05T10:05:30.875317",
             "title": "(D-5) [KT AIVLE School] 7기 모집(~2/10(월) 17시까지)",
+            "keywords": [
+                "영어영문학과",
+                "2025-02-05",
+                "모집",
+                "취업"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300017&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2025-02-05T10:08:57.639344",
             "title": "[임상] 2025학년도 1학기 3학년 임상실습 배치표 안내(복학생 반영)",
+            "keywords": [
+                "간호과학대학",
+                "2025-02-05",
+                "휴·복학"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000009",
-            "major": "사학과.취업정보",
+            "department": "사학과.취업정보",
             "timestamp": "2025-02-05T10:35:25.835719",
             "title": "[전북연구원] 직원 채용 공고 안내",
+            "keywords": [
+                "사학과",
+                "2025-02-05",
+                "취업"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100038&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2025-02-05T10:39:37.330524",
             "title": "[아산나눔재단] 2025 아산 프론티어 아카데미 온라인 설명회 안내(교육비 전액 지원)",
+            "keywords": [
+                "공공대학원",
+                "2025-02-05",
+                "강연",
+                "온라인"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2025-02-05T10:39:37.379672",
             "title": "[고려대학교 교육문제연구소] 2025년 동계 연구방법론 워크샵 안내",
+            "keywords": [
+                "공공대학원",
+                "2025-02-05",
+                "기타"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2025-02-05T11:03:45.241778",
             "title": "[선수해제] 2025-1학기 전과 및 편입생 선수해제 관련 안내",
+            "keywords": [
+                "전자공학과",
+                "2025-02-05",
+                "기타"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2025-02-05T11:03:45.290300",
             "title": "[장학] 2025학년도 신라문화장학재단 신규장학생 선발",
+            "keywords": [
+                "전자공학과",
+                "2025-02-05",
+                "장학"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2025-02-05T11:39:39.375902",
             "title": "2025학년도 전기 경영대학원 석사과정 신 · 편입생 학번조회 안내",
+            "keywords": [
+                "경영대학원",
+                "2025-02-05",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2025-02-05T13:39:28.721936",
             "title": "2025학년도 전기 입학식 안내",
+            "keywords": [
+                "경영대학원",
+                "2025-02-05",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000011",
-            "major": "문과대학.장학정보",
+            "department": "문과대학.장학정보",
             "timestamp": "2025-02-05T14:35:27.568777",
             "title": "[장학] 2025-1학기 국가장학금 2차 신청 및 학자금대출 신청 안내",
+            "keywords": [
+                "문과대학",
+                "2025-02-05",
+                "장학"
+            ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800034&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000015",
-            "major": "호텔관광대학.장학공지사항",
+            "department": "호텔관광대학.장학공지사항",
             "timestamp": "2025-02-05T14:35:29.700416",
             "title": "2025학년도 1학기 국가장학금 신청 안내(2차) 및 학자금대출 신청 안내",
+            "keywords": [
+                "호텔관광대학",
+                "2025-02-05",
+                "장학"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900109&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2025-02-05T15:05:14.412596",
             "title": "문과대학 세미나실(동관 포함) 예약 방법 변경 안내",
+            "keywords": [
+                "사학과",
+                "2025-02-05",
+                "세미나"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2025-02-05T15:05:14.412653",
             "title": "문과대학 세미나실(동관 포함) 예약 방법 변경 안내",
+            "keywords": [
+                "사학과",
+                "2025-02-05",
+                "세미나"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2025-02-05T15:05:45.688065",
             "title": "2025-1학기 국가장학금 2차 신청 및 학자금대출 신청",
+            "keywords": [
+                "약학대학",
+                "2025-02-05",
+                "장학"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000043",
-            "major": "정경대학.장학안내",
+            "department": "정경대학.장학안내",
             "timestamp": "2025-02-05T15:07:37.049255",
             "title": "<2025-1학기 학자금대출 신청 안내>",
+            "keywords": [
+                "정경대학",
+                "2025-02-05",
+                "장학"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500021&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000043",
-            "major": "정경대학.장학안내",
+            "department": "정경대학.장학안내",
             "timestamp": "2025-02-05T15:07:37.075837",
             "title": "<2025-1학기 국가장학금 2차 신청 안내>",
+            "keywords": [
+                "정경대학",
+                "2025-02-05",
+                "장학"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500021&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000078",
-            "major": "교육대학원(국제)",
+            "department": "교육대학원(국제)",
             "timestamp": "2025-02-05T16:39:24.127612",
             "title": "2025학년도 1학기  재학생 등록 안내(2025.02.24~2.28)",
+            "keywords": [
+                "교육대학원(국제)",
+                "2025-02-05",
+                "기타"
+            ],
             "url": "https://eduglobal.khu.ac.kr/edu_global/user/bbs/BMSR00040/list.do?menuNo=12900045&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000078",
-            "major": "교육대학원(국제)",
+            "department": "교육대학원(국제)",
             "timestamp": "2025-02-05T16:39:24.127669",
             "title": "2025년도 교육대학원 교원임용고사반 입실원 모집 공고",
+            "keywords": [
+                "교육대학원(국제)",
+                "2025-02-05",
+                "모집"
+            ],
             "url": "https://eduglobal.khu.ac.kr/edu_global/user/bbs/BMSR00040/list.do?menuNo=12900045&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2025-02-05T17:35:22.050974",
             "title": "세마니실, 동관강의실 예약방법 변경",
+            "keywords": [
+                "응용영어통번역학과",
+                "2025-02-05",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000019",
-            "major": "우정원",
+            "department": "우정원",
             "timestamp": "2025-02-05T18:00:24.398207",
             "title": "[2/6~7] 왁스작업으로 인한 기숙사 내 일부 구역 출입 및 통행 제한 안내NEW",
+            "keywords": [
+                "우정원",
+                "2025-02-05",
+                "기숙사"
+            ],
             "url": "https://wjwdorm.khu.ac.kr/60/6010.kmc"
         },
         {
             "id": "0S000037",
-            "major": "정보디스플레이학과",
+            "department": "정보디스플레이학과",
             "timestamp": "2025-02-05T18:07:05.095244",
             "title": "[삼성디스플레이] 2025년 상반기 대학생 초청행사 안내",
+            "keywords": [
+                "정보디스플레이학과",
+                "2025-02-05",
+                "행사"
+            ],
             "url": "https://display.khu.ac.kr/display/user/bbs/BMSR00040/list.do?menuNo=3500019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000021",
-            "major": "중앙도서관(국제)",
+            "department": "중앙도서관(국제)",
             "timestamp": "2025-02-05T20:00:29.902736",
             "title": "[서울] 중앙도서관 열람실 휴실 안내(2/6, 목)",
+            "keywords": [
+                "중앙도서관(국제)",
+                "2025-02-05",
+                "기타"
+            ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         },
         {
             "id": "0S000001",
-            "major": "중앙도서관(서울)",
+            "department": "중앙도서관(서울)",
             "timestamp": "2025-02-05T20:05:15.121023",
             "title": "[서울] 중앙도서관 열람실 휴실 안내(2/6, 목)",
+            "keywords": [
+                "중앙도서관(서울)",
+                "2025-02-05",
+                "기타"
+            ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         }
     ]

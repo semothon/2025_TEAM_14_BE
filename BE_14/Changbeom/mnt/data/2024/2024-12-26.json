@@ -4,149 +4,256 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-12-26T23:33:09.995161",
             "title": "오늘의 채용공고가 12건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-12-26",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=1"
         },
         {
             "id": "00000084",
-            "major": "스페인어학과.자유게시판",
+            "department": "스페인어학과.자유게시판",
             "timestamp": "2024-12-26T09:34:28.911503",
             "title": "<전국 스페인어 계열 학과 학부생 포스터 공모전>에 우리 학과 학생 참여 및 수상",
+            "keywords": [
+                "스페인어학과",
+                "2024-12-26",
+                "공모전"
+            ],
             "url": "https://spanish.khu.ac.kr/spanish/user/bbs/BMSR00040/list.do?menuNo=2500039&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000092",
-            "major": "국제교육원",
+            "department": "국제교육원",
             "timestamp": "2024-12-26T10:04:49.573262",
             "title": "[한국어교육부] ※겨울방학 온라인 특강 개설※ N",
+            "keywords": [
+                "국제교육원",
+                "2024-12-26",
+                "강연",
+                "온라인"
+            ],
             "url": "https://iie.khu.ac.kr//bbs/board.php?bo_table=notice_temp&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-12-26T10:38:02.102658",
             "title": "[장학] [장학] 2025학년도 1학기 교내장학금(우정장학 포함) 신청 안내",
+            "keywords": [
+                "간호과학대학",
+                "2024-12-26",
+                "장학"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "00000007",
-            "major": "컴퓨터공학부.취업",
+            "department": "컴퓨터공학부.취업",
             "timestamp": "2024-12-26T11:00:07.280654",
             "title": "[채용] 25년 갈렙에이비씨 채용 (접수 기간: - 01/31)",
+            "keywords": [
+                "컴퓨터공학부",
+                "2024-12-26",
+                "취업"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2024-12-26T11:08:38.850110",
             "title": "[대학원혁신지원사업단] 2025년 1월 영어논문교정(editage) 지원사업 안내",
+            "keywords": [
+                "공공대학원",
+                "2024-12-26",
+                "논문"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2024-12-26T11:35:18.754667",
             "title": "약학대학 70주년 기념 재학생 UCC 공모전",
+            "keywords": [
+                "약학대학",
+                "2024-12-26",
+                "공모전"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000066",
-            "major": "의상학과",
+            "department": "의상학과",
             "timestamp": "2024-12-26T11:38:02.609270",
             "title": "2024학년도 의상학과 특성화장학 선발",
+            "keywords": [
+                "의상학과",
+                "2024-12-26",
+                "장학"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700064&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000079",
-            "major": "러시아어학과.자유게시판",
+            "department": "러시아어학과.자유게시판",
             "timestamp": "2024-12-26T13:34:28.389598",
             "title": "[자유전공학부] 멘토 모집 공고문 안내",
+            "keywords": [
+                "러시아어학과",
+                "2024-12-26",
+                "모집"
+            ],
             "url": "https://russia.khu.ac.kr/russia/user/bbs/BMSR00040/list.do?menuNo=2400018&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-12-26T14:00:03.117341",
             "title": "[미래혁신단 심리상담센터(국제)] 2024학년도 이용 수기 공모전",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-12-26",
+                "공모전"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1996"
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2024-12-26T14:33:31.876909",
             "title": "[홍보] 2024학년도 미래혁신단 심리상담센터 이용 수기 공모전",
+            "keywords": [
+                "전자공학과",
+                "2024-12-26",
+                "공모전"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000072",
-            "major": "국제대학원",
+            "department": "국제대학원",
             "timestamp": "2024-12-26T14:38:18.327032",
             "title": "2025-1 Magnolia Scholarship / 2025학년도 1학기 목련장학 신청 안내",
+            "keywords": [
+                "국제대학원",
+                "2024-12-26",
+                "장학"
+            ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000072",
-            "major": "국제대학원",
+            "department": "국제대학원",
             "timestamp": "2024-12-26T14:38:18.410240",
             "title": "Application for the 2025-1 GSP Scholarship / 2025학년도 1학기 국제대학원 장학금 신청 안내",
+            "keywords": [
+                "국제대학원",
+                "2024-12-26",
+                "장학"
+            ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000072",
-            "major": "국제대학원",
+            "department": "국제대학원",
             "timestamp": "2024-12-26T14:38:18.831170",
             "title": "2025-1 Magnolia Scholarship / 2025학년도 1학기 목련장학 신청 안내",
+            "keywords": [
+                "국제대학원",
+                "2024-12-26",
+                "장학"
+            ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000010",
-            "major": "문과대학.취업정보",
+            "department": "문과대학.취업정보",
             "timestamp": "2024-12-26T15:04:50.459393",
             "title": "[(주)바디프랜드] 연말정산 아르바이트 채용 (~1/17)",
+            "keywords": [
+                "문과대학",
+                "2024-12-26",
+                "취업"
+            ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800035&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000020",
-            "major": "제2기숙사",
+            "department": "제2기숙사",
             "timestamp": "2024-12-26T15:30:25.521208",
             "title": "생활관(제2기숙사) 2025-1학기 제1차 입사 신청 안내",
+            "keywords": [
+                "제2기숙사",
+                "2024-12-26",
+                "기숙사"
+            ],
             "url": "https://dorm2.khu.ac.kr/40/4010.kmc"
         },
         {
             "id": "0S000019",
-            "major": "무용학부.자유게시판",
+            "department": "무용학부.자유게시판",
             "timestamp": "2024-12-26T15:35:14.474133",
             "title": "교수법 특강 ‘내 강의에서 장애학생과 함께할 수 있는 적용 방법의 실제와 전략’ 안내",
+            "keywords": [
+                "무용학부",
+                "2024-12-26",
+                "강연"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00041/list.do?menuNo=300046&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000064",
-            "major": "환경학및환경공학과",
+            "department": "환경학및환경공학과",
             "timestamp": "2024-12-26T16:34:20.090500",
             "title": "2024학년도 교수법 특강‘내 강의에서 장애학생과 함께할 수 있는 적용 방법의 실제와 전략’",
+            "keywords": [
+                "환경학및환경공학과",
+                "2024-12-26",
+                "강연"
+            ],
             "url": "https://env.khu.ac.kr/env/user/bbs/BMSR00040/list.do?menuNo=18000015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000079",
-            "major": "러시아어학과.자유게시판",
+            "department": "러시아어학과.자유게시판",
             "timestamp": "2024-12-26T17:04:32.226344",
             "title": "K-MOVE 해외취업 연수 과정 홍보",
+            "keywords": [
+                "러시아어학과",
+                "2024-12-26",
+                "연수",
+                "취업"
+            ],
             "url": "https://russia.khu.ac.kr/russia/user/bbs/BMSR00040/list.do?menuNo=2400018&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2024-12-26T17:04:55.937004",
             "title": "[경희대 인문학연구] 62호 원고모집 안내",
+            "keywords": [
+                "사학과",
+                "2024-12-26",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2024-12-26T17:08:49.203323",
             "title": "[시흥시정연구원] 2025년도 제1차 직원 채용 공고(연구직 및 일반직)",
+            "keywords": [
+                "공공대학원",
+                "2024-12-26",
+                "취업"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         }
     ]

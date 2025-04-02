@@ -4,9 +4,14 @@
     "stacks": [
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2023-11-19T08:00:05.663627",
             "title": "경희대 소융 위치",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-11-19",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=638"
         }
     ]

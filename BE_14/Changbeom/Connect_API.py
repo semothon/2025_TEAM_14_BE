@@ -2,21 +2,13 @@ import requests
 import os
 import json
 from datetime import datetime, timedelta
-
-def IdToMajor(id):
-    with open("./세모톤/BE_14/Changbeom/departments.json", "r", encoding="utf-8") as f: ###############상대경로##################
-        departments = json.load(f)
-
-    # name 필드 복원
-    for dept in departments:
-        if id != dept["id"]:
-            continue
-        else:
-            return dept["name"]
+from keyfilter import IdToMajor, allkeywords
 
 url_basic = "http://163.180.142.196:9090/today_api/"
 date = datetime.strptime("2023-01-01", "%Y-%m-%d")
 tomorrow = (datetime.today() + timedelta(days=1)).strftime("%Y-%m-%d")[:10]
+
+etc_items = []
 
 while (date.strftime("%Y-%m-%d")[:10] != tomorrow):
     date_str = str(date)[:10]
@@ -43,11 +35,14 @@ while (date.strftime("%Y-%m-%d")[:10] != tomorrow):
                     "department": IdToMajor(item[0]),
                     "timestamp": item[1],
                     "title": item[2],
+                    "keywords": allkeywords(item),
                     "url": item[3]
                 }
                 for item in filtered_stacks
             ]
         }
+
+        
 
         # 디렉토리 없으면 생성
         output_dir = f"./세모톤/BE_14/Changbeom/mnt/data/{date_str[:4]}" ###############상대경로###############
@@ -59,8 +54,24 @@ while (date.strftime("%Y-%m-%d")[:10] != tomorrow):
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(filtered_data, f, ensure_ascii=False, indent=4)
 
+        # "keywords"에 "기타"가 포함된 항목만 따로 추출
+        etc_items += [item for item in filtered_data["stacks"] if "기타" in item["keywords"]]
+        
         output_path
     except:
         pass
 
+    """
+    if etc_items:
+        etc_data = {
+            "stacks": etc_items
+        }
+        etc_output_path = "./세모톤/BE_14/Changbeom/mnt/data/etc.json"
+
+        with open(etc_output_path, "w", encoding="utf-8") as f:
+            json.dump(etc_data, f, ensure_ascii=False, indent=4)
+
+        output_path
+    """
+    
     date += timedelta(days=1)

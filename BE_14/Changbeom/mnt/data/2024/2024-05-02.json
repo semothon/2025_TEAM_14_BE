@@ -4,219 +4,381 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-05-02T23:06:34.857493",
             "title": "오늘의 채용공고가 19건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-05-02",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=2"
         },
         {
             "id": "00000007",
-            "major": "컴퓨터공학부.취업",
+            "department": "컴퓨터공학부.취업",
             "timestamp": "2024-05-02T09:00:12.119671",
             "title": "[홍보] 한국SW기술협회 취업예정자 대상 교육과정 홍보 (교육 기간: 06/10 - 11/14)",
+            "keywords": [
+                "컴퓨터공학부",
+                "2024-05-02",
+                "취업"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000023",
-            "major": "음악대학.자유게시판",
+            "department": "음악대학.자유게시판",
             "timestamp": "2024-05-02T09:27:26.492727",
             "title": "경희대학교 통근 및 캠퍼스간 셔틀버스 운행 만족도 조사",
+            "keywords": [
+                "음악대학",
+                "2024-05-02",
+                "설국버스"
+            ],
             "url": "http://music.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005001"
         },
         {
             "id": "0S000038",
-            "major": "지리학과",
+            "department": "지리학과",
             "timestamp": "2024-05-02T09:28:27.678605",
             "title": "2024학년도 1학기 경희대학교 통근 및 캠퍼스간 셔틀버스 만족도 조사",
+            "keywords": [
+                "지리학과",
+                "2024-05-02",
+                "설국버스"
+            ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600055&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000031",
-            "major": "체육대학",
+            "department": "체육대학",
             "timestamp": "2024-05-02T09:34:41.040495",
             "title": "2024학년도 진로상담교수제(담임교수상담) 마일리지 장학 적용 안내",
+            "keywords": [
+                "체육대학",
+                "2024-05-02",
+                "장학"
+            ],
             "url": "http://sports.khu.ac.kr/bbs/board.php?bo_table=05_01&page=1"
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2024-05-02T09:37:11.700229",
             "title": "[홍보] 2024년 5월 목공융합 창의인성 메이커 프로그램 참여자 모집(접수기간: 04/30~05/05)",
+            "keywords": [
+                "전자공학과",
+                "2024-05-02",
+                "모집"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2024-05-02T09:37:11.730978",
             "title": "[홍보] 2024년 4월~5월 메이커제작장비 활용과정 프로그램 참여자 모집(~5/2 금)",
+            "keywords": [
+                "전자공학과",
+                "2024-05-02",
+                "모집"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000035",
-            "major": "생물학과.세미나/특강",
+            "department": "생물학과.세미나/특강",
             "timestamp": "2024-05-02T09:58:03.095779",
             "title": "2024 국제교육원 외국어강좌 봄 2차 수강생 모집 안내",
+            "keywords": [
+                "생물학과",
+                "2024-05-02",
+                "모집"
+            ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900032&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000017",
-            "major": "호텔관광대학.일반공지사항",
+            "department": "호텔관광대학.일반공지사항",
             "timestamp": "2024-05-02T10:26:14.190706",
             "title": "[미래인재센터] 2024 상반기 동문멘토와 함께하는 경희대학교 Job Festival (~5/7까지 신청연장)",
+            "keywords": [
+                "호텔관광대학",
+                "2024-05-02",
+                "기타"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000035",
-            "major": "생물학과.세미나/특강",
+            "department": "생물학과.세미나/특강",
             "timestamp": "2024-05-02T10:27:31.321612",
             "title": "2024 상반기 『동문멘토와 함께하는 경희대학교 Job Festival』 안내",
+            "keywords": [
+                "생물학과",
+                "2024-05-02",
+                "기타"
+            ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900032&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000073",
-            "major": "미디어커뮤니케이션대학원",
+            "department": "미디어커뮤니케이션대학원",
             "timestamp": "2024-05-02T11:01:35.248120",
             "title": "경희대학교 통근 및 캠퍼스간 셔틀버스 운행 만족도 조사 N",
+            "keywords": [
+                "미디어커뮤니케이션대학원",
+                "2024-05-02",
+                "설국버스"
+            ],
             "url": "https://communication.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-02T11:30:02.894277",
             "title": "2024학년도 하계 전공연수 프로그램 신청 안내(24.05.07.(화) 기간연장)",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-02",
+                "연수"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1707"
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2024-05-02T11:36:33.586173",
             "title": "[홍보] 2024-1학기 경희대학교 셔틀버스 만족도 조사(조사기간:05/01~05/10)",
+            "keywords": [
+                "전자공학과",
+                "2024-05-02",
+                "설국버스"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2024-05-02T13:26:14.877371",
             "title": "[국제C 총무팀] 2024학년도 1학기 경희대학교 캠퍼스간 셔틀버스 만족도조사",
+            "keywords": [
+                "호텔관광대학",
+                "2024-05-02",
+                "설국버스"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-02T13:30:04.187310",
             "title": "[홍보] 경희대학교 통근 및 캠퍼스간 셔틀버스 운행 만족도 조사",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-02",
+                "설국버스"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1708"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-02T14:00:02.540882",
             "title": "2024학년도 진로상담교수제(담임교수상담) 마일리지 장학 적용 안내",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-02",
+                "장학"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1709"
         },
         {
             "id": "00000007",
-            "major": "컴퓨터공학부.취업",
+            "department": "컴퓨터공학부.취업",
             "timestamp": "2024-05-02T14:00:10.810488",
             "title": "[인턴] 현대케피코 여름계절학기 현장실습 인턴 (접수 기간: - 05/06)",
+            "keywords": [
+                "컴퓨터공학부",
+                "2024-05-02",
+                "계절학기",
+                "취업"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2024-05-02T14:00:13.490015",
             "title": "기상청 데이터 활용 및 대용량 제공 서비스 안내",
+            "keywords": [
+                "경영대학",
+                "2024-05-02",
+                "기타"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-05-02T14:28:17.827474",
             "title": "[캡슐미디어] 한국문화정보원 문화PD 22기 모집 홍보 안내",
+            "keywords": [
+                "정경대학",
+                "2024-05-02",
+                "모집",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-02T14:30:02.433313",
             "title": "[홍보] 2024년 5월 목공 융합 창의인성 메이커 프로그램 참여자 모집",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-02",
+                "모집"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1710"
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2024-05-02T14:30:25.598537",
             "title": "[간호대학원] 2024학년도 1학기 간호대학원 논문심사비 납부 안내",
+            "keywords": [
+                "간호대학원",
+                "2024-05-02",
+                "논문"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-02T15:00:01.695042",
             "title": "[홍보] [산학연계현장실습센터] 현대케피코 2024년 여름계절학기 현장실습 인턴 모집 ",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-02",
+                "계절학기",
+                "모집"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1712"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-02T15:00:01.695208",
             "title": "[홍보] 2024년 5월 메이커 제작장비 활용과정 2회차 프로그램 참여자 모집",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-02",
+                "모집"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1711"
         },
         {
             "id": "00000007",
-            "major": "컴퓨터공학부.취업",
+            "department": "컴퓨터공학부.취업",
             "timestamp": "2024-05-02T15:00:07.600599",
             "title": "[채용] UNDP 서울정책센터 Data and Digital Innovation Fellow 모집 (지원 기간: - 05/11 13시 KST)",
+            "keywords": [
+                "컴퓨터공학부",
+                "2024-05-02",
+                "모집",
+                "취업"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000026",
-            "major": "국제대학.채용.인턴.활동",
+            "department": "국제대학.채용.인턴.활동",
             "timestamp": "2024-05-02T15:04:16.086111",
             "title": "KHU Careers Editor 10기 참여자 모집 안내",
+            "keywords": [
+                "국제대학",
+                "2024-05-02",
+                "모집",
+                "취업"
+            ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2024-05-02T15:36:45.663235",
             "title": "[홍보][산학연계현장실습센터] 현대케피코 2024년 여름계절학기 현장실습 인턴 모집",
+            "keywords": [
+                "전자공학과",
+                "2024-05-02",
+                "계절학기",
+                "모집"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000020",
-            "major": "제2기숙사",
+            "department": "제2기숙사",
             "timestamp": "2024-05-02T16:03:26.994985",
             "title": "제2기숙사 정기소독 및 호실점검 실시 안내",
+            "keywords": [
+                "제2기숙사",
+                "2024-05-02",
+                "기숙사"
+            ],
             "url": "https://dorm2.khu.ac.kr/40/4010.kmc"
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2024-05-02T16:06:42.671433",
             "title": "[홍보] 10기 KHU Careers Editor 미래인재센터 취업홍보단",
+            "keywords": [
+                "전자공학과",
+                "2024-05-02",
+                "취업"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-02T16:30:03.052741",
             "title": "[홍보] 교내프로그램 홍보 프로젝트 KHU Careers Editor 양성과정 (경희대학교 국제캠퍼스 취업프로그램 홍보단) 10기 참여자 모집",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-02",
+                "모집",
+                "취업"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1713"
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2024-05-02T16:37:28.730265",
             "title": "2024학년도 진로상담교수제(담임교수상담) 마일리지 장학 적용 안내",
+            "keywords": [
+                "전자공학과",
+                "2024-05-02",
+                "장학"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000016",
-            "major": "호텔관광대학.학과공지사항",
+            "department": "호텔관광대학.학과공지사항",
             "timestamp": "2024-05-02T16:57:16.135129",
             "title": "[조리&푸드디자인학과] 교촌 에프엔비 여름학기 단기현장실습 모집(~5/16 15:00까지)",
+            "keywords": [
+                "호텔관광대학",
+                "2024-05-02",
+                "모집"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900110&pageIndex=1&searchCondition=&searchKeyword="
         }
     ]

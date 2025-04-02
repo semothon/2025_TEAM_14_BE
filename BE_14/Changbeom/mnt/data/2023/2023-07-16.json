@@ -4,9 +4,14 @@
     "stacks": [
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2023-07-16T16:00:33.712608",
             "title": "공개강의 질문",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-07-16",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=624"
         }
     ]

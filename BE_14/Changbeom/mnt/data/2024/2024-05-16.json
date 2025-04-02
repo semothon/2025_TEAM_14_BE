@@ -4,317 +4,548 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-05-16T23:06:33.480748",
             "title": "오늘의 채용공고가 41건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-05-16",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=3"
         },
         {
             "id": "00000040",
-            "major": "미래인재센터.추천채용",
+            "department": "미래인재센터.추천채용",
             "timestamp": "2024-05-16T23:06:37.438753",
             "title": "오늘의 추천채용이 2건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-05-16",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&page=1"
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-05-16T09:26:46.191082",
             "title": "2024학년도 봄 대동제 행사 안내",
+            "keywords": [
+                "무용학부",
+                "2024-05-16",
+                "행사"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-16T09:30:03.413958",
             "title": "[홍보] 커리어 부트캠프 온라인 멘토링 서비스",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-16",
+                "온라인"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1723"
         },
         {
             "id": "00000042",
-            "major": "생체의공학과.취업",
+            "department": "생체의공학과.취업",
             "timestamp": "2024-05-16T09:36:43.281592",
             "title": "[홍보] 커리어 부트캠프 온라인 멘토링 서비스",
+            "keywords": [
+                "생체의공학과",
+                "2024-05-16",
+                "온라인",
+                "취업"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2024-05-16T09:36:55.409451",
             "title": "[홍보] 커리어 부트캠프 온라인 멘토링 서비스",
+            "keywords": [
+                "전자공학과",
+                "2024-05-16",
+                "온라인"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-05-16T09:56:52.726719",
             "title": "2024학년도 봄 대동제 행사 안내(교내 차량통제)",
+            "keywords": [
+                "무용학부",
+                "2024-05-16",
+                "행사"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-05-16T09:56:52.948293",
             "title": "코로나19 백신 공결제도 폐지 안내 (2024.05.13~방역지침 변경 시까지)",
+            "keywords": [
+                "무용학부",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000032",
-            "major": "화학과",
+            "department": "화학과",
             "timestamp": "2024-05-16T09:57:51.353533",
             "title": "2024학년도 하계 해외전공연수 프로그램 취소 안내",
+            "keywords": [
+                "화학과",
+                "2024-05-16",
+                "연수"
+            ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-05-16T10:00:26.526885",
             "title": "2024년도 환경데이터 활용 및 분석 공모전 안내",
+            "keywords": [
+                "식품영양학과",
+                "2024-05-16",
+                "공모전"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000047",
-            "major": "우주과학과.장학",
+            "department": "우주과학과.장학",
             "timestamp": "2024-05-16T10:37:04.795225",
             "title": "2024년 국가우수장학금(이공계) 성적우수유형 선발",
+            "keywords": [
+                "우주과학과",
+                "2024-05-16",
+                "성적",
+                "장학"
+            ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200045&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-16T11:00:02.939676",
             "title": "2024년 국가우수장학금(이공계) 재학중우수자(2년 지원) 유형 장학생 선발 안내 (~2024.05.17.(금) 17:00까지)   ※ 3학년만 지원가능",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-16",
+                "장학"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1725"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-16T11:00:02.939858",
             "title": "2024년 국가우수장학금(이공계) 성적우수 유형 장학생 선발 안내 (~2024.05.22.(수) 17:00까지)   ※ 2024년도 신입생만 지원가능",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-16",
+                "성적",
+                "장학"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1724"
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2024-05-16T11:01:55.855112",
             "title": "2024학년도 봄 대동제 행사 교통 통제 안내(5/22-24)",
+            "keywords": [
+                "공공대학원",
+                "2024-05-16",
+                "행사"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000047",
-            "major": "우주과학과.장학",
+            "department": "우주과학과.장학",
             "timestamp": "2024-05-16T11:06:57.195863",
             "title": "2024년 국가우수장학금(이공계) 재학중우수자 유형 선발",
+            "keywords": [
+                "우주과학과",
+                "2024-05-16",
+                "장학"
+            ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200045&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000022",
-            "major": "음악대학",
+            "department": "음악대학",
             "timestamp": "2024-05-16T11:27:04.424091",
             "title": "코로나19 위기단계 하향에 따른 학사운영 변경사항 안내",
+            "keywords": [
+                "음악대학",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "http://music.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005013"
         },
         {
             "id": "0S000028",
-            "major": "수학과",
+            "department": "수학과",
             "timestamp": "2024-05-16T11:27:29.415007",
             "title": "2024학년도 1학기 수학과 졸업시험 재시험 일정 공지 (대상자에게 별도 연락 예정)",
+            "keywords": [
+                "수학과",
+                "2024-05-16",
+                "졸업"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600017&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-05-16T11:30:09.439011",
             "title": "[임상] 2024학년도 1학기 3학년 아동간호학실습1 1,2차 실습 공지",
+            "keywords": [
+                "간호과학대학",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-05-16T11:30:09.458626",
             "title": "[일반] 삼성행복대상 청소년상 안내",
+            "keywords": [
+                "간호과학대학",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-05-16T11:30:10.104386",
             "title": "[임상] 2024학년도 1학기 3학년 아동간호학실습1 1,2차 실습 공지",
+            "keywords": [
+                "간호과학대학",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-05-16T11:30:10.117031",
             "title": "[일반] 삼성행복대상 청소년상 안내",
+            "keywords": [
+                "간호과학대학",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2024-05-16T11:36:33.181826",
             "title": "[장학]2024년 국가우수장학금(이공계) 신규장학생 선발",
+            "keywords": [
+                "전자공학과",
+                "2024-05-16",
+                "장학"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000056",
-            "major": "국제통상-금융투자학부",
+            "department": "국제통상-금융투자학부",
             "timestamp": "2024-05-16T13:59:11.105382",
             "title": "2024학년도 여름학기 희망과목담기 개설과목 공고",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2024-05-16",
+                "수강신청"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000056",
-            "major": "국제통상-금융투자학부",
+            "department": "국제통상-금융투자학부",
             "timestamp": "2024-05-16T13:59:11.487334",
             "title": "2024학년도 여름학기 희망과목담기 개설과목 공고",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2024-05-16",
+                "수강신청"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2024-05-16T13:59:16.464419",
             "title": "[일반] [국립중앙의료원] 2024년「미래 공공의료인력 양성을 위한 대학생 커리어패스 코칭 캠프(의과대학)」참여기관 모집 안내",
+            "keywords": [
+                "의과대학",
+                "2024-05-16",
+                "모집"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-05-16T14:01:07.223950",
             "title": "[안내] 2024학년도 봄 대동제 및 교통통제 안내",
+            "keywords": [
+                "경영대학원",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-05-16T14:01:07.224896",
             "title": "[안내] 2024학년도 봄 대동제 및 교통통제 안내",
+            "keywords": [
+                "경영대학원",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-05-16T14:05:56.539949",
             "title": "★필독★ [국가장학금] 2024-2학기 국가장학금 1차 신청 안내(5/21(화)9시~6/20(목)18시)",
+            "keywords": [
+                "미래혁신원",
+                "2024-05-16",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2024-05-16T14:06:10.037765",
             "title": "[학생지원센터(장학)]2024년 국가우수장학금(이공계) 성적우수 유형 장학생 선발 안내",
+            "keywords": [
+                "생체의공학과",
+                "2024-05-16",
+                "성적",
+                "장학"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2024-05-16T14:29:08.529452",
             "title": "[일반] 서울대학교 융합과학기술대학원 2024학년도 하계 융합연구프로그램 안내",
+            "keywords": [
+                "의과대학",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-05-16T14:29:50.613422",
             "title": "[2024 법정의무교육] 직장 내 장애인 인식개선 교육 및 사회적 장애인식개선 교육 실시(온라인)",
+            "keywords": [
+                "식품영양학과",
+                "2024-05-16",
+                "온라인"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-05-16T14:31:07.644003",
             "title": "2024학년도 후기 경영대학원 외국인전형 면접전형 안내; 2024学年度后期 经营大学院 外国人专项 面试指南",
+            "keywords": [
+                "경영대학원",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-05-16T14:31:07.645201",
             "title": "2024학년도 후기 경영대학원 외국인전형 면접전형 안내; 2024学年度后期 经营大学院 外国人专项 面试指南",
+            "keywords": [
+                "경영대학원",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2024-05-16T14:36:39.185437",
             "title": "[학생지원센터(장학)] 2024년 국가우수장학금(이공계) 재학중우수자 유형 선발 안내",
+            "keywords": [
+                "생체의공학과",
+                "2024-05-16",
+                "장학"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2024-05-16T15:00:58.913442",
             "title": "코로나19 감염증 대응을 위한 출석인정 대책 및 코로나19 백신 공결제도 폐지 안내",
+            "keywords": [
+                "경영대학",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2024-05-16T15:36:32.405381",
             "title": "[공지] 코로나19 위기단계 하향에 따른 수업 운영 안내",
+            "keywords": [
+                "전자공학과",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2024-05-16T15:36:32.464853",
             "title": "[공지] 코로나19 감염증 대응을 위한 출석인정 대책 및 코로나19 백신 공결제도 폐지 안내",
+            "keywords": [
+                "전자공학과",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-05-16T15:59:18.589175",
             "title": "명화공업(주) 추천채용 안내 (5/21화 오전 10시까지)",
+            "keywords": [
+                "정경대학",
+                "2024-05-16",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-16T16:00:04.661776",
             "title": "코로나19 감염증 대응을 위한 출석인정 대책 및 코로나19 백신 공결제도 폐지 안내",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1726"
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-05-16T16:00:58.124281",
             "title": "2024년 경상북도 식품박람회 개최 안내 및 참관(참여)",
+            "keywords": [
+                "식품영양학과",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000035",
-            "major": "대학주보.헤드라인",
+            "department": "대학주보.헤드라인",
             "timestamp": "2024-05-16T16:05:59.090521",
             "title": "서울캠 잡페스티벌 개최, 1:1멘토링과 동문 특강 진행",
+            "keywords": [
+                "대학주보",
+                "2024-05-16",
+                "강연"
+            ],
             "url": "http://media.khu.ac.kr/khunews/list.asp?code1=1012006022801&code2=&headline=&section=&auth=&page=1&field=&flag=&issue_date_split=&search_text1=&search=&keyword="
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-05-16T16:28:30.661313",
             "title": "명화공업(주) 추천채용 안내 (5/21 화 오전 10시까지)",
+            "keywords": [
+                "정경대학",
+                "2024-05-16",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-16T16:30:04.941426",
             "title": "코로나19 위기단계 하향에 따른 수업 운영 안내",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-16",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1727"
         },
         {
             "id": "0S000056",
-            "major": "국제통상-금융투자학부",
+            "department": "국제통상-금융투자학부",
             "timestamp": "2024-05-16T17:29:52.743370",
             "title": "2024학년도 하계 계절학기 희망과목담기 개설과목 공고",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2024-05-16",
+                "계절학기",
+                "수강신청"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000056",
-            "major": "국제통상-금융투자학부",
+            "department": "국제통상-금융투자학부",
             "timestamp": "2024-05-16T17:29:53.090921",
             "title": "2024학년도 하계 계절학기 희망과목담기 개설과목 공고",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2024-05-16",
+                "계절학기",
+                "수강신청"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=notice&page=1"
         }
     ]

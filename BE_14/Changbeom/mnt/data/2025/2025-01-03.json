@@ -4,870 +4,1550 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2025-01-03T23:33:12.124678",
             "title": "오늘의 채용공고가 17건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2025-01-03",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=2"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2025-01-03T09:34:49.019809",
             "title": "<2025학년도 1학기 재학생(복학생)·수료생 등록일정 및 분할납부 신청 안내>",
+            "keywords": [
+                "국어국문학과",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "https://com.khu.ac.kr/gukmun/user/bbs/BMSR00040/list.do?menuNo=16000042&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2025-01-03T09:37:55.975617",
             "title": "[일반] 2025년 서울대학교병원 국가재난응급의료 기초교육(BDLS) 훈련과정 강좌 안내",
+            "keywords": [
+                "의과대학",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000077",
-            "major": "교육대학원(서울)",
+            "department": "교육대학원(서울)",
             "timestamp": "2025-01-03T09:38:35.208724",
             "title": "2024학년도 동계방학 교육학 특강(권지수) 수강료 지원 신청 안내(~01/09)",
+            "keywords": [
+                "교육대학원(서울)",
+                "2025-01-03",
+                "강연"
+            ],
             "url": "https://eduseoul.khu.ac.kr/edu_seoul/user/bbs/BMSR00040/list.do?menuNo=12800075&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000032",
-            "major": "체육대학.채용정보",
+            "department": "체육대학.채용정보",
             "timestamp": "2025-01-03T10:01:26.848087",
             "title": "2024학년도 동계방학 <스포츠 분야 취업 정보 및 분야별 특강> 안내",
+            "keywords": [
+                "체육대학",
+                "2025-01-03",
+                "강연",
+                "취업"
+            ],
             "url": "http://sports.khu.ac.kr/bbs/board.php?bo_table=05_03&page=1"
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2025-01-03T10:04:49.094377",
             "title": "[대학원혁신기획] Khreative U+마음챙김 특강 안내",
+            "keywords": [
+                "문과대학",
+                "2025-01-03",
+                "강연"
+            ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800019&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000013",
-            "major": "철학과",
+            "department": "철학과",
             "timestamp": "2025-01-03T10:04:56.849333",
             "title": "「2024 경희대학교 미래대학 교육혁신 모델 구축을 위한 설문조사」 실시 안내 및 홍보",
+            "keywords": [
+                "철학과",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/sophia/user/bbs/BMSR00040/list.do?menuNo=16200007&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000039",
-            "major": "지리학과.취업공지",
+            "department": "지리학과.취업공지",
             "timestamp": "2025-01-03T10:06:42.229980",
             "title": "[재단법인 미래와소프트웨어] 정보보안 SW 웹/앱 개발 공모전",
+            "keywords": [
+                "지리학과",
+                "2025-01-03",
+                "공모전",
+                "취업"
+            ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600057&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2025-01-03T10:08:27.461479",
             "title": "[일반] [대학원혁신기획] Khreative U+ 마음챙김 특강 안내",
+            "keywords": [
+                "간호대학원",
+                "2025-01-03",
+                "강연"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "00000031",
-            "major": "체육대학",
+            "department": "체육대학",
             "timestamp": "2025-01-03T10:31:18.830845",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "체육대학",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "http://sports.khu.ac.kr/bbs/board.php?bo_table=05_01&page=1"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2025-01-03T10:34:46.566169",
             "title": "2025학년도 1학기 일반대학원 휴·복학 신청 안내",
+            "keywords": [
+                "사학과",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2025-01-03T10:34:46.566227",
             "title": "2025학년도 1학기 재학생(복학생)·수료생 등록일정 및 분할납부 신청 안내",
+            "keywords": [
+                "사학과",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2025-01-03T10:34:46.566279",
             "title": "2024 경희대학교 미래대학 교육혁신 모델 구축을 위한 설문조사 실시 안내",
+            "keywords": [
+                "사학과",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000051",
-            "major": "경제학과",
+            "department": "경제학과",
             "timestamp": "2025-01-03T10:37:26.969441",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "경제학과",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "https://econ.khu.ac.kr/econ/user/bbs/BMSR00040/list.do?menuNo=4400060&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000054",
-            "major": "무역학과",
+            "department": "무역학과",
             "timestamp": "2025-01-03T10:37:39.910260",
             "title": "학사ㅣ2025학년도 1학기 수강희망과목담기 안내",
+            "keywords": [
+                "무역학과",
+                "2025-01-03",
+                "수강신청"
+            ],
             "url": "http://trade.khu.ac.kr/trade/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000054",
-            "major": "무역학과",
+            "department": "무역학과",
             "timestamp": "2025-01-03T10:37:39.930753",
             "title": "학사ㅣ2025학년도 1학기 복학 신청 안내(기간엄수)",
+            "keywords": [
+                "무역학과",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "http://trade.khu.ac.kr/trade/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2025-01-03T10:38:27.114817",
             "title": "[간호대학원] 대학원 혁신기획 Khreative U+ 마음챙김 특강 안내",
+            "keywords": [
+                "간호대학원",
+                "2025-01-03",
+                "강연"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2025-01-03T10:38:27.126113",
             "title": "[간호대학원] 재단법인 미래와 소프트웨어 정보보안 sw 웹/앱 개발 공모전 안내",
+            "keywords": [
+                "간호대학원",
+                "2025-01-03",
+                "공모전"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2025-01-03T10:38:34.416898",
             "title": "[대학원혁신기획팀] Khreative U+ 마음챙김 특강 안내",
+            "keywords": [
+                "공공대학원",
+                "2025-01-03",
+                "강연"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000086",
-            "major": "아트퓨전디자인대학원",
+            "department": "아트퓨전디자인대학원",
             "timestamp": "2025-01-03T11:04:32.324155",
             "title": "2025학년도 1학기 목련장학 선발 시행 안내",
+            "keywords": [
+                "아트퓨전디자인대학원",
+                "2025-01-03",
+                "장학"
+            ],
             "url": "/bbs/board.php?bo_table=06_01&wr_id=501&page=1"
         },
         {
             "id": "00000086",
-            "major": "아트퓨전디자인대학원",
+            "department": "아트퓨전디자인대학원",
             "timestamp": "2025-01-03T11:04:32.324362",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "아트퓨전디자인대학원",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "/bbs/board.php?bo_table=06_01&wr_id=500&page=1"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2025-01-03T11:04:52.162553",
             "title": "「2024 경희대학교 미래대학 교육혁신 모델 구축을 위한 설문조사」 실시 안내 및 홍보",
+            "keywords": [
+                "영어영문학과",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2025-01-03T11:07:04.709929",
             "title": "[한국원자력통제기술원] 2025년도 한국원자력통제기술원 정규직 채용 공고",
+            "keywords": [
+                "정경대학",
+                "2025-01-03",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000054",
-            "major": "무역학과",
+            "department": "무역학과",
             "timestamp": "2025-01-03T11:07:44.304408",
             "title": "학사ㅣ2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "무역학과",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "http://trade.khu.ac.kr/trade/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2025-01-03T11:37:04.847888",
             "title": "[에이블리] 채용 연계형 인턴 공고 안내",
+            "keywords": [
+                "정경대학",
+                "2025-01-03",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2025-01-03T12:03:47.889478",
             "title": "[학사] 2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "생체의공학과",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2025-01-03T12:09:02.344139",
             "title": "[일반] [일반] 2025학년도 1학기 일반대학원 재학생(복학생)·수료생 등록일정 및 분할납부 신청 안내",
+            "keywords": [
+                "간호대학원",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2025-01-03T13:33:27.903939",
             "title": "[학사] 2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "전자공학과",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000021",
-            "major": "미술대학",
+            "department": "미술대학",
             "timestamp": "2025-01-03T13:35:26.501000",
             "title": "2025학년도 1학기 복학 신청 안내문",
+            "keywords": [
+                "미술대학",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "https://khuart.khu.ac.kr/khuart/user/bbs/BMSR00040/list.do?menuNo=1400031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000074",
-            "major": "법학전문대학원",
+            "department": "법학전문대학원",
             "timestamp": "2025-01-03T13:38:28.995410",
             "title": "2025년도 제14회 변호사시험 관련 법학관 이용 안내",
+            "keywords": [
+                "법학전문대학원",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://law.khu.ac.kr/bbs/board.php?bo_table=07_01_01&page=1"
         },
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2025-01-03T14:00:28.384852",
             "title": "<스포츠 분야 취업 정보 및 분야별 특강> 안내",
+            "keywords": [
+                "공과대학",
+                "2025-01-03",
+                "강연",
+                "취업"
+            ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100020&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000025",
-            "major": "국제대학",
+            "department": "국제대학",
             "timestamp": "2025-01-03T14:01:06.453975",
             "title": "2025학년도 1학기 학부 수강신청 안내",
+            "keywords": [
+                "국제대학",
+                "2025-01-03",
+                "수강신청"
+            ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000001",
-            "major": "중앙도서관(서울)",
+            "department": "중앙도서관(서울)",
             "timestamp": "2025-01-03T14:04:47.881572",
             "title": "[법학도서관] 법학도서관 휴관 안내(1/13월~1/17금)",
+            "keywords": [
+                "중앙도서관(서울)",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         },
         {
             "id": "00000021",
-            "major": "중앙도서관(국제)",
+            "department": "중앙도서관(국제)",
             "timestamp": "2025-01-03T14:30:29.548772",
             "title": "[법학도서관] 법학도서관 휴관 안내(1/13월~1/17금)",
+            "keywords": [
+                "중앙도서관(국제)",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         },
         {
             "id": "00000044",
-            "major": "전자공학과.취업",
+            "department": "전자공학과.취업",
             "timestamp": "2025-01-03T14:33:33.615788",
             "title": "2024학년도 겨울학기 International Project 운영 실무 역량 강화 및 스펙 만들기 심화 과정 참여자 모집 및 홍보",
+            "keywords": [
+                "전자공학과",
+                "2025-01-03",
+                "모집",
+                "취업"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900038&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000068",
-            "major": "원자력공학과",
+            "department": "원자력공학과",
             "timestamp": "2025-01-03T14:34:23.349304",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "원자력공학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://ne.khu.ac.kr/ne/user/bbs/BMSR00040/list.do?menuNo=17500023&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000070",
-            "major": "프랑스어학과",
+            "department": "프랑스어학과",
             "timestamp": "2025-01-03T14:34:25.174519",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "프랑스어학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://france.khu.ac.kr/france/user/bbs/BMSR00040/list.do?menuNo=2600010&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000082",
-            "major": "스페인어학과",
+            "department": "스페인어학과",
             "timestamp": "2025-01-03T14:34:30.805215",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "스페인어학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://spanish.khu.ac.kr/spanish/user/bbs/BMSR00040/list.do?menuNo=2500012&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000085",
-            "major": "스마트팜학과",
+            "department": "스마트팜학과",
             "timestamp": "2025-01-03T14:34:33.083769",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "스마트팜학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://smartfarmsci.khu.ac.kr/smartfarm/user/bbs/BMSR00040/list.do?menuNo=9400021"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2025-01-03T14:34:51.422048",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "사학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2025-01-03T14:34:52.903610",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "영어영문학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2025-01-03T14:34:54.301201",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "응용영어통번역학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2025-01-03T14:37:17.068455",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "행정학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000060",
-            "major": "한의과대학",
+            "department": "한의과대학",
             "timestamp": "2025-01-03T14:37:56.129658",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "한의과대학",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://kmc.khu.ac.kr/kmc_kor/user/bbs/BMSR00040/list.do?menuNo=4200052&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2025-01-03T14:38:04.766211",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "식품영양학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000069",
-            "major": "자연사박물관",
+            "department": "자연사박물관",
             "timestamp": "2025-01-03T14:38:06.480241",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "자연사박물관",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://nhm.khu.ac.kr/nhm_kor/user/bbs/BMSR00040/list.do?menuNo=7400020&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000077",
-            "major": "교육대학원(서울)",
+            "department": "교육대학원(서울)",
             "timestamp": "2025-01-03T14:38:33.169281",
             "title": "2024학년도 동계방학 중 교육대학원 행정실 단축근무 시행",
+            "keywords": [
+                "교육대학원(서울)",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://eduseoul.khu.ac.kr/edu_seoul/user/bbs/BMSR00040/list.do?menuNo=12800075&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2025-01-03T15:00:02.221359",
             "title": "[학사] 2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2025-01-03",
+                "휴·복학"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=2002"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2025-01-03T15:00:02.221537",
             "title": "2024학년도 겨울학기 International Project 운영 실무 역량 강화 및 스펙 만들기 심화 과정 참여자 모집",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=2001"
         },
         {
             "id": "00000002",
-            "major": "소프트웨어융합대학",
+            "department": "소프트웨어융합대학",
             "timestamp": "2025-01-03T15:00:11.911428",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "소프트웨어융합대학",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://software.khu.ac.kr/software/user/bbs/BMSR00040/list.do?menuNo=1700014&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000002",
-            "major": "소프트웨어융합대학",
+            "department": "소프트웨어융합대학",
             "timestamp": "2025-01-03T15:00:11.911623",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "소프트웨어융합대학",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://software.khu.ac.kr/software/user/bbs/BMSR00040/list.do?menuNo=1700014&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000006",
-            "major": "컴퓨터공학부",
+            "department": "컴퓨터공학부",
             "timestamp": "2025-01-03T15:00:18.710441",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "컴퓨터공학부",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600045&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000006",
-            "major": "컴퓨터공학부",
+            "department": "컴퓨터공학부",
             "timestamp": "2025-01-03T15:00:18.710642",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "컴퓨터공학부",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600045&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000009",
-            "major": "산업경영공학과",
+            "department": "산업경영공학과",
             "timestamp": "2025-01-03T15:00:21.525677",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "산업경영공학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://ie.khu.ac.kr/ie/user/bbs/BMSR00040/list.do?menuNo=17400015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000009",
-            "major": "산업경영공학과",
+            "department": "산업경영공학과",
             "timestamp": "2025-01-03T15:00:21.525743",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "산업경영공학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://ie.khu.ac.kr/ie/user/bbs/BMSR00040/list.do?menuNo=17400015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000011",
-            "major": "기계공학과",
+            "department": "기계공학과",
             "timestamp": "2025-01-03T15:00:23.927757",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "기계공학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://me.khu.ac.kr/me/user/bbs/BMSR00040/list.do?menuNo=17300015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000011",
-            "major": "기계공학과",
+            "department": "기계공학과",
             "timestamp": "2025-01-03T15:00:23.927823",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "기계공학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://me.khu.ac.kr/me/user/bbs/BMSR00040/list.do?menuNo=17300015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000015",
-            "major": "글로벌커뮤니케이션학부",
+            "department": "글로벌커뮤니케이션학부",
             "timestamp": "2025-01-03T15:00:27.438868",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "글로벌커뮤니케이션학부",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://deptofenglish.khu.ac.kr/deptofenglish/user/bbs/BMSR00040/list.do?menuNo=2100013&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000015",
-            "major": "글로벌커뮤니케이션학부",
+            "department": "글로벌커뮤니케이션학부",
             "timestamp": "2025-01-03T15:00:27.438933",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "글로벌커뮤니케이션학부",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://deptofenglish.khu.ac.kr/deptofenglish/user/bbs/BMSR00040/list.do?menuNo=2100013&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000021",
-            "major": "중앙도서관(국제)",
+            "department": "중앙도서관(국제)",
             "timestamp": "2025-01-03T15:00:37.451961",
             "title": "2024년 중앙도서관(서울) 만족도 설문조사 당첨자 경품 수령 안내 [~1/17까지]",
+            "keywords": [
+                "중앙도서관(국제)",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         },
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2025-01-03T15:00:39.068862",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "공과대학",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100020&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2025-01-03T15:00:39.068926",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "공과대학",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100020&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2025-01-03T15:01:27.031045",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "응용과학대학",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2025-01-03T15:01:27.031107",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "응용과학대학",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000029",
-            "major": "전자정보대학",
+            "department": "전자정보대학",
             "timestamp": "2025-01-03T15:01:29.016301",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "전자정보대학",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://eni.khu.ac.kr/eni/user/bbs/BMSR00040/list.do?menuNo=2000020&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000029",
-            "major": "전자정보대학",
+            "department": "전자정보대학",
             "timestamp": "2025-01-03T15:01:29.016364",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "전자정보대학",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://eni.khu.ac.kr/eni/user/bbs/BMSR00040/list.do?menuNo=2000020&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2025-01-03T15:03:22.719722",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "미래혁신원",
+                "2025-01-03",
+                "국제교류",
+                "모집",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2025-01-03T15:03:22.719984",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "미래혁신원",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2025-01-03T15:03:33.429878",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "생체의공학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2025-01-03T15:03:33.429943",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "생체의공학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2025-01-03T15:03:33.430243",
             "title": "2024학년도 겨울학기 International Project 운영 실무 역량 강화 및 스펙 만들기 심화 과정 참여자 모집",
+            "keywords": [
+                "생체의공학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000055",
-            "major": "후마니타스대학",
+            "department": "후마니타스대학",
             "timestamp": "2025-01-03T15:04:27.938955",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "후마니타스대학",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://hc.khu.ac.kr/hc_kor/user/bbs/BMSR00040/list.do?menuNo=4300048&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000055",
-            "major": "후마니타스대학",
+            "department": "후마니타스대학",
             "timestamp": "2025-01-03T15:04:27.939018",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "후마니타스대학",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://hc.khu.ac.kr/hc_kor/user/bbs/BMSR00040/list.do?menuNo=4300048&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000055",
-            "major": "후마니타스대학",
+            "department": "후마니타스대학",
             "timestamp": "2025-01-03T15:04:27.939074",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "후마니타스대학",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://hc.khu.ac.kr/hc_kor/user/bbs/BMSR00040/list.do?menuNo=4300048&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000056",
-            "major": "화학공학과",
+            "department": "화학공학과",
             "timestamp": "2025-01-03T15:04:29.302077",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "화학공학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://chemeng.khu.ac.kr/chemeng/user/bbs/BMSR00040/list.do?menuNo=17600017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000056",
-            "major": "화학공학과",
+            "department": "화학공학과",
             "timestamp": "2025-01-03T15:04:29.302141",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "화학공학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://chemeng.khu.ac.kr/chemeng/user/bbs/BMSR00040/list.do?menuNo=17600017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000056",
-            "major": "화학공학과",
+            "department": "화학공학과",
             "timestamp": "2025-01-03T15:04:29.302207",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "화학공학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://chemeng.khu.ac.kr/chemeng/user/bbs/BMSR00040/list.do?menuNo=17600017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000058",
-            "major": "정보전자신소재공학과",
+            "department": "정보전자신소재공학과",
             "timestamp": "2025-01-03T15:04:31.046876",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "정보전자신소재공학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://amie.khu.ac.kr/amie/user/bbs/BMSR00040/list.do?menuNo=17700015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000058",
-            "major": "정보전자신소재공학과",
+            "department": "정보전자신소재공학과",
             "timestamp": "2025-01-03T15:04:31.046942",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "정보전자신소재공학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://amie.khu.ac.kr/amie/user/bbs/BMSR00040/list.do?menuNo=17700015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000058",
-            "major": "정보전자신소재공학과",
+            "department": "정보전자신소재공학과",
             "timestamp": "2025-01-03T15:04:31.047009",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "정보전자신소재공학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://amie.khu.ac.kr/amie/user/bbs/BMSR00040/list.do?menuNo=17700015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000060",
-            "major": "사회기반시스템공학과",
+            "department": "사회기반시스템공학과",
             "timestamp": "2025-01-03T15:04:32.950782",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "사회기반시스템공학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://civileng.khu.ac.kr/civileng/user/bbs/BMSR00040/list.do?menuNo=17800016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000060",
-            "major": "사회기반시스템공학과",
+            "department": "사회기반시스템공학과",
             "timestamp": "2025-01-03T15:04:32.950852",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "사회기반시스템공학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://civileng.khu.ac.kr/civileng/user/bbs/BMSR00040/list.do?menuNo=17800016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000060",
-            "major": "사회기반시스템공학과",
+            "department": "사회기반시스템공학과",
             "timestamp": "2025-01-03T15:04:32.950921",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "사회기반시스템공학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://civileng.khu.ac.kr/civileng/user/bbs/BMSR00040/list.do?menuNo=17800016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000062",
-            "major": "건축공학과",
+            "department": "건축공학과",
             "timestamp": "2025-01-03T15:04:34.873647",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "건축공학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://archieng.khu.ac.kr/archieng/user/bbs/BMSR00040/list.do?menuNo=17900015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000062",
-            "major": "건축공학과",
+            "department": "건축공학과",
             "timestamp": "2025-01-03T15:04:34.873712",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "건축공학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://archieng.khu.ac.kr/archieng/user/bbs/BMSR00040/list.do?menuNo=17900015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000062",
-            "major": "건축공학과",
+            "department": "건축공학과",
             "timestamp": "2025-01-03T15:04:34.873780",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "건축공학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://archieng.khu.ac.kr/archieng/user/bbs/BMSR00040/list.do?menuNo=17900015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000064",
-            "major": "환경학및환경공학과",
+            "department": "환경학및환경공학과",
             "timestamp": "2025-01-03T15:04:36.678462",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "환경학및환경공학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://env.khu.ac.kr/env/user/bbs/BMSR00040/list.do?menuNo=18000015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000064",
-            "major": "환경학및환경공학과",
+            "department": "환경학및환경공학과",
             "timestamp": "2025-01-03T15:04:36.678527",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "환경학및환경공학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://env.khu.ac.kr/env/user/bbs/BMSR00040/list.do?menuNo=18000015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000064",
-            "major": "환경학및환경공학과",
+            "department": "환경학및환경공학과",
             "timestamp": "2025-01-03T15:04:36.678595",
             "title": "[국제C 테크노경영대학원]2025-1학기 교육조교(TA) 모집",
+            "keywords": [
+                "환경학및환경공학과",
+                "2025-01-03",
+                "모집"
+            ],
             "url": "https://env.khu.ac.kr/env/user/bbs/BMSR00040/list.do?menuNo=18000015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000068",
-            "major": "원자력공학과",
+            "department": "원자력공학과",
             "timestamp": "2025-01-03T15:04:39.331388",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "원자력공학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://ne.khu.ac.kr/ne/user/bbs/BMSR00040/list.do?menuNo=17500023&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000068",
-            "major": "원자력공학과",
+            "department": "원자력공학과",
             "timestamp": "2025-01-03T15:04:39.331454",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "원자력공학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://ne.khu.ac.kr/ne/user/bbs/BMSR00040/list.do?menuNo=17500023&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000070",
-            "major": "프랑스어학과",
+            "department": "프랑스어학과",
             "timestamp": "2025-01-03T15:04:41.133426",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "프랑스어학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://france.khu.ac.kr/france/user/bbs/BMSR00040/list.do?menuNo=2600010&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000070",
-            "major": "프랑스어학과",
+            "department": "프랑스어학과",
             "timestamp": "2025-01-03T15:04:41.133490",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "프랑스어학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://france.khu.ac.kr/france/user/bbs/BMSR00040/list.do?menuNo=2600010&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000082",
-            "major": "스페인어학과",
+            "department": "스페인어학과",
             "timestamp": "2025-01-03T15:04:46.770314",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "스페인어학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://spanish.khu.ac.kr/spanish/user/bbs/BMSR00040/list.do?menuNo=2500012&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000082",
-            "major": "스페인어학과",
+            "department": "스페인어학과",
             "timestamp": "2025-01-03T15:04:46.770376",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "스페인어학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://spanish.khu.ac.kr/spanish/user/bbs/BMSR00040/list.do?menuNo=2500012&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000085",
-            "major": "스마트팜학과",
+            "department": "스마트팜학과",
             "timestamp": "2025-01-03T15:04:49.188357",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "스마트팜학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://smartfarmsci.khu.ac.kr/smartfarm/user/bbs/BMSR00040/list.do?menuNo=9400021"
         },
         {
             "id": "00000085",
-            "major": "스마트팜학과",
+            "department": "스마트팜학과",
             "timestamp": "2025-01-03T15:04:49.188419",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "스마트팜학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://smartfarmsci.khu.ac.kr/smartfarm/user/bbs/BMSR00040/list.do?menuNo=9400021"
         },
         {
             "id": "0S000001",
-            "major": "중앙도서관(서울)",
+            "department": "중앙도서관(서울)",
             "timestamp": "2025-01-03T15:05:05.050177",
             "title": "[당첨자 안내] 2024년 서울 중앙도서관 만족도 설문조사 당첨자 경품 수령 안내 [~1/17까지]",
+            "keywords": [
+                "중앙도서관(서울)",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2025-01-03T15:05:07.415763",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "사학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2025-01-03T15:05:07.415829",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "사학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2025-01-03T15:05:08.777776",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "영어영문학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2025-01-03T15:05:08.777841",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "영어영문학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2025-01-03T15:05:10.149720",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "응용영어통번역학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2025-01-03T15:05:10.149787",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "응용영어통번역학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2025-01-03T15:07:31.770793",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "행정학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2025-01-03T15:07:31.770855",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "행정학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000060",
-            "major": "한의과대학",
+            "department": "한의과대학",
             "timestamp": "2025-01-03T15:08:09.872062",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "한의과대학",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://kmc.khu.ac.kr/kmc_kor/user/bbs/BMSR00040/list.do?menuNo=4200052&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000060",
-            "major": "한의과대학",
+            "department": "한의과대학",
             "timestamp": "2025-01-03T15:08:09.872131",
             "title": "★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "한의과대학",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://kmc.khu.ac.kr/kmc_kor/user/bbs/BMSR00040/list.do?menuNo=4200052&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2025-01-03T15:08:18.184921",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "식품영양학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2025-01-03T15:08:18.185175",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "식품영양학과",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000069",
-            "major": "자연사박물관",
+            "department": "자연사박물관",
             "timestamp": "2025-01-03T15:08:20.362442",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "자연사박물관",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://nhm.khu.ac.kr/nhm_kor/user/bbs/BMSR00040/list.do?menuNo=7400020&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000069",
-            "major": "자연사박물관",
+            "department": "자연사박물관",
             "timestamp": "2025-01-03T15:08:20.362687",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t★[서울C] 2025-1학기 국제교류팀 교육조교(TA) I형 모집★",
+            "keywords": [
+                "자연사박물관",
+                "2025-01-03",
+                "국제교류",
+                "모집"
+            ],
             "url": "https://nhm.khu.ac.kr/nhm_kor/user/bbs/BMSR00040/list.do?menuNo=7400020&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000002",
-            "major": "소프트웨어융합대학",
+            "department": "소프트웨어융합대학",
             "timestamp": "2025-01-03T15:30:04.098263",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "소프트웨어융합대학",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://software.khu.ac.kr/software/user/bbs/BMSR00040/list.do?menuNo=1700014&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000006",
-            "major": "컴퓨터공학부",
+            "department": "컴퓨터공학부",
             "timestamp": "2025-01-03T15:30:10.574055",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "컴퓨터공학부",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600045&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000009",
-            "major": "산업경영공학과",
+            "department": "산업경영공학과",
             "timestamp": "2025-01-03T15:30:12.804074",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "산업경영공학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://ie.khu.ac.kr/ie/user/bbs/BMSR00040/list.do?menuNo=17400015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000011",
-            "major": "기계공학과",
+            "department": "기계공학과",
             "timestamp": "2025-01-03T15:30:14.596198",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "기계공학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://me.khu.ac.kr/me/user/bbs/BMSR00040/list.do?menuNo=17300015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000015",
-            "major": "글로벌커뮤니케이션학부",
+            "department": "글로벌커뮤니케이션학부",
             "timestamp": "2025-01-03T15:30:17.548430",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "글로벌커뮤니케이션학부",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://deptofenglish.khu.ac.kr/deptofenglish/user/bbs/BMSR00040/list.do?menuNo=2100013&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2025-01-03T15:30:29.067463",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "공과대학",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100020&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2025-01-03T15:31:15.337996",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "응용과학대학",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000029",
-            "major": "전자정보대학",
+            "department": "전자정보대학",
             "timestamp": "2025-01-03T15:31:17.096949",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "전자정보대학",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://eni.khu.ac.kr/eni/user/bbs/BMSR00040/list.do?menuNo=2000020&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2025-01-03T15:33:12.210177",
             "title": "\n공통\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "미래혁신원",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2025-01-03T15:33:22.746336",
             "title": "★[서울C] 2025-1학기 국제화 업무 지원 장학생 모집★",
+            "keywords": [
+                "생체의공학과",
+                "2025-01-03",
+                "모집",
+                "장학"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000021",
-            "major": "중앙도서관(국제)",
+            "department": "중앙도서관(국제)",
             "timestamp": "2025-01-03T16:30:30.161876",
             "title": "[서울] 법학도서관 휴관 안내(1/13월~1/17금)",
+            "keywords": [
+                "중앙도서관(국제)",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         },
         {
             "id": "0S000001",
-            "major": "중앙도서관(서울)",
+            "department": "중앙도서관(서울)",
             "timestamp": "2025-01-03T16:34:57.147910",
             "title": "[서울] 법학도서관 휴관 안내(1/13월~1/17금)",
+            "keywords": [
+                "중앙도서관(서울)",
+                "2025-01-03",
+                "기타"
+            ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         }
     ]

@@ -4,23 +4,38 @@
     "stacks": [
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-11-23T11:37:52.346750",
             "title": "2024-2 석사학위논문 심사위원 및 일정 안내",
+            "keywords": [
+                "경영대학원",
+                "2024-11-23",
+                "논문"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-11-23T16:34:31.819728",
             "title": "캡스톤 디자인 교과목 운영 안내(2025학년도 1학기)",
+            "keywords": [
+                "무용학부",
+                "2024-11-23",
+                "기타"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-11-23T16:34:31.846244",
             "title": "수강신청 일정(2025학년도 1학기)",
+            "keywords": [
+                "무용학부",
+                "2024-11-23",
+                "수강신청"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         }
     ]

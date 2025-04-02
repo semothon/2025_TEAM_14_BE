@@ -4,23 +4,38 @@
     "stacks": [
         {
             "id": "00000093",
-            "major": "대학생활(학사)",
+            "department": "대학생활(학사)",
             "timestamp": "2023-07-29T13:35:19.543324",
             "title": "(캠퍼스:공통) [국제] 2023학년도 후기(2023년 8월) 학위수여...",
+            "keywords": [
+                "대학생활(학사)",
+                "2023-07-29",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=UNDERGRADUATE&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2023-07-29T19:10:35.671506",
             "title": "[임상] 2023학년도 3학년 3차& 4차 성인간호학실습1 공지",
+            "keywords": [
+                "간호과학대학",
+                "2023-07-29",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2023-07-29T19:10:35.903410",
             "title": "[임상] 2023학년도 3학년 3차& 4차 성인간호학실습1 공지",
+            "keywords": [
+                "간호과학대학",
+                "2023-07-29",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         }
     ]

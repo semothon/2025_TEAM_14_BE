@@ -4,65 +4,112 @@
     "stacks": [
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2024-02-02T00:00:56.460752",
             "title": "동계집중휴무기간(1/29~2/2) 학생회관 식당 미운영 공지",
+            "keywords": [
+                "학생회관(국제)",
+                "2024-02-02",
+                "학생회"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "0S000083",
-            "major": "생활협동조합(서울).주간식당메뉴",
+            "department": "생활협동조합(서울).주간식당메뉴",
             "timestamp": "2024-02-02T00:16:44.170693",
             "title": "2월 1주차 청운관식당(학생/교직원) 주간메뉴표",
+            "keywords": [
+                "생활협동조합(서울)",
+                "2024-02-02",
+                "학식"
+            ],
             "url": "https://coop.khu.ac.kr/9%ec%9b%94-3%ec%a3%bc%ec%b0%a8-%ec%a3%bc%ea%b0%84%eb%a9%94%eb%89%b4%ed%91%9c-2-copy-copy/"
         },
         {
             "id": "00000098",
-            "major": "대학생활(포커스)",
+            "department": "대학생활(포커스)",
             "timestamp": "2024-02-02T08:38:15.181621",
             "title": "『예술·디자인학연구』 한국연구재단 등재지 선정",
+            "keywords": [
+                "대학생활(포커스)",
+                "2024-02-02",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/focus/list.do?page=1&condition=all&pageSize=15&tps=15"
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-02-02T10:02:56.594608",
             "title": "[공통][교외] 2024년 상반기 바로바로론 사랑나눔 장학생 모집 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-02-02",
+                "모집",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-02-02T10:02:56.597373",
             "title": "[공통][교외] 2024년 상반기 바로바로론 사랑나눔 장학생 모집 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-02-02",
+                "모집",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000095",
-            "major": "대학생활(장학)",
+            "department": "대학생활(장학)",
             "timestamp": "2024-02-02T10:07:42.161198",
             "title": "(캠퍼스:공통) [공통][교외] 2024년 상반기 바로바로론 사랑나눔 ...",
+            "keywords": [
+                "대학생활(장학)",
+                "2024-02-02",
+                "장학"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=SCHOLARSHIP&page=1"
         },
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2024-02-02T11:30:57.910738",
             "title": "주간식단표 240205-0208",
+            "keywords": [
+                "학생회관(국제)",
+                "2024-02-02",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-02-02T17:33:41.460336",
             "title": "[서울_국가근로} 2024-1학기 학기중 국가근로장학(교내외기관) 최종선발자 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-02-02",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-02-02T17:33:41.463235",
             "title": "[서울_국가근로} 2024-1학기 학기중 국가근로장학(교내외기관) 최종선발자 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-02-02",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         }
     ]

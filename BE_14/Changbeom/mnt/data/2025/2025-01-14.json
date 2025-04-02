@@ -4,121 +4,211 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2025-01-14T23:33:13.258465",
             "title": "오늘의 채용공고가 17건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2025-01-14",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=2"
         },
         {
             "id": "00000077",
-            "major": "한국어학과.취업정보",
+            "department": "한국어학과.취업정보",
             "timestamp": "2025-01-14T09:04:29.343009",
             "title": "[HD현대] 2025년 1학기 HD현대 현장실습학기제 모집 (~1/22)",
+            "keywords": [
+                "한국어학과",
+                "2025-01-14",
+                "모집",
+                "취업"
+            ],
             "url": "https://korean.khu.ac.kr/korean/user/bbs/BMSR00040/list.do?menuNo=4500012&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000077",
-            "major": "한국어학과.취업정보",
+            "department": "한국어학과.취업정보",
             "timestamp": "2025-01-14T09:04:29.343063",
             "title": "[넥슨] 메이플 대학생 게임 커리어 캠프, 메토링 2기 모집(~1.20까지)",
+            "keywords": [
+                "한국어학과",
+                "2025-01-14",
+                "모집",
+                "취업"
+            ],
             "url": "https://korean.khu.ac.kr/korean/user/bbs/BMSR00040/list.do?menuNo=4500012&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000014",
-            "major": "일본어학과.취업정보",
+            "department": "일본어학과.취업정보",
             "timestamp": "2025-01-14T09:30:19.056817",
             "title": "[HD현대] 2025년 1학기 HD현대 현장실습학기제 모집",
+            "keywords": [
+                "일본어학과",
+                "2025-01-14",
+                "모집",
+                "취업"
+            ],
             "url": "https://japanese.khu.ac.kr/japanese/user/bbs/BMSR00040/list.do?menuNo=2200016&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000015",
-            "major": "글로벌커뮤니케이션학부",
+            "department": "글로벌커뮤니케이션학부",
             "timestamp": "2025-01-14T09:30:20.479412",
             "title": "[HD현대] 2025년 1학기 HD현대 현장실습학기제 모집 (~1/22)",
+            "keywords": [
+                "글로벌커뮤니케이션학부",
+                "2025-01-14",
+                "모집"
+            ],
             "url": "https://deptofenglish.khu.ac.kr/deptofenglish/user/bbs/BMSR00040/list.do?menuNo=2100013&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000039",
-            "major": "지리학과.취업공지",
+            "department": "지리학과.취업공지",
             "timestamp": "2025-01-14T09:36:40.854898",
             "title": "KT AIVLE School (에이블스쿨) 7기 모집(~2/10(월) 17시까지)",
+            "keywords": [
+                "지리학과",
+                "2025-01-14",
+                "모집",
+                "취업"
+            ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600057&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2025-01-14T10:00:28.742869",
             "title": "2025-1학기 성적향상장학금 신청 안내",
+            "keywords": [
+                "공과대학",
+                "2025-01-14",
+                "성적",
+                "장학"
+            ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100020&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000058",
-            "major": "정보전자신소재공학과",
+            "department": "정보전자신소재공학과",
             "timestamp": "2025-01-14T11:04:17.949797",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "정보전자신소재공학과",
+                "2025-01-14",
+                "휴·복학"
+            ],
             "url": "https://amie.khu.ac.kr/amie/user/bbs/BMSR00040/list.do?menuNo=17700015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000081",
-            "major": "행복기숙사",
+            "department": "행복기숙사",
             "timestamp": "2025-01-14T11:38:39.540685",
             "title": "[아름원 A동] 12월 상벌점 안내NEW A사감M1 2025-01-1",
+            "keywords": [
+                "행복기숙사",
+                "2025-01-14",
+                "기숙사"
+            ],
             "url": "https://happydorm.khu.ac.kr/60/6010.kmc"
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2025-01-14T12:04:43.709066",
             "title": "[문과대 행정실] 2025학년도 1학기 문과대학 응용영어통번역학과 조교 추가 모집",
+            "keywords": [
+                "문과대학",
+                "2025-01-14",
+                "모집"
+            ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800019&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2025-01-14T12:04:43.709127",
             "title": "[문과대 행정실] 2025학년도 1학기 문과대학 행정실 조교 모집",
+            "keywords": [
+                "문과대학",
+                "2025-01-14",
+                "모집"
+            ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800019&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2025-01-14T12:05:13.009290",
             "title": "2024-2학기 해봉장학기금 장학생 선발안내",
+            "keywords": [
+                "약학대학",
+                "2025-01-14",
+                "장학"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2025-01-14T14:05:07.894957",
             "title": "해봉장학기금 장학 신청 안내(2024-2학기)",
+            "keywords": [
+                "무용학부",
+                "2025-01-14",
+                "장학"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000089",
-            "major": "동서의학대학원",
+            "department": "동서의학대학원",
             "timestamp": "2025-01-14T14:34:43.188268",
             "title": "2025학년도 전기 수시 신·편입학전형 면접고사 안내",
+            "keywords": [
+                "동서의학대학원",
+                "2025-01-14",
+                "기타"
+            ],
             "url": "http://gsm.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2025-01-14T15:04:49.490729",
             "title": "[문과대 행정실] 2025학년도 1학기 문과대학 철학과 조교 추가 모집",
+            "keywords": [
+                "문과대학",
+                "2025-01-14",
+                "모집"
+            ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800019&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000025",
-            "major": "국제대학",
+            "department": "국제대학",
             "timestamp": "2025-01-14T15:31:03.130807",
             "title": "2025학년도 1학기 타전공 과목 국제학과 전공학점 인정 신청",
+            "keywords": [
+                "국제대학",
+                "2025-01-14",
+                "기타"
+            ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2025-01-14T16:37:47.332245",
             "title": "[장학] [간호과학대학] 2024-2학기 해봉장학기금 장학생 선발안내",
+            "keywords": [
+                "간호과학대학",
+                "2025-01-14",
+                "장학"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         }
     ]

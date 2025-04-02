@@ -4,9 +4,14 @@
     "stacks": [
         {
             "id": "00000035",
-            "major": "대학주보.헤드라인",
+            "department": "대학주보.헤드라인",
             "timestamp": "2023-12-03T15:31:50.862340",
             "title": "제56대 서울캠퍼스 총학생회 선거 KHUBE(큐브) 선...",
+            "keywords": [
+                "대학주보",
+                "2023-12-03",
+                "학생회"
+            ],
             "url": "http://media.khu.ac.kr/khunews/list.asp?code1=1012006022801&code2=&headline=&section=&auth=&page=1&field=&flag=&issue_date_split=&search_text1=&search=&keyword="
         }
     ]

@@ -4,16 +4,27 @@
     "stacks": [
         {
             "id": "00000026",
-            "major": "국제대학.채용.인턴.활동",
+            "department": "국제대학.채용.인턴.활동",
             "timestamp": "2024-10-03T11:01:12.414869",
             "title": "2024년 KOICA 캄보디아 프로젝트 봉사단 1기 모집",
+            "keywords": [
+                "국제대학",
+                "2024-10-03",
+                "모집",
+                "취업"
+            ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2024-10-03T16:05:17.073613",
             "title": "2025학년도 1학기 학생설계전공 신청 안내",
+            "keywords": [
+                "호텔관광대학",
+                "2024-10-03",
+                "학생설계전공"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         }
     ]
