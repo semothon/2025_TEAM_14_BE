@@ -158,11 +158,11 @@ def keyfiltering(item):
     return keywords
 
 def allkeywords(item):
-        keywords = []
-        keywords += IdToMajor(item[0]).split(".")[:1]
-        keywords.append(item[1][:10])
-        keywords += keyfiltering(item)
-        return keywords
+    keywords = []
+    keywords += IdToMajor(item[0]).split(".")[:1]
+    keywords.append(item[1][:10])
+    keywords += keyfiltering(item)
+    return keywords
 
 all = [
     "학생설계전공",
@@ -202,5 +202,8 @@ all = [
     "기타"
 ]
 
-all.sort()
-print(all)
+def fromtitles():
+    all.sort()
+    return all
+
+print(fromtitles())
