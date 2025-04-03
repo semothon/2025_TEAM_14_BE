@@ -47,6 +47,12 @@ public class DataLoader implements CommandLineRunner {
                     List<StackEntry> entries = new ArrayList<>();
                     for (JsonNode node : stacksNode) {
                         String jsonId = node.path("id").asText();
+
+                        // 이미 존재하는 jsonId는 건너뜀
+                        if (stackRepository.findByJsonId(jsonId).isPresent()) {
+                            continue;
+                        }
+
                         String major = node.path("major").asText();
                         String timestampStr = node.path("timestamp").asText();
                         LocalDateTime timestamp = LocalDateTime.parse(timestampStr, formatter);
@@ -62,14 +68,20 @@ public class DataLoader implements CommandLineRunner {
                                 .build();
                         entries.add(entry);
                     }
-                    stackRepository.saveAll(entries);
-                    totalCount += entries.size();
-                    System.out.println("파일 " + resource.getFilename() + " 처리 완료, " + entries.size() + " 건 저장됨.");
+
+                    if (!entries.isEmpty()) {
+                        stackRepository.saveAll(entries);
+                        totalCount += entries.size();
+                        System.out.println("파일 " + resource.getFilename() + " 처리 완료, " + entries.size() + " 건 저장됨.");
+                    } else {
+                        System.out.println("파일 " + resource.getFilename() + " 에서 저장할 새로운 데이터가 없습니다.");
+                    }
                 }
             } catch (Exception e) {
                 System.out.println("파일 " + resource.getFilename() + " 처리 중 오류: " + e.getMessage());
             }
         }
+
         System.out.println("전체 저장 건수: " + totalCount);
     }
 }

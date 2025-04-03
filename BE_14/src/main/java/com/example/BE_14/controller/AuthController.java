@@ -8,6 +8,8 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpSession;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import com.example.BE_14.dto.UserResponse;
+
 
 @RestController
 @RequestMapping("/api/auth")
@@ -61,6 +63,30 @@ public class AuthController {
             return ResponseEntity.ok("이미 사용 중인 이메일입니다.");
         } else {
             return ResponseEntity.ok("사용 가능한 이메일입니다.");
+        }
+    }
+
+    @GetMapping("/me")
+    public ResponseEntity<?> getCurrentUser(HttpServletRequest request) {
+        HttpSession session = request.getSession(false);
+        if (session == null || session.getAttribute("userId") == null) {
+            return ResponseEntity.status(401).body("로그인이 필요합니다.");
+        }
+
+        Long userId = (Long) session.getAttribute("userId");
+        try {
+            User user = userService.getUserById(userId);
+            UserResponse userResponse = UserResponse.builder()
+                    .id(user.getId())
+                    .email(user.getEmail())
+                    .name(user.getName())
+                    .department(user.getDepartment())
+                    .studyYear(user.getStudyYear())
+                    .transferMinor(user.getTransferMinor())
+                    .build();
+            return ResponseEntity.ok(userResponse);
+        } catch (IllegalArgumentException e) {
+            return ResponseEntity.badRequest().body("유저 조회 실패: " + e.getMessage());
         }
     }
 }

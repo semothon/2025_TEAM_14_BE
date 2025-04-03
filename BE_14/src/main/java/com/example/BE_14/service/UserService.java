@@ -72,4 +72,11 @@ public class UserService {
     public boolean emailExists(String email) {
         return userRepository.findByEmail(email).isPresent();
     }
+
+    // Get mapping 용
+    public User getUserById(Long id) {
+        return userRepository.findById(id)
+                .orElseThrow(() -> new IllegalArgumentException("해당 유저가 존재하지 않습니다."));
+    }
+
 }
