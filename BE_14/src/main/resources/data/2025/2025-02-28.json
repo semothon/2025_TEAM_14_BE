@@ -4,562 +4,972 @@
     "stacks": [
         {
             "id": "0S000083",
-            "major": "생활협동조합(서울).주간식당메뉴",
+            "department": "생활협동조합(서울).주간식당메뉴",
             "timestamp": "2025-02-28T00:11:19.135675",
             "title": "2월 4주차 학생회관식당(학생/교직원) 주간메뉴표",
+            "keywords": [
+                "생활협동조합(서울)",
+                "2025-02-28",
+                "학생회",
+                "학식"
+            ],
             "url": "https://coop.khu.ac.kr/2%ec%9b%94-3%ec%a3%bc%ec%b0%a8-%ed%95%99%ec%83%9d%ed%9a%8c%ea%b4%80%ec%8b%9d%eb%8b%b9-%ec%a3%bc%ea%b0%84%eb%a9%94%eb%89%b4%ed%91%9c/"
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2025-02-28T09:34:07.500523",
             "title": "[안내] 학생회관 학생식당 정식오픈 및 어플(잇츠미)",
+            "keywords": [
+                "전자공학과",
+                "2025-02-28",
+                "학생회"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000056",
-            "major": "화학공학과",
+            "department": "화학공학과",
             "timestamp": "2025-02-28T09:34:56.119768",
             "title": "2025학년도 상아장학재단 IT&게임 3기 장학생  선발",
+            "keywords": [
+                "화학공학과",
+                "2025-02-28",
+                "장학"
+            ],
             "url": "https://chemeng.khu.ac.kr/chemeng/user/bbs/BMSR00040/list.do?menuNo=17600017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000092",
-            "major": "국제교육원",
+            "department": "국제교육원",
             "timestamp": "2025-02-28T09:35:33.954956",
             "title": "[한국어교육부] 2025 봄 정규과정 신입생 학번 조회 파일 다운로드 N",
+            "keywords": [
+                "국제교육원",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://iie.khu.ac.kr//bbs/board.php?bo_table=notice_temp&page=1"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2025-02-28T09:38:10.077552",
             "title": "[IBK기업은행] 2025년 상반기 신입행원 채용공고(~3/17, 10:00)",
+            "keywords": [
+                "정경대학",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2025-02-28T10:05:42.091871",
             "title": "사학과 전공선택 수업 \"역사컨텐츠제작과활용\" SW기초교육 개설교과목 추가 결정 안내",
+            "keywords": [
+                "사학과",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000030",
-            "major": "수학과.취업정보",
+            "department": "수학과.취업정보",
             "timestamp": "2025-02-28T10:07:02.273437",
             "title": "[IBK기업은행] 2025년 상반기 신입행원 공개채용 (~3/17, 10:00)",
+            "keywords": [
+                "수학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000072",
-            "major": "국제대학원",
+            "department": "국제대학원",
             "timestamp": "2025-02-28T10:09:57.439996",
             "title": "2025학년도 1학기 신입생 오리엔테이션 안내 // 2025 Spring Semester Freshman Orientation Announcement",
+            "keywords": [
+                "국제대학원",
+                "2025-02-28",
+                "오리엔테이션"
+            ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000068",
-            "major": "원자력공학과",
+            "department": "원자력공학과",
             "timestamp": "2025-02-28T10:35:06.349700",
             "title": "[학생지원센터(장학)] 2025학년도 상아장학재단 IT&게임 3기 장학생  선발",
+            "keywords": [
+                "원자력공학과",
+                "2025-02-28",
+                "장학"
+            ],
             "url": "https://ne.khu.ac.kr/ne/user/bbs/BMSR00040/list.do?menuNo=17500023&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000031",
-            "major": "수학과.공모전/대외활동/기타",
+            "department": "수학과.공모전/대외활동/기타",
             "timestamp": "2025-02-28T10:37:03.451326",
             "title": "2025-1학기 열린전공 신입생을 위한 멘토 모집 홍보",
+            "keywords": [
+                "수학과",
+                "2025-02-28",
+                "모집"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600020&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000037",
-            "major": "정보디스플레이학과",
+            "department": "정보디스플레이학과",
             "timestamp": "2025-02-28T10:37:30.867360",
             "title": "2025-1학기 열린전공 신입생을 위한 멘토 모집",
+            "keywords": [
+                "정보디스플레이학과",
+                "2025-02-28",
+                "모집"
+            ],
             "url": "https://display.khu.ac.kr/display/user/bbs/BMSR00040/list.do?menuNo=3500019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000038",
-            "major": "지리학과",
+            "department": "지리학과",
             "timestamp": "2025-02-28T10:37:36.706368",
             "title": "2025-1학기 열린전공 신입생을 위한 멘토 모집",
+            "keywords": [
+                "지리학과",
+                "2025-02-28",
+                "모집"
+            ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600055&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000039",
-            "major": "지리학과.취업공지",
+            "department": "지리학과.취업공지",
             "timestamp": "2025-02-28T10:37:41.151099",
             "title": "[(주)보령] Global Investment Internship Program(GIIP) 인턴 채용 (~채용 시까지)",
+            "keywords": [
+                "지리학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600057&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000041",
-            "major": "물리학과",
+            "department": "물리학과",
             "timestamp": "2025-02-28T10:37:50.882101",
             "title": "2025-1학기 열린전공 신입생을 위한 멘토 모집 홍보 요청",
+            "keywords": [
+                "물리학과",
+                "2025-02-28",
+                "모집"
+            ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2025-02-28T10:38:19.497173",
             "title": "[수강신청] 2025학년도 1학기 개설과목 증원 안내(3월 4일 10:30 예정)",
+            "keywords": [
+                "행정학과",
+                "2025-02-28",
+                "수강신청"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000072",
-            "major": "국제대학원",
+            "department": "국제대학원",
             "timestamp": "2025-02-28T10:39:55.249992",
             "title": "[국제대학원]2025-1학기 주말과정 개강일 및 온/오프라인 일정",
+            "keywords": [
+                "국제대학원",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000078",
-            "major": "교육대학원(국제)",
+            "department": "교육대학원(국제)",
             "timestamp": "2025-02-28T10:40:46.422760",
             "title": "2025-1학기 학업장려장학 신청안내(~03.14(금))",
+            "keywords": [
+                "교육대학원(국제)",
+                "2025-02-28",
+                "장학"
+            ],
             "url": "https://eduglobal.khu.ac.kr/edu_global/user/bbs/BMSR00040/list.do?menuNo=12900045&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2025-02-28T11:00:01.452770",
             "title": "2025학년도 1학기 K-MOOC 운영 안내 및 수강이벤트",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2025-02-28",
+                "이벤트"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=2037"
         },
         {
             "id": "00000021",
-            "major": "중앙도서관(국제)",
+            "department": "중앙도서관(국제)",
             "timestamp": "2025-02-28T11:01:00.292504",
             "title": "2025-1학기 Turnitin(턴잇인) 클래스 변경 안내",
+            "keywords": [
+                "중앙도서관(국제)",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         },
         {
             "id": "0S000001",
-            "major": "중앙도서관(서울)",
+            "department": "중앙도서관(서울)",
             "timestamp": "2025-02-28T11:05:38.708391",
             "title": "2025-1학기 Turnitin(턴잇인) 클래스 변경 안내",
+            "keywords": [
+                "중앙도서관(서울)",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         },
         {
             "id": "0S000032",
-            "major": "화학과",
+            "department": "화학과",
             "timestamp": "2025-02-28T11:07:12.123621",
             "title": "[경희대학교 자율전공학부] 열린전공 신입생을 위한 멘토 모집 안내",
+            "keywords": [
+                "화학과",
+                "2025-02-28",
+                "모집"
+            ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000045",
-            "major": "정치외교학과",
+            "department": "정치외교학과",
             "timestamp": "2025-02-28T11:08:17.737114",
             "title": "[수강신청]2025-1학기 개설과목 증원 안내(3월 4일 10:30예정)",
+            "keywords": [
+                "정치외교학과",
+                "2025-02-28",
+                "수강신청"
+            ],
             "url": "https://politics.khu.ac.kr/politics/user/bbs/BMSR00040/list.do?menuNo=4800017&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2025-02-28T11:08:23.231784",
             "title": "[수강신청] 2025학년도 1학기 개설과목 증원 안내 (3월 5일 10:30 예정)",
+            "keywords": [
+                "행정학과",
+                "2025-02-28",
+                "수강신청"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000048",
-            "major": "사회학과",
+            "department": "사회학과",
             "timestamp": "2025-02-28T11:08:27.395925",
             "title": "[수강신청]2025-1학기 개설과목 증원 안내(3월 4일 10:30예정)",
+            "keywords": [
+                "사회학과",
+                "2025-02-28",
+                "수강신청"
+            ],
             "url": "https://soc.khu.ac.kr/soc/user/bbs/BMSR00040/list.do?menuNo=1100015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2025-02-28T11:30:03.403276",
             "title": "국제캠퍼스 학생회관 학생식당 정식오픈 및 어플(잇츠미) 사용 안내",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2025-02-28",
+                "학생회"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=2038"
         },
         {
             "id": "00000010",
-            "major": "산업경영공학과.취업",
+            "department": "산업경영공학과.취업",
             "timestamp": "2025-02-28T11:30:15.588613",
             "title": "(주)보령 Global Investment Internship Program(GIIP) 인턴 채용 (~채용 시까지)",
+            "keywords": [
+                "산업경영공학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://ie.khu.ac.kr/ie/user/bbs/BMSR00040/list.do?menuNo=17400017&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000026",
-            "major": "국제대학.채용.인턴.활동",
+            "department": "국제대학.채용.인턴.활동",
             "timestamp": "2025-02-28T11:31:43.884763",
             "title": "[일동제약그룹] 2025년 상반기 공개채용",
+            "keywords": [
+                "국제대학",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2025-02-28T11:34:11.937996",
             "title": "[안내] 2025학년도 1학기 차량운행(셔틀버스)",
+            "keywords": [
+                "전자공학과",
+                "2025-02-28",
+                "설국버스"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2025-02-28T11:38:13.463603",
             "title": "2025년도 국제재생에너지기구(IRENA) 근무 인턴 후보자 선발 안내",
+            "keywords": [
+                "정경대학",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000055",
-            "major": "무역학과.장학및홍보",
+            "department": "무역학과.장학및홍보",
             "timestamp": "2025-02-28T11:38:57.679171",
             "title": "мұ„мҡ©г…Ј[мқјлҸҷм ңм•Ҫк·ёлЈ№] 2025л…„ мғҒл°ҳкё° кіөк°ңмұ„мҡ©(~03.09)",
+            "keywords": [
+                "무역학과",
+                "2025-02-28",
+                "장학"
+            ],
             "url": "http://trade.khu.ac.kr/trade/index.php?mid=scholarship&page=1"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2025-02-28T12:00:04.746405",
             "title": "2025학년도 1학기 차량운행(셔틀버스) 안내",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2025-02-28",
+                "설국버스"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=2040"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2025-02-28T12:00:04.746570",
             "title": "[학생지원센터(장학)] 2025학년도 상아장학재단 IT&게임 3기 장학생  선발",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2025-02-28",
+                "장학"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=2039"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2025-02-28T12:05:43.130615",
             "title": "2025학년도 1학기 개강에 따른 공지사항 안내",
+            "keywords": [
+                "사학과",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2025-02-28T12:08:12.866101",
             "title": "2025년도 유엔공업개발기구(UNIDO) 근무 인턴 후보자 선발 안내",
+            "keywords": [
+                "정경대학",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000014",
-            "major": "일본어학과.취업정보",
+            "department": "일본어학과.취업정보",
             "timestamp": "2025-02-28T13:30:14.970284",
             "title": "2025년 우리은행 상반기 신입행원 채용 (3/10 18시까지)",
+            "keywords": [
+                "일본어학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://japanese.khu.ac.kr/japanese/user/bbs/BMSR00040/list.do?menuNo=2200016&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2025-02-28T14:00:02.886410",
             "title": "총학생회와 함께하는 2025학년도 하반기 캠퍼스 리크루팅",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2025-02-28",
+                "학생회"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=2041"
         },
         {
             "id": "00000014",
-            "major": "일본어학과.취업정보",
+            "department": "일본어학과.취업정보",
             "timestamp": "2025-02-28T14:00:16.715221",
             "title": "[일동제약그룹] 2025년 상반기 공개채용",
+            "keywords": [
+                "일본어학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://japanese.khu.ac.kr/japanese/user/bbs/BMSR00040/list.do?menuNo=2200016&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000014",
-            "major": "일본어학과.취업정보",
+            "department": "일본어학과.취업정보",
             "timestamp": "2025-02-28T14:00:16.715278",
             "title": "(주)보령 Global Investment Internship Program(GIIP) 인턴 채용 (~채용 시까지)",
+            "keywords": [
+                "일본어학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://japanese.khu.ac.kr/japanese/user/bbs/BMSR00040/list.do?menuNo=2200016&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000014",
-            "major": "일본어학과.취업정보",
+            "department": "일본어학과.취업정보",
             "timestamp": "2025-02-28T14:00:16.715326",
             "title": "[IBK기업은행] 2025년 상반기 신입행원 공개채용 (~3/17, 10:00)",
+            "keywords": [
+                "일본어학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://japanese.khu.ac.kr/japanese/user/bbs/BMSR00040/list.do?menuNo=2200016&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000014",
-            "major": "일본어학과.취업정보",
+            "department": "일본어학과.취업정보",
             "timestamp": "2025-02-28T14:00:16.715373",
             "title": "Come Grow with Us  현대자동차 2025 3월 신입채용",
+            "keywords": [
+                "일본어학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://japanese.khu.ac.kr/japanese/user/bbs/BMSR00040/list.do?menuNo=2200016&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000014",
-            "major": "일본어학과.취업정보",
+            "department": "일본어학과.취업정보",
             "timestamp": "2025-02-28T14:00:16.715430",
             "title": "[LIG넥스원] 2025년 상반기 LIG넥스원 인재영입",
+            "keywords": [
+                "일본어학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://japanese.khu.ac.kr/japanese/user/bbs/BMSR00040/list.do?menuNo=2200016&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000014",
-            "major": "일본어학과.취업정보",
+            "department": "일본어학과.취업정보",
             "timestamp": "2025-02-28T14:00:16.715478",
             "title": "[SJG그룹] 2025 SJG 신입,경력직원 채용",
+            "keywords": [
+                "일본어학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://japanese.khu.ac.kr/japanese/user/bbs/BMSR00040/list.do?menuNo=2200016&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000010",
-            "major": "문과대학.취업정보",
+            "department": "문과대학.취업정보",
             "timestamp": "2025-02-28T14:05:48.355930",
             "title": "[일동제약그룹] 2025년 상반기 공개채용 (~3/9)",
+            "keywords": [
+                "문과대학",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800035&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2025-02-28T14:08:15.082602",
             "title": "[일동제약그룹] 2025년 상반기 공개채용(~03/09)",
+            "keywords": [
+                "정경대학",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2025-02-28T14:34:11.993524",
             "title": "[장학] 전자공학과 장학 내규",
+            "keywords": [
+                "전자공학과",
+                "2025-02-28",
+                "장학"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000013",
-            "major": "철학과",
+            "department": "철학과",
             "timestamp": "2025-02-28T14:35:51.552275",
             "title": "2025년 일동제약 상반기 공개채용 공고",
+            "keywords": [
+                "철학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://com.khu.ac.kr/sophia/user/bbs/BMSR00040/list.do?menuNo=16200007&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000045",
-            "major": "정치외교학과",
+            "department": "정치외교학과",
             "timestamp": "2025-02-28T14:38:22.369134",
             "title": "[수강정정]2025-1학기 개설과목 증원 안내(3월 4일 10:30예정)",
+            "keywords": [
+                "정치외교학과",
+                "2025-02-28",
+                "수강신청"
+            ],
             "url": "https://politics.khu.ac.kr/politics/user/bbs/BMSR00040/list.do?menuNo=4800017&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000048",
-            "major": "사회학과",
+            "department": "사회학과",
             "timestamp": "2025-02-28T14:38:32.135465",
             "title": "[수강정정]2025-1학기 문화사회학 강의실 변경 안내",
+            "keywords": [
+                "사회학과",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://soc.khu.ac.kr/soc/user/bbs/BMSR00040/list.do?menuNo=1100015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000048",
-            "major": "사회학과",
+            "department": "사회학과",
             "timestamp": "2025-02-28T14:38:32.159489",
             "title": "[수강정정]2025-1학기 개설과목 증원 안내(3월 4일 10:30예정)",
+            "keywords": [
+                "사회학과",
+                "2025-02-28",
+                "수강신청"
+            ],
             "url": "https://soc.khu.ac.kr/soc/user/bbs/BMSR00040/list.do?menuNo=1100015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000081",
-            "major": "행복기숙사",
+            "department": "행복기숙사",
             "timestamp": "2025-02-28T14:41:07.700925",
             "title": "[아름원( A동) 2024-2학기] 24년 12월 수도광열비 고지NEW A사감W1 2025-02-2",
+            "keywords": [
+                "행복기숙사",
+                "2025-02-28",
+                "기숙사"
+            ],
             "url": "https://happydorm.khu.ac.kr/60/6010.kmc"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2025-02-28T15:00:04.379861",
             "title": "소프트웨어융합대학 장학내규",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2025-02-28",
+                "장학"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=2042"
         },
         {
             "id": "00000010",
-            "major": "산업경영공학과.취업",
+            "department": "산업경영공학과.취업",
             "timestamp": "2025-02-28T15:00:14.503626",
             "title": "총학생회와 함께하는 2025학년도 하반기 캠퍼스 리크루팅(3/5~3/17)",
+            "keywords": [
+                "산업경영공학과",
+                "2025-02-28",
+                "취업",
+                "학생회"
+            ],
             "url": "https://ie.khu.ac.kr/ie/user/bbs/BMSR00040/list.do?menuNo=17400017&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000048",
-            "major": "사회학과",
+            "department": "사회학과",
             "timestamp": "2025-02-28T15:08:36.457940",
             "title": "2025-1학기 정경대학 학부생 조교 장학생 선발 안내",
+            "keywords": [
+                "사회학과",
+                "2025-02-28",
+                "장학"
+            ],
             "url": "https://soc.khu.ac.kr/soc/user/bbs/BMSR00040/list.do?menuNo=1100015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000081",
-            "major": "행복기숙사",
+            "department": "행복기숙사",
             "timestamp": "2025-02-28T15:11:13.096805",
             "title": "[이문동( B동) 2024-2학기] 24년 12월 수도광열비 고지NEW A사감W1 2025-02-2",
+            "keywords": [
+                "행복기숙사",
+                "2025-02-28",
+                "기숙사"
+            ],
             "url": "https://happydorm.khu.ac.kr/60/6010.kmc"
         },
         {
             "id": "00000012",
-            "major": "기계공학과.취업",
+            "department": "기계공학과.취업",
             "timestamp": "2025-02-28T15:30:14.353604",
             "title": "[미래인재센터] 코멘토(comento) 온라인 취업교육 통합 프로그램",
+            "keywords": [
+                "기계공학과",
+                "2025-02-28",
+                "온라인",
+                "취업"
+            ],
             "url": "https://me.khu.ac.kr/me/user/bbs/BMSR00040/list.do?menuNo=17300018&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000012",
-            "major": "기계공학과.취업",
+            "department": "기계공학과.취업",
             "timestamp": "2025-02-28T15:30:14.353654",
             "title": "KHU Careers Editor 양성과정 (경희대학교 국제캠퍼스 취업프로그램 홍보단) 15기 참여자 모집",
+            "keywords": [
+                "기계공학과",
+                "2025-02-28",
+                "모집",
+                "취업"
+            ],
             "url": "https://me.khu.ac.kr/me/user/bbs/BMSR00040/list.do?menuNo=17300018&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000012",
-            "major": "기계공학과.취업",
+            "department": "기계공학과.취업",
             "timestamp": "2025-02-28T15:30:14.353701",
             "title": "총학생회와 함께하는 2025학년도 하반기 캠퍼스 리크루팅",
+            "keywords": [
+                "기계공학과",
+                "2025-02-28",
+                "취업",
+                "학생회"
+            ],
             "url": "https://me.khu.ac.kr/me/user/bbs/BMSR00040/list.do?menuNo=17300018&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000060",
-            "major": "사회기반시스템공학과",
+            "department": "사회기반시스템공학과",
             "timestamp": "2025-02-28T15:35:04.274036",
             "title": "2025학년도 하반기 캠퍼스 리크루팅 일정 안내",
+            "keywords": [
+                "사회기반시스템공학과",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://civileng.khu.ac.kr/civileng/user/bbs/BMSR00040/list.do?menuNo=17800016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2025-02-28T15:36:16.246361",
             "title": "2025 약학대학 미국 전공연수[USC 2025 Summer Program] 프로그램 신청자 접수(~ 3.04(화)까지)",
+            "keywords": [
+                "약학대학",
+                "2025-02-28",
+                "연수"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000025",
-            "major": "이과대학.취업/창업",
+            "department": "이과대학.취업/창업",
             "timestamp": "2025-02-28T15:36:41.181790",
             "title": "[전북연구원] 전북연구원 직원 채용 공고",
+            "keywords": [
+                "이과대학",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://science.khu.ac.kr/science_kor/user/bbs/BMSR00040/list.do?menuNo=1200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2025-02-28T15:38:14.324476",
             "title": "[(주)보령] Global Investment Internship Program(GIIP) 인턴 채용 (~채용 시까지)",
+            "keywords": [
+                "정경대학",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2025-02-28T15:38:24.651614",
             "title": "[수강신청] 2025학년도 1학기 개설과목 증원 안내 (3월 4일 10:30 예정)",
+            "keywords": [
+                "행정학과",
+                "2025-02-28",
+                "수강신청"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2025-02-28T15:40:55.463772",
             "title": "[공지]\"NGO전략경영\" 화요일2교시->수요일2교시 변경 안내",
+            "keywords": [
+                "공공대학원",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000092",
-            "major": "국제교육원",
+            "department": "국제교육원",
             "timestamp": "2025-02-28T16:05:35.975663",
             "title": "[외국어교육부] 2025-1차 무료 영어 회화 샘플 강의 안내 N",
+            "keywords": [
+                "국제교육원",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://iie.khu.ac.kr//bbs/board.php?bo_table=notice_temp&page=1"
         },
         {
             "id": "0S000072",
-            "major": "국제대학원",
+            "department": "국제대학원",
             "timestamp": "2025-02-28T16:09:54.916004",
             "title": "2025학년도 1학기 학점인정 신청 안내 // Credit Transfer Application Guide for 2025 Spring Semester",
+            "keywords": [
+                "국제대학원",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000072",
-            "major": "국제대학원",
+            "department": "국제대학원",
             "timestamp": "2025-02-28T16:09:54.947678",
             "title": "2025-1학기 프로포절 및 디펜스 논문 심사 안내 // Notice on Thesis for Spring 2025",
+            "keywords": [
+                "국제대학원",
+                "2025-02-28",
+                "논문"
+            ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2025-02-28T16:40:59.190487",
             "title": "[공지] 2025년 학위자격시험 신청 연기 안내 (2025.03.05 수요일부터 신청 가능)",
+            "keywords": [
+                "공공대학원",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000023",
-            "major": "공과대학.채용정보",
+            "department": "공과대학.채용정보",
             "timestamp": "2025-02-28T17:01:00.077772",
             "title": "국제에너지기구(IEA) 인턴 모집 공고문",
+            "keywords": [
+                "공과대학",
+                "2025-02-28",
+                "모집",
+                "취업"
+            ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100023&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000063",
-            "major": "건축공학과.취업정보",
+            "department": "건축공학과.취업정보",
             "timestamp": "2025-02-28T17:05:03.396451",
             "title": "2025학년도 하반기 캠퍼스 리크루팅",
+            "keywords": [
+                "건축공학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://archieng.khu.ac.kr/archieng/user/bbs/BMSR00040/list.do?menuNo=17900017&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000042",
-            "major": "정경대학",
+            "department": "정경대학",
             "timestamp": "2025-02-28T17:07:56.954479",
             "title": "경희대학교 포털 출석인정 신청 관련 안내",
+            "keywords": [
+                "정경대학",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500020&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2025-02-28T17:08:20.205741",
             "title": "[수강신청] [★일정변경★] 2025학년도 1학기 개설과목 증원 안내 (3월 6일 09:30 예정)",
+            "keywords": [
+                "행정학과",
+                "2025-02-28",
+                "수강신청"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2025-02-28T17:09:02.534921",
             "title": "[일반] 2025년 제2차 융합형 의사과학자 양성사업(학부과정, 전공의 연구지원 및 인프라 구축) 신규 지원기관 모집 공고 안내",
+            "keywords": [
+                "의과대학",
+                "2025-02-28",
+                "모집"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2025-02-28T17:09:02.727129",
             "title": "[학사] [의학3] 2025-1학기 임상실습일정 및 조명단 안내",
+            "keywords": [
+                "의과대학",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=2"
         },
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2025-02-28T17:30:59.953886",
             "title": "총학생회와 함께하는 2025학년도 하반기 캠퍼스 리크루팅 안내",
+            "keywords": [
+                "공과대학",
+                "2025-02-28",
+                "학생회"
+            ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100020&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000023",
-            "major": "공과대학.채용정보",
+            "department": "공과대학.채용정보",
             "timestamp": "2025-02-28T17:31:00.374174",
             "title": "유엔공업개발기구(UNIDO) 인턴 모집 공고문",
+            "keywords": [
+                "공과대학",
+                "2025-02-28",
+                "모집",
+                "취업"
+            ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100023&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000023",
-            "major": "공과대학.채용정보",
+            "department": "공과대학.채용정보",
             "timestamp": "2025-02-28T17:31:00.374225",
             "title": "국제재생에너지기구(IRENA) 인턴 모집 공고문",
+            "keywords": [
+                "공과대학",
+                "2025-02-28",
+                "모집",
+                "취업"
+            ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100023&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000030",
-            "major": "수학과.취업정보",
+            "department": "수학과.취업정보",
             "timestamp": "2025-02-28T17:36:59.764294",
             "title": "(주)보령 Global Investment Internship Program(GIIP) 인턴 채용 (~채용 시까지)",
+            "keywords": [
+                "수학과",
+                "2025-02-28",
+                "취업"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000037",
-            "major": "정보디스플레이학과",
+            "department": "정보디스플레이학과",
             "timestamp": "2025-02-28T17:37:31.617036",
             "title": "2025학년도 1학기 [회로이론], [공학수학1] 강의실 변경 안내",
+            "keywords": [
+                "정보디스플레이학과",
+                "2025-02-28",
+                "기타"
+            ],
             "url": "https://display.khu.ac.kr/display/user/bbs/BMSR00040/list.do?menuNo=3500019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2025-02-28T17:38:09.881662",
             "title": "2025 유엔세계식량계획(WEP) 한국사무소 PR 및 마케팅 인턴 모집",
+            "keywords": [
+                "정경대학",
+                "2025-02-28",
+                "모집",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000083",
-            "major": "생활협동조합(서울).주간식당메뉴",
+            "department": "생활협동조합(서울).주간식당메뉴",
             "timestamp": "2025-02-28T19:11:15.938885",
             "title": "3월 1주차 학생회관식당(학생/교직원) 주간메뉴표",
+            "keywords": [
+                "생활협동조합(서울)",
+                "2025-02-28",
+                "학생회",
+                "학식"
+            ],
             "url": "https://coop.khu.ac.kr/2%ec%9b%94-3%ec%a3%bc%ec%b0%a8-%ed%95%99%ec%83%9d%ed%9a%8c%ea%b4%80%ec%8b%9d%eb%8b%b9-%ec%a3%bc%ea%b0%84%eb%a9%94%eb%89%b4%ed%91%9c/"
         }
     ]

@@ -4,562 +4,971 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-03-27T23:32:39.987496",
             "title": "오늘의 채용공고가 39건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=3"
         },
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2024-03-27T00:00:39.034211",
             "title": "주간식단표 240325-0329",
+            "keywords": [
+                "학생회관(국제)",
+                "2024-03-27",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2024-03-27T09:03:11.098962",
             "title": "[홍보] 2024학년도 1하기 취업캠프 국내 및 외국계 취업 완벽 대비 JUST DO IT",
+            "keywords": [
+                "전자공학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000077",
-            "major": "한국어학과.취업정보",
+            "department": "한국어학과.취업정보",
             "timestamp": "2024-03-27T09:04:26.193574",
             "title": "[추천채용] (주)케이엘피 추천채용",
+            "keywords": [
+                "한국어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://korean.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000098",
-            "major": "대학생활(포커스)",
+            "department": "대학생활(포커스)",
             "timestamp": "2024-03-27T09:05:41.349424",
             "title": "프랑스 대표 지성, 필리프 클로델 작가 겸 감독 초청 강연 진행",
+            "keywords": [
+                "대학생활(포커스)",
+                "2024-03-27",
+                "강연"
+            ],
             "url": "https://www.khu.ac.kr/kor/focus/list.do?page=1&condition=all&pageSize=15&tps=15"
         },
         {
             "id": "0S000017",
-            "major": "호텔관광대학.일반공지사항",
+            "department": "호텔관광대학.일반공지사항",
             "timestamp": "2024-03-27T09:07:17.730659",
             "title": "[미래인재센터(서울C)] 2024-1학기 오픈랩 장비 대여",
+            "keywords": [
+                "호텔관광대학",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000017",
-            "major": "호텔관광대학.일반공지사항",
+            "department": "호텔관광대학.일반공지사항",
             "timestamp": "2024-03-27T09:07:17.781036",
             "title": "[미래인재센터(서울C)] 2024-1학기 오픈랩 이용가이드",
+            "keywords": [
+                "호텔관광대학",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000043",
-            "major": "정경대학.장학안내",
+            "department": "정경대학.장학안내",
             "timestamp": "2024-03-27T09:09:11.365804",
             "title": "2024년 현대차정몽구재단 미래산업, 사회통합 장학생 선발 안내",
+            "keywords": [
+                "정경대학",
+                "2024-03-27",
+                "장학"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500021&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000006",
-            "major": "컴퓨터공학부",
+            "department": "컴퓨터공학부",
             "timestamp": "2024-03-27T09:30:07.388060",
             "title": "[안내] 24-1학기 이민영 장학 선발 안내 (자격요건 확인 / 신청 기한: - 03/29 23:59)",
+            "keywords": [
+                "컴퓨터공학부",
+                "2024-03-27",
+                "장학"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600045&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2024-03-27T09:34:11.215552",
             "title": "[S-OIL] 2024 S-OIL 신입사원 채용(영업직) (~4/10",
+            "keywords": [
+                "프랑스어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000077",
-            "major": "한국어학과.취업정보",
+            "department": "한국어학과.취업정보",
             "timestamp": "2024-03-27T09:34:23.456728",
             "title": "[S-OIL] 2024 S-OIL 신입사원 채용 (영업직) (~4/10)",
+            "keywords": [
+                "한국어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://korean.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000083",
-            "major": "스페인어학과.취업정보",
+            "department": "스페인어학과.취업정보",
             "timestamp": "2024-03-27T09:34:46.743649",
             "title": "[S-OIL] 2024 S-OIL 신입사원 채용 (영업직) (~4/10)",
+            "keywords": [
+                "스페인어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2024-03-27T09:36:28.711365",
             "title": "KHU Fun SW 교육 안내 과사무실",
+            "keywords": [
+                "국어국문학과",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "http://gukmun.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=006009001001"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2024-03-27T09:36:33.522086",
             "title": "학부 KHU Fun SW 교육 안내",
+            "keywords": [
+                "사학과",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "http://history.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001"
         },
         {
             "id": "0S000007",
-            "major": "영어영문학과.취업정보",
+            "department": "영어영문학과.취업정보",
             "timestamp": "2024-03-27T09:36:46.500813",
             "title": "[S-OIL] 2024 S-OIL 신입사원 채용 (영업직) (~4/10)",
+            "keywords": [
+                "영어영문학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
         {
             "id": "0S000007",
-            "major": "영어영문학과.취업정보",
+            "department": "영어영문학과.취업정보",
             "timestamp": "2024-03-27T09:36:46.526384",
             "title": "[한국문학번역원] 번역아카데미 정규과정 17기 모집 Translat...",
+            "keywords": [
+                "영어영문학과",
+                "2024-03-27",
+                "모집",
+                "취업"
+            ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
         {
             "id": "0S000010",
-            "major": "문과대학.취업정보",
+            "department": "문과대학.취업정보",
             "timestamp": "2024-03-27T09:37:01.299475",
             "title": "[경기창조경제혁신센터] 경기창조경제혁신센터 계약직 신입 직...",
+            "keywords": [
+                "문과대학",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005003"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-03-27T09:39:21.405941",
             "title": "[S-OIL] 2024 S-OIL 신입사원 채용 (영업직) (~4/10)",
+            "keywords": [
+                "정경대학",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2024-03-27T09:41:01.638534",
             "title": "2024학년도 1학기 졸업시험 예시문제(문제은행)",
+            "keywords": [
+                "경영대학",
+                "2024-03-27",
+                "졸업"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-03-27T10:00:01.679430",
             "title": "[홍보] 2024학년도 1학기 <취업 완벽 대비 Just Do It 프로그램> 참여자 모집 ",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-03-27",
+                "모집",
+                "취업"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1663"
         },
         {
             "id": "00000016",
-            "major": "글로벌커뮤니케이션학부.취업",
+            "department": "글로벌커뮤니케이션학부.취업",
             "timestamp": "2024-03-27T10:00:26.082949",
             "title": "[한국문학번역원] 번역아카데미 정규과정 17기 모집 Translation Academy Regular Course ..",
+            "keywords": [
+                "글로벌커뮤니케이션학부",
+                "2024-03-27",
+                "모집",
+                "취업"
+            ],
             "url": "http://deptofenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=001003001003"
         },
         {
             "id": "00000016",
-            "major": "글로벌커뮤니케이션학부.취업",
+            "department": "글로벌커뮤니케이션학부.취업",
             "timestamp": "2024-03-27T10:00:26.117583",
             "title": "[추천채용] (주)케이엘피 추천채용",
+            "keywords": [
+                "글로벌커뮤니케이션학부",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://deptofenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=001003001003"
         },
         {
             "id": "00000026",
-            "major": "국제대학.채용.인턴.활동",
+            "department": "국제대학.채용.인턴.활동",
             "timestamp": "2024-03-27T10:01:32.012869",
             "title": "2024학년도 1학기 <취업 완벽 대비 Just Do It 프로그램> 참여자 모집 안내",
+            "keywords": [
+                "국제대학",
+                "2024-03-27",
+                "모집",
+                "취업"
+            ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000042",
-            "major": "생체의공학과.취업",
+            "department": "생체의공학과.취업",
             "timestamp": "2024-03-27T10:32:58.048202",
             "title": "[홍보] 2024학년도 1학기 <취업 완벽 대비 Just Do It 프로그램> 참여자 모집",
+            "keywords": [
+                "생체의공학과",
+                "2024-03-27",
+                "모집",
+                "취업"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-03-27T10:37:03.976945",
             "title": "일반 KHU Fun SW 교육 안내문",
+            "keywords": [
+                "영어영문학과",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
         {
             "id": "0S000017",
-            "major": "호텔관광대학.일반공지사항",
+            "department": "호텔관광대학.일반공지사항",
             "timestamp": "2024-03-27T10:37:45.882429",
             "title": "2024년 균형발전 큐레이터 모집 소개 (대외활동) (~24.4.5 마감)",
+            "keywords": [
+                "호텔관광대학",
+                "2024-03-27",
+                "모집"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-03-27T10:41:19.419479",
             "title": "[이수그룹] 이수그룹 신입 공개채용 (~4/15(월) 오전 10시까지)",
+            "keywords": [
+                "식품영양학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-03-27T11:10:53.704677",
             "title": "[HDC 현대EP] 2024년 상반기 신입 공개채용",
+            "keywords": [
+                "식품영양학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-03-27T11:10:53.704896",
             "title": "(경기창조경제혁신센터)",
+            "keywords": [
+                "식품영양학과",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000007",
-            "major": "컴퓨터공학부.취업",
+            "department": "컴퓨터공학부.취업",
             "timestamp": "2024-03-27T11:30:12.759785",
             "title": "[채용] 2024 S-OIL 신입사원 채용 (영업직) (접수 기간: -04/10)",
+            "keywords": [
+                "컴퓨터공학부",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2024-03-27T11:42:01.924864",
             "title": "[조달청] 세계은행(WB) 주관 동아시아·태평양지역 공공조달포럼 안내 및 참석요청 안내",
+            "keywords": [
+                "공공대학원",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2024-03-27T12:06:56.859651",
             "title": "2024학년도 하계 해외전공연수 참가자 모집 안내 (~4/2 17:00) 과사무실",
+            "keywords": [
+                "국어국문학과",
+                "2024-03-27",
+                "모집",
+                "연수"
+            ],
             "url": "http://gukmun.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=006009001001"
         },
         {
             "id": "00000016",
-            "major": "글로벌커뮤니케이션학부.취업",
+            "department": "글로벌커뮤니케이션학부.취업",
             "timestamp": "2024-03-27T13:30:27.427381",
             "title": "[BGF리테일] 2024년 상반기 신입사원 공개채용_공고",
+            "keywords": [
+                "글로벌커뮤니케이션학부",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://deptofenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=001003001003"
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2024-03-27T13:34:37.404096",
             "title": "2024년 상반기 BGF리테일 신입사원 공개채용",
+            "keywords": [
+                "프랑스어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000083",
-            "major": "스페인어학과.취업정보",
+            "department": "스페인어학과.취업정보",
             "timestamp": "2024-03-27T13:35:10.913136",
             "title": "2024년 상반기 BGF리테일 신입사원 공개채용",
+            "keywords": [
+                "스페인어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-03-27T13:39:38.305777",
             "title": "2024년 상반기 BGF리테일 신입사원 공개채용",
+            "keywords": [
+                "정경대학",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000077",
-            "major": "한국어학과.취업정보",
+            "department": "한국어학과.취업정보",
             "timestamp": "2024-03-27T14:04:36.973020",
             "title": "2024년 상반기 BGF리테일 신입사원 공개채용",
+            "keywords": [
+                "한국어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://korean.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "0S000029",
-            "major": "수학과.장학",
+            "department": "수학과.장학",
             "timestamp": "2024-03-27T14:08:24.663931",
             "title": "[현대차 정몽구 재단] 현대차 정몽구 스칼러십 2024 장학생 모집",
+            "keywords": [
+                "수학과",
+                "2024-03-27",
+                "모집",
+                "장학"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600018&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000030",
-            "major": "수학과.취업정보",
+            "department": "수학과.취업정보",
             "timestamp": "2024-03-27T14:08:28.482288",
             "title": "경기창조경제혁신센터 계약직 신입 직원 채용(~04/11)",
+            "keywords": [
+                "수학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000016",
-            "major": "글로벌커뮤니케이션학부.취업",
+            "department": "글로벌커뮤니케이션학부.취업",
             "timestamp": "2024-03-27T14:30:29.228736",
             "title": "[미래인재센터] 2024-1학기 통합고시반 입반생 선발",
+            "keywords": [
+                "글로벌커뮤니케이션학부",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://deptofenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=001003001003"
         },
         {
             "id": "00000016",
-            "major": "글로벌커뮤니케이션학부.취업",
+            "department": "글로벌커뮤니케이션학부.취업",
             "timestamp": "2024-03-27T14:30:29.259656",
             "title": "HDC현대EP신규 직원 채용 공고문",
+            "keywords": [
+                "글로벌커뮤니케이션학부",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://deptofenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=001003001003"
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2024-03-27T14:34:11.104419",
             "title": "HDC현대EP신규 직원 채용",
+            "keywords": [
+                "프랑스어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2024-03-27T14:34:11.130230",
             "title": "2024-1학기 통합고시반 입반생 선발",
+            "keywords": [
+                "프랑스어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000077",
-            "major": "한국어학과.취업정보",
+            "department": "한국어학과.취업정보",
             "timestamp": "2024-03-27T14:34:21.554827",
             "title": "HDC현대EP신규 직원 채용",
+            "keywords": [
+                "한국어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://korean.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000083",
-            "major": "스페인어학과.취업정보",
+            "department": "스페인어학과.취업정보",
             "timestamp": "2024-03-27T14:34:44.931856",
             "title": "[미래인재센터] 2024-1학기 통합고시반 입반생 선발",
+            "keywords": [
+                "스페인어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000083",
-            "major": "스페인어학과.취업정보",
+            "department": "스페인어학과.취업정보",
             "timestamp": "2024-03-27T14:34:44.975216",
             "title": "[HDC현대EP] 2024년 상반기 신입사원 공개채용",
+            "keywords": [
+                "스페인어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "0S000007",
-            "major": "영어영문학과.취업정보",
+            "department": "영어영문학과.취업정보",
             "timestamp": "2024-03-27T14:36:39.311869",
             "title": "2024년 상반기 BGF리테일 신입사원 공개채용",
+            "keywords": [
+                "영어영문학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-03-27T14:40:43.116906",
             "title": "[일반] 2024학년도 간호과학대학 국제교류 프로그램 안내 (중국 서안 의과대학 간호재활학원 OUTBOUND)",
+            "keywords": [
+                "간호과학대학",
+                "2024-03-27",
+                "국제교류"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-03-27T14:40:43.945674",
             "title": "[일반] 2024학년도 간호과학대학 국제교류 프로그램 안내 (중국 서안 의과대학 간호재활학원 OUTBOUND)",
+            "keywords": [
+                "간호과학대학",
+                "2024-03-27",
+                "국제교류"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-03-27T14:40:47.844973",
             "title": "[BGF리테일] 2024년 상반기 신입사원 공개채용",
+            "keywords": [
+                "식품영양학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2024-03-27T14:41:53.121160",
             "title": "[USLS] 12th University Scholars Leadership Symposium 2024-United Nations, Thailand",
+            "keywords": [
+                "공공대학원",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2024-03-27T15:04:14.193777",
             "title": "2024 한-아프리카 정상회의 지원요원 모집",
+            "keywords": [
+                "프랑스어학과",
+                "2024-03-27",
+                "모집",
+                "취업"
+            ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2024-03-27T15:04:14.227130",
             "title": "2024 한-아프리카 정상회의 국별 민간의전관(DLO) 모집",
+            "keywords": [
+                "프랑스어학과",
+                "2024-03-27",
+                "모집",
+                "취업"
+            ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "0S000024",
-            "major": "이과대학",
+            "department": "이과대학",
             "timestamp": "2024-03-27T15:07:57.502331",
             "title": "2024학년도 2학기 학생설계전공 신청 안내",
+            "keywords": [
+                "이과대학",
+                "2024-03-27",
+                "학생설계전공"
+            ],
             "url": "https://science.khu.ac.kr/science_kor/user/bbs/BMSR00040/list.do?menuNo=1200038&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-03-27T15:36:36.459067",
             "title": "일반 한국예술연구소 2024년 춘계학술대회 <생성형 인공지능(Gener...",
+            "keywords": [
+                "영어영문학과",
+                "2024-03-27",
+                "공모전"
+            ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2024-03-27T15:37:31.789012",
             "title": "2024학년도 2학기 학생설계전공 신청 안내",
+            "keywords": [
+                "약학대학",
+                "2024-03-27",
+                "학생설계전공"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000028",
-            "major": "수학과",
+            "department": "수학과",
             "timestamp": "2024-03-27T15:38:07.860121",
             "title": "2024학년도 2학기 학생설계전공 신청 안내",
+            "keywords": [
+                "수학과",
+                "2024-03-27",
+                "학생설계전공"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600017&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000032",
-            "major": "화학과",
+            "department": "화학과",
             "timestamp": "2024-03-27T15:38:25.814248",
             "title": "2024학년도 2학기 학생설계전공 신청 안내",
+            "keywords": [
+                "화학과",
+                "2024-03-27",
+                "학생설계전공"
+            ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000077",
-            "major": "한국어학과.취업정보",
+            "department": "한국어학과.취업정보",
             "timestamp": "2024-03-27T16:04:20.001295",
             "title": "[스펙업] 2024년 3월 27일 채용 및 대외활동 정보",
+            "keywords": [
+                "한국어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://korean.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000090",
-            "major": "일반대학원",
+            "department": "일반대학원",
             "timestamp": "2024-03-27T16:05:06.352929",
             "title": "(국제) 대학원 학과 및 연구실 탐방프로그램 안내",
+            "keywords": [
+                "일반대학원",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2024-03-27T16:06:11.450681",
             "title": "2024학년도 2학기 학생설계전공 신청 안내",
+            "keywords": [
+                "문과대학",
+                "2024-03-27",
+                "학생설계전공"
+            ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005006"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-03-27T16:06:33.398104",
             "title": "학사 2024학년도 2학기 학생설계전공 신청 안내",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-03-27",
+                "학생설계전공"
+            ],
             "url": "http://aelts.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
         {
             "id": "0S000007",
-            "major": "영어영문학과.취업정보",
+            "department": "영어영문학과.취업정보",
             "timestamp": "2024-03-27T16:06:37.001175",
             "title": "[스펙업] 2024년 3월 27일 채용 및 대외활동 정보",
+            "keywords": [
+                "영어영문학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
         {
             "id": "0S000041",
-            "major": "물리학과",
+            "department": "물리학과",
             "timestamp": "2024-03-27T16:08:53.592569",
             "title": "2024학년도 2학기 학생설계전공 신청 안내",
+            "keywords": [
+                "물리학과",
+                "2024-03-27",
+                "학생설계전공"
+            ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-03-27T16:10:42.902696",
             "title": "2024학년도 2학기 학생설계전공 신청 안내",
+            "keywords": [
+                "식품영양학과",
+                "2024-03-27",
+                "학생설계전공"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-03-27T16:10:42.905255",
             "title": "2024학년도 2학기 학생설계전공 신청 안내",
+            "keywords": [
+                "식품영양학과",
+                "2024-03-27",
+                "학생설계전공"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000016",
-            "major": "글로벌커뮤니케이션학부.취업",
+            "department": "글로벌커뮤니케이션학부.취업",
             "timestamp": "2024-03-27T16:30:24.284314",
             "title": "[스펙업] 2024년 3월 27일 채용 및 대외활동 정보",
+            "keywords": [
+                "글로벌커뮤니케이션학부",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://deptofenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=001003001003"
         },
         {
             "id": "0S000063",
-            "major": "생활과학대학",
+            "department": "생활과학대학",
             "timestamp": "2024-03-27T16:41:01.208716",
             "title": "경기창조경제혁신센터",
+            "keywords": [
+                "생활과학대학",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700036&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000063",
-            "major": "생활과학대학",
+            "department": "생활과학대학",
             "timestamp": "2024-03-27T16:41:01.208952",
             "title": "[서초구가족센터] 다문화부부관계증진프로젝트_『서초 행복 차차차!』",
+            "keywords": [
+                "생활과학대학",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700036&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000063",
-            "major": "생활과학대학",
+            "department": "생활과학대학",
             "timestamp": "2024-03-27T16:41:01.209181",
             "title": "종로유학원 2024 유학박람회 (3/30~3/31)",
+            "keywords": [
+                "생활과학대학",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700036&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000063",
-            "major": "생활과학대학",
+            "department": "생활과학대학",
             "timestamp": "2024-03-27T16:41:01.209406",
             "title": "[동작구육아종합지원센터]「2024년 동작구 보육교사 취업연계지원」 사업 안내",
+            "keywords": [
+                "생활과학대학",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700036&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000064",
-            "major": "아동가족학과",
+            "department": "아동가족학과",
             "timestamp": "2024-03-27T16:41:01.693134",
             "title": "경기창조경제혁신센터",
+            "keywords": [
+                "아동가족학과",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700036&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000064",
-            "major": "아동가족학과",
+            "department": "아동가족학과",
             "timestamp": "2024-03-27T16:41:01.693362",
             "title": "[서초구가족센터] 다문화부부관계증진프로젝트_『서초 행복 차차차!』",
+            "keywords": [
+                "아동가족학과",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700036&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000064",
-            "major": "아동가족학과",
+            "department": "아동가족학과",
             "timestamp": "2024-03-27T16:41:01.693584",
             "title": "종로유학원 2024 유학박람회 (3/30~3/31)",
+            "keywords": [
+                "아동가족학과",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700036&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000064",
-            "major": "아동가족학과",
+            "department": "아동가족학과",
             "timestamp": "2024-03-27T16:41:01.693802",
             "title": "[동작구육아종합지원센터]「2024년 동작구 보육교사 취업연계지원」 사업 안내",
+            "keywords": [
+                "아동가족학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700036&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2024-03-27T17:04:16.928207",
             "title": "[스펙업] 2024년 3월 27일 채용 및 대외활동 정보",
+            "keywords": [
+                "프랑스어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000084",
-            "major": "스페인어학과.자유게시판",
+            "department": "스페인어학과.자유게시판",
             "timestamp": "2024-03-27T17:04:55.280099",
             "title": "[스펙업] 2024년 3월 27일 채용 및 대외활동 정보",
+            "keywords": [
+                "스페인어학과",
+                "2024-03-27",
+                "취업"
+            ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2024-03-27T17:06:39.798858",
             "title": "학부 2024학년도 2학기 학생설계전공 신청 안내",
+            "keywords": [
+                "사학과",
+                "2024-03-27",
+                "학생설계전공"
+            ],
             "url": "http://history.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001"
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-03-27T17:07:31.446722",
             "title": "교내 급수관 개선 공사 관련 통행제한 협조 안내",
+            "keywords": [
+                "무용학부",
+                "2024-03-27",
+                "기타"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000033",
-            "major": "생물학과",
+            "department": "생물학과",
             "timestamp": "2024-03-27T17:38:40.040580",
             "title": "2024학년도 2학기 학생설계전공 신청 안내",
+            "keywords": [
+                "생물학과",
+                "2024-03-27",
+                "학생설계전공"
+            ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900033&pageIndex=1&searchCondition=&searchKeyword="
         }
     ]

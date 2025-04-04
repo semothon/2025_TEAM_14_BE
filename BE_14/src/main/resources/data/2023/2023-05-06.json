@@ -4,23 +4,38 @@
     "stacks": [
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2023-05-06T08:01:17.667123",
             "title": "2023학년도 6차 학습법 특강 실시 안내",
+            "keywords": [
+                "공과대학",
+                "2023-05-06",
+                "강연"
+            ],
             "url": "https://eng.khu.ac.kr/eng/C1100333?page=1&category=&"
         },
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2023-05-06T12:00:53.326257",
             "title": "2023학년도 3, 4차 학습법 특강 실시 안내",
+            "keywords": [
+                "공과대학",
+                "2023-05-06",
+                "강연"
+            ],
             "url": "https://eng.khu.ac.kr/eng/C1100333?page=1&category=&"
         },
         {
             "id": "0S000042",
-            "major": "정경대학",
+            "department": "정경대학",
             "timestamp": "2023-05-06T16:08:26.104588",
             "title": "2023학년도 하계 국제화연수(Oxford Consortium for Human Rights; OCHR) 선발 공고",
+            "keywords": [
+                "정경대학",
+                "2023-05-06",
+                "연수"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500020&pageIndex=1&searchCondition=&searchKeyword="
         }
     ]

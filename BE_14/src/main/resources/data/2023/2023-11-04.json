@@ -4,37 +4,64 @@
     "stacks": [
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2023-11-04T10:39:50.326714",
             "title": "[금호석유화학] 2023년 하반기 금호석유화학 산학장학생 모집 안내",
+            "keywords": [
+                "정경대학",
+                "2023-11-04",
+                "모집",
+                "장학",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000056",
-            "major": "국제통상-금융투자학부",
+            "department": "국제통상-금융투자학부",
             "timestamp": "2023-11-04T10:40:41.285478",
             "title": "2023년 AI·SW KHU-MOOC 강좌 안내",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2023-11-04",
+                "기타"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2023-11-04T13:11:55.040677",
             "title": "[입시] 2024학년도 전기 경영대학원 외국인전형 사전테스트 안내          [入学面试] 2024学年度前期经营大学院外国人专项事前测试指南",
+            "keywords": [
+                "경영대학원",
+                "2023-11-04",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2023-11-04T13:11:55.041191",
             "title": "[입시] 2024학년도 전기 경영대학원 외국인전형 사전테스트 안내          [入学面试] 2024学年度前期经营大学院外国人专项事前测试指南",
+            "keywords": [
+                "경영대학원",
+                "2023-11-04",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000001",
-            "major": "중앙도서관(서울)",
+            "department": "중앙도서관(서울)",
             "timestamp": "2023-11-04T16:35:41.558651",
             "title": "[긴급 공지] 도서관 홈페이지 일부 기능 오류 발생(11/4[금]~)",
+            "keywords": [
+                "중앙도서관(서울)",
+                "2023-11-04",
+                "기타"
+            ],
             "url": "https://library.khu.ac.kr/seoul/blog/49449"
         }
     ]

@@ -4,16 +4,26 @@
     "stacks": [
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2024-08-11T12:00:06.224205",
             "title": "네이버랩스 인턴 후기",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-08-11",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=653"
         },
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2024-08-11T22:00:08.743698",
             "title": "2024 슈퍼빌런랩스 게임 콘테스트 (게임아이디어/게임 제작 공모전)",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-08-11",
+                "공모전"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=654"
         }
     ]

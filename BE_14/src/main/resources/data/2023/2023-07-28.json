@@ -4,618 +4,1064 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2023-07-28T23:32:12.277293",
             "title": "오늘의 채용공고가 23건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2023-07-28",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=2"
         },
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2023-07-28T00:00:39.761112",
             "title": "(주간식단표0724~0728)",
+            "keywords": [
+                "학생회관(국제)",
+                "2023-07-28",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "00000098",
-            "major": "대학생활(포커스)",
+            "department": "대학생활(포커스)",
             "timestamp": "2023-07-28T09:05:14.461844",
             "title": "창의적 아이디어로 사회문제를 해결하라!",
+            "keywords": [
+                "대학생활(포커스)",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/focus/list.do?page=1&condition=all&pageSize=15&tps=15"
         },
         {
             "id": "0S000042",
-            "major": "정경대학",
+            "department": "정경대학",
             "timestamp": "2023-07-28T09:08:14.715504",
             "title": "2023학년도 2학기 재학생(복학생) 등록 안내",
+            "keywords": [
+                "정경대학",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500020&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000042",
-            "major": "정경대학",
+            "department": "정경대학",
             "timestamp": "2023-07-28T09:08:14.775490",
             "title": "2023학년도 2학기 분할납부 안내",
+            "keywords": [
+                "정경대학",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500020&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000042",
-            "major": "정경대학",
+            "department": "정경대학",
             "timestamp": "2023-07-28T09:08:15.696018",
             "title": "2023학년도 2학기 수업연한초과자(졸업유예) 등록 안내",
+            "keywords": [
+                "정경대학",
+                "2023-07-28",
+                "졸업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500020&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000048",
-            "major": "사회학과",
+            "department": "사회학과",
             "timestamp": "2023-07-28T09:08:41.131052",
             "title": "2023학년도 2학기 재학생(복학생) 등록 안내",
+            "keywords": [
+                "사회학과",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "https://soc.khu.ac.kr/soc/user/bbs/BMSR00040/list.do?menuNo=1100015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000048",
-            "major": "사회학과",
+            "department": "사회학과",
             "timestamp": "2023-07-28T09:08:41.159424",
             "title": "2023학년도 2학기 분할납부 안내",
+            "keywords": [
+                "사회학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://soc.khu.ac.kr/soc/user/bbs/BMSR00040/list.do?menuNo=1100015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000025",
-            "major": "국제대학",
+            "department": "국제대학",
             "timestamp": "2023-07-28T09:31:00.849061",
             "title": "2023학년도 학습전략 상담 신청 안내 (선착순 200명)",
+            "keywords": [
+                "국제대학",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2023-07-28T09:32:03.026283",
             "title": "[국제C]2023학년도 1학기 마일리지 장학 지급 안내",
+            "keywords": [
+                "미래혁신원",
+                "2023-07-28",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2023-07-28T09:32:03.029213",
             "title": "[국제C]2023학년도 1학기 마일리지 장학 지급 안내",
+            "keywords": [
+                "미래혁신원",
+                "2023-07-28",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000083",
-            "major": "스페인어학과.취업정보",
+            "department": "스페인어학과.취업정보",
             "timestamp": "2023-07-28T09:34:35.941890",
             "title": "주에콰도르대한민대사관 행정직원(일반직) 채용공고",
+            "keywords": [
+                "스페인어학과",
+                "2023-07-28",
+                "취업"
+            ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000094",
-            "major": "대학생활(일반)",
+            "department": "대학생활(일반)",
             "timestamp": "2023-07-28T09:35:13.203267",
             "title": "(캠퍼스:서울) ★[미래문명원] 2023-2학기 조교 모집 공고",
+            "keywords": [
+                "대학생활(일반)",
+                "2023-07-28",
+                "모집"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2023-07-28T09:35:37.268029",
             "title": "조선의 마지막 유의(儒醫) 『석곡(石谷) 기념관』 임시개관 알림",
+            "keywords": [
+                "문과대학",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005006"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2023-07-28T09:35:46.584811",
             "title": "2022학년도 후기 서울캠퍼스 학위수여식(안) 안내 과사무실",
+            "keywords": [
+                "국어국문학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "http://gukmun.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=006009001001"
         },
         {
             "id": "0S000041",
-            "major": "물리학과",
+            "department": "물리학과",
             "timestamp": "2023-07-28T09:38:22.853587",
             "title": "2023학년도 2학기 분할납부 안내(서울캠퍼스)",
+            "keywords": [
+                "물리학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000041",
-            "major": "물리학과",
+            "department": "물리학과",
             "timestamp": "2023-07-28T09:38:22.883173",
             "title": "[중요]2023학년도 2학기 수업연한초과자(졸업유예) 등록 안내",
+            "keywords": [
+                "물리학과",
+                "2023-07-28",
+                "졸업"
+            ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000041",
-            "major": "물리학과",
+            "department": "물리학과",
             "timestamp": "2023-07-28T09:38:22.945800",
             "title": "[중요]2023학년도 2학기 재학생(복학생) 등록 안내",
+            "keywords": [
+                "물리학과",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000045",
-            "major": "정치외교학과",
+            "department": "정치외교학과",
             "timestamp": "2023-07-28T09:38:40.825286",
             "title": "2023학년도 2학기 수업연한초과자(졸업유예) 등록 안내",
+            "keywords": [
+                "정치외교학과",
+                "2023-07-28",
+                "졸업"
+            ],
             "url": "https://politics.khu.ac.kr/politics/user/bbs/BMSR00040/list.do?menuNo=4800017&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000045",
-            "major": "정치외교학과",
+            "department": "정치외교학과",
             "timestamp": "2023-07-28T09:38:40.857255",
             "title": "2023학년도 2학기 재학생(복학생) 등록 안내",
+            "keywords": [
+                "정치외교학과",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "https://politics.khu.ac.kr/politics/user/bbs/BMSR00040/list.do?menuNo=4800017&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000045",
-            "major": "정치외교학과",
+            "department": "정치외교학과",
             "timestamp": "2023-07-28T09:38:40.898261",
             "title": "2023학년도 2학기 분할납부 안내",
+            "keywords": [
+                "정치외교학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://politics.khu.ac.kr/politics/user/bbs/BMSR00040/list.do?menuNo=4800017&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2023-07-28T09:38:50.044442",
             "title": "2023학년도 2학기 수업연한초과자(졸업유예) 등록 안내",
+            "keywords": [
+                "행정학과",
+                "2023-07-28",
+                "졸업"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2023-07-28T09:38:50.076350",
             "title": "2023학년도 2학기 재학생(복학생) 등록 안내",
+            "keywords": [
+                "행정학과",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2023-07-28T09:38:50.105353",
             "title": "2023학년도 2학기 분할납부 안내(서울C)",
+            "keywords": [
+                "행정학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2023-07-28T09:38:50.894937",
             "title": "2023학년도 2학기 수업연한초과자(졸업유예) 등록 안내",
+            "keywords": [
+                "행정학과",
+                "2023-07-28",
+                "졸업"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2023-07-28T09:38:50.920765",
             "title": "2023학년도 2학기 재학생(복학생) 등록 안내",
+            "keywords": [
+                "행정학과",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2023-07-28T09:38:50.943694",
             "title": "2023학년도 2학기 분할납부 안내(서울C)",
+            "keywords": [
+                "행정학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000048",
-            "major": "사회학과",
+            "department": "사회학과",
             "timestamp": "2023-07-28T09:38:55.287675",
             "title": "2023학년도 2학기 수업연한초과자(졸업유예) 등록 안내",
+            "keywords": [
+                "사회학과",
+                "2023-07-28",
+                "졸업"
+            ],
             "url": "https://soc.khu.ac.kr/soc/user/bbs/BMSR00040/list.do?menuNo=1100015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000056",
-            "major": "국제통상-금융투자학부",
+            "department": "국제통상-금융투자학부",
             "timestamp": "2023-07-28T09:39:29.137466",
             "title": "2023학년도 2학기 수업연한초과자(졸업유예) 등록 안내",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2023-07-28",
+                "졸업"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000056",
-            "major": "국제통상-금융투자학부",
+            "department": "국제통상-금융투자학부",
             "timestamp": "2023-07-28T09:39:29.162699",
             "title": "2023학년도 2학기 재학생(복학생) 등록 안내",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000056",
-            "major": "국제통상-금융투자학부",
+            "department": "국제통상-금융투자학부",
             "timestamp": "2023-07-28T09:39:29.188404",
             "title": "2023학년도 2학기 분할납부 신청 안내(서울캠퍼스)",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2023-07-28T09:39:33.935538",
             "title": "[일반대학원] 정보시스템(인포21 등)서비스 일시중단 안내(2023학년도 2학기 수강신청 기간)",
+            "keywords": [
+                "의과대학",
+                "2023-07-28",
+                "수강신청"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2023-07-28T10:00:02.121275",
             "title": "[홍보] 2023학년도 학습전략 상담 신청 안내",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1385"
         },
         {
             "id": "00000033",
-            "major": "외국어대학",
+            "department": "외국어대학",
             "timestamp": "2023-07-28T10:01:54.340556",
             "title": "2023학년도 학습전략 상담 신청 안내 및 홍보",
+            "keywords": [
+                "외국어대학",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "http://foreign.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004014"
         },
         {
             "id": "0S000054",
-            "major": "무역학과",
+            "department": "무역학과",
             "timestamp": "2023-07-28T10:09:25.072204",
             "title": "2023학년도 2학기 수업연한초과자(졸업유예) 등록 안내",
+            "keywords": [
+                "무역학과",
+                "2023-07-28",
+                "졸업"
+            ],
             "url": "http://trade.khu.ac.kr/trade/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000054",
-            "major": "무역학과",
+            "department": "무역학과",
             "timestamp": "2023-07-28T10:09:25.091226",
             "title": "2023학년도 2학기 재학생(복학생) 등록 안내",
+            "keywords": [
+                "무역학과",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "http://trade.khu.ac.kr/trade/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000054",
-            "major": "무역학과",
+            "department": "무역학과",
             "timestamp": "2023-07-28T10:09:25.114267",
             "title": "2023-2 분할납부 신청 안내(서울캠퍼스)",
+            "keywords": [
+                "무역학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "http://trade.khu.ac.kr/trade/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000074",
-            "major": "법학전문대학원",
+            "department": "법학전문대학원",
             "timestamp": "2023-07-28T10:10:13.289529",
             "title": "법학관 정전예정 안내",
+            "keywords": [
+                "법학전문대학원",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://law.khu.ac.kr/bbs/board.php?bo_table=07_01_01&page=1"
         },
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2023-07-28T10:30:37.590648",
             "title": "(주간식단표0807~0811)",
+            "keywords": [
+                "학생회관(국제)",
+                "2023-07-28",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2023-07-28T10:32:16.450132",
             "title": "[학사] 23-2학기 “전공탐색 및 기업가정신 세미나” 강좌 수업도우미 채용 안내 (신청기간: ~07/29 토 오후 6시까지)",
+            "keywords": [
+                "생체의공학과",
+                "2023-07-28",
+                "세미나",
+                "취업"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2023-07-28T10:32:16.913301",
             "title": "[학사] 23-2학기 “전공탐색 및 기업가정신 세미나” 강좌 수업도우미 채용 안내 (신청기간: ~07/29 토 오후 6시까지)",
+            "keywords": [
+                "생체의공학과",
+                "2023-07-28",
+                "세미나",
+                "취업"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000093",
-            "major": "대학생활(학사)",
+            "department": "대학생활(학사)",
             "timestamp": "2023-07-28T10:34:56.934782",
             "title": "(캠퍼스:공통) 2023학년도 2학기 전과 합격자 발표 안내",
+            "keywords": [
+                "대학생활(학사)",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=UNDERGRADUATE&page=1"
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2023-07-28T10:36:18.369749",
             "title": "정보시스템(인포21 등)서비스 일시중단 안내(2023학년도 2학기 수강신청 기간)",
+            "keywords": [
+                "호텔관광대학",
+                "2023-07-28",
+                "수강신청"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000028",
-            "major": "수학과",
+            "department": "수학과",
             "timestamp": "2023-07-28T10:37:16.537050",
             "title": "2023학년도 하계 방학 중 단축근무 및 집중휴무 실시 안내",
+            "keywords": [
+                "수학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600017&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000074",
-            "major": "법학전문대학원",
+            "department": "법학전문대학원",
             "timestamp": "2023-07-28T10:39:53.346260",
             "title": "교내 건물 정전 안내",
+            "keywords": [
+                "법학전문대학원",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://law.khu.ac.kr/bbs/board.php?bo_table=07_01_01&page=1"
         },
         {
             "id": "00000068",
-            "major": "원자력공학과",
+            "department": "원자력공학과",
             "timestamp": "2023-07-28T11:03:35.264638",
             "title": "2023년 KEA 청년 드림캐쳐 일자리지원 프로젝트 홍보",
+            "keywords": [
+                "원자력공학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://eng.khu.ac.kr/ne/C0880336?page=1&category=&"
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2023-07-28T11:31:13.217606",
             "title": "2023학년도 학습전략 상담 신청 안내",
+            "keywords": [
+                "응용과학대학",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000028",
-            "major": "응용과학대학.취업정보",
+            "department": "응용과학대학.취업정보",
             "timestamp": "2023-07-28T11:31:18.422335",
             "title": "2023학년도 학습전략 상담 신청 안내",
+            "keywords": [
+                "응용과학대학",
+                "2023-07-28",
+                "취업"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000046",
-            "major": "우주과학과",
+            "department": "우주과학과",
             "timestamp": "2023-07-28T11:32:47.195244",
             "title": "2023학년도 학습전략 상담 신청 안내",
+            "keywords": [
+                "우주과학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000086",
-            "major": "아트퓨전디자인대학원",
+            "department": "아트퓨전디자인대학원",
             "timestamp": "2023-07-28T11:34:42.493796",
             "title": "2023학년도 2학기 등록일정 안내",
+            "keywords": [
+                "아트퓨전디자인대학원",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "http://afd.khu.ac.kr/bbs/board.php?bo_table=06_01&wr_id=442&page=1"
         },
         {
             "id": "00000090",
-            "major": "일반대학원",
+            "department": "일반대학원",
             "timestamp": "2023-07-28T11:34:55.051885",
             "title": "(공통) [경영대학 행정실] 2022학년도 2학기 대학원 경영학과 행정실 조교(1형) -(국…",
+            "keywords": [
+                "일반대학원",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
         {
             "id": "0S000049",
-            "major": "미디어학과",
+            "department": "미디어학과",
             "timestamp": "2023-07-28T11:38:57.421397",
             "title": "2023학년도 2학기 수업연한초과자(졸업유예) 등록 안내",
+            "keywords": [
+                "미디어학과",
+                "2023-07-28",
+                "졸업"
+            ],
             "url": "https://mediacom.khu.ac.kr/media/user/bbs/BMSR00040/list.do?menuNo=4600044&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000049",
-            "major": "미디어학과",
+            "department": "미디어학과",
             "timestamp": "2023-07-28T11:38:57.508879",
             "title": "2023학년도 2학기 재학생(복학생) 등록 안내",
+            "keywords": [
+                "미디어학과",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "https://mediacom.khu.ac.kr/media/user/bbs/BMSR00040/list.do?menuNo=4600044&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000049",
-            "major": "미디어학과",
+            "department": "미디어학과",
             "timestamp": "2023-07-28T11:38:57.536115",
             "title": "2023학년도 2학기 분할납부 신청 안내(서울캠퍼스)",
+            "keywords": [
+                "미디어학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://mediacom.khu.ac.kr/media/user/bbs/BMSR00040/list.do?menuNo=4600044&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2023-07-28T11:39:43.149768",
             "title": "2023학년도 2학기 분할납부 안내(서울캠퍼스)",
+            "keywords": [
+                "경영대학",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2023-07-28T11:39:43.150025",
             "title": "2023학년도 2학기 수업연한초과자(졸업유예자) 등록 안내",
+            "keywords": [
+                "경영대학",
+                "2023-07-28",
+                "졸업"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2023-07-28T11:39:43.150274",
             "title": "2023학년도 2학기 재학생(복학생) 등록 안내",
+            "keywords": [
+                "경영대학",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "00000090",
-            "major": "일반대학원",
+            "department": "일반대학원",
             "timestamp": "2023-07-28T13:34:59.469406",
             "title": "(서울) [경영대학 행정실] 2023학년도 2학기 대학원 경영학과 행정실 조교(1형) -(국…",
+            "keywords": [
+                "일반대학원",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2023-07-28T13:36:31.521639",
             "title": "[체류관리] 2023-2 외국인 유학생 비자업무 대행 서비스 일정 안내",
+            "keywords": [
+                "호텔관광대학",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000078",
-            "major": "교육대학원(국제)",
+            "department": "교육대학원(국제)",
             "timestamp": "2023-07-28T13:40:25.327850",
             "title": "[학사] 2022학년도 후기(2023년 8월) 학위수여식 및 수료식 안내",
+            "keywords": [
+                "교육대학원(국제)",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://edu.khu.ac.kr/bbs/board.php?bo_table=global_5_1&page=1"
         },
         {
             "id": "0S000032",
-            "major": "화학과",
+            "department": "화학과",
             "timestamp": "2023-07-28T14:07:35.835464",
             "title": "2023학년도 2학기 화학과 수강신청의뢰서 제출 안내",
+            "keywords": [
+                "화학과",
+                "2023-07-28",
+                "수강신청"
+            ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000033",
-            "major": "생물학과",
+            "department": "생물학과",
             "timestamp": "2023-07-28T14:07:40.364233",
             "title": "2023학년도 2학기 분할납부 신청안내",
+            "keywords": [
+                "생물학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900033&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000033",
-            "major": "생물학과",
+            "department": "생물학과",
             "timestamp": "2023-07-28T14:07:40.435739",
             "title": "2023학년도 2학기 학부생 등록기간 안내(수업연한초과자)",
+            "keywords": [
+                "생물학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900033&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000033",
-            "major": "생물학과",
+            "department": "생물학과",
             "timestamp": "2023-07-28T14:07:40.503864",
             "title": "2023학년도 2학기 학부생 (재학생_복학생) 등록기간 안내",
+            "keywords": [
+                "생물학과",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900033&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000006",
-            "major": "컴퓨터공학부",
+            "department": "컴퓨터공학부",
             "timestamp": "2023-07-28T14:30:06.939524",
             "title": "**[공지] 학기당 수강제한학점 시스템 오류 안내 (문의는 학사지원팀)",
+            "keywords": [
+                "컴퓨터공학부",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600045&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000087",
-            "major": "체육대학원.중요공지",
+            "department": "체육대학원.중요공지",
             "timestamp": "2023-07-28T14:34:43.469134",
             "title": "2023학년도 2학기 재학생(복학생, 장학생 포함) 등록안내",
+            "keywords": [
+                "체육대학원",
+                "2023-07-28",
+                "장학",
+                "휴·복학"
+            ],
             "url": "http://gradsport.khu.ac.kr/bbs/board.php?bo_table=07_01&page=1"
         },
         {
             "id": "00000094",
-            "major": "대학생활(일반)",
+            "department": "대학생활(일반)",
             "timestamp": "2023-07-28T14:35:06.655960",
             "title": "(캠퍼스:국제) 2023학년도 하계방학 International pro...",
+            "keywords": [
+                "대학생활(일반)",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2023-07-28T15:00:01.210638",
             "title": "[필독] 2023-2학기 수강 강제입력 관련 안내",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1386"
         },
         {
             "id": "00000005",
-            "major": "소프트웨어융합학과.취업정보",
+            "department": "소프트웨어융합학과.취업정보",
             "timestamp": "2023-07-28T15:00:08.484921",
             "title": "[SK하이닉스 하인슈타인 대학생 서포터즈 홍보 안내]",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-07-28",
+                "취업"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/%ec%b7%a8%ec%97%85%ec%a0%95%eb%b3%b4/?vid=254"
         },
         {
             "id": "00000090",
-            "major": "일반대학원",
+            "department": "일반대학원",
             "timestamp": "2023-07-28T15:05:02.493692",
             "title": "(공통) [조교] 일반대학원 산업디자인학과 조교(Ⅱ형) 모집 공고",
+            "keywords": [
+                "일반대학원",
+                "2023-07-28",
+                "모집"
+            ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
         {
             "id": "00000090",
-            "major": "일반대학원",
+            "department": "일반대학원",
             "timestamp": "2023-07-28T15:05:02.519492",
             "title": "(서울) 목련장학 신청 관련 안내(만 40세이상 소득구간 확인서 발급 관련)",
+            "keywords": [
+                "일반대학원",
+                "2023-07-28",
+                "장학"
+            ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
         {
             "id": "00000094",
-            "major": "대학생활(일반)",
+            "department": "대학생활(일반)",
             "timestamp": "2023-07-28T15:05:18.294275",
             "title": "(캠퍼스:국제) 2023-2학기 예술디자인대학 [일반대학원 산업디자인학...",
+            "keywords": [
+                "대학생활(일반)",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
         {
             "id": "00000094",
-            "major": "대학생활(일반)",
+            "department": "대학생활(일반)",
             "timestamp": "2023-07-28T15:05:18.345558",
             "title": "(캠퍼스:공통) [대한상공회의소] EXPO 서포터즈 3기 모집",
+            "keywords": [
+                "대학생활(일반)",
+                "2023-07-28",
+                "모집"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
         {
             "id": "00000025",
-            "major": "국제대학",
+            "department": "국제대학",
             "timestamp": "2023-07-28T15:31:03.471257",
             "title": "국제기구 및 비영리 단체 글로벌 기업 취업을 위한 핵심역략 강화 프로그램 공지",
+            "keywords": [
+                "국제대학",
+                "2023-07-28",
+                "취업"
+            ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000090",
-            "major": "일반대학원",
+            "department": "일반대학원",
             "timestamp": "2023-07-28T15:34:49.809290",
             "title": "(공통) ★[조교장학] 신입생·재학생 조교 지원 및 모집 공고 확인 방법 (서울,국제)…",
+            "keywords": [
+                "일반대학원",
+                "2023-07-28",
+                "모집",
+                "장학"
+            ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
         {
             "id": "00000096",
-            "major": "대학생활(교내학점교류)",
+            "department": "대학생활(교내학점교류)",
             "timestamp": "2023-07-28T15:35:13.103650",
             "title": "(캠퍼스:공통) [배재대학교-첨단분야 혁신융합대학] 2023학년도 2학...",
+            "keywords": [
+                "대학생활(교내학점교류)",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=CREDIT&page=1"
         },
         {
             "id": "0S000077",
-            "major": "교육대학원(서울)",
+            "department": "교육대학원(서울)",
             "timestamp": "2023-07-28T15:40:22.449036",
             "title": "[논문] 2023-2학기 논문대체 승인 신청 안내(복학생 및 수료생, 3기 이상 재학생) (8.3~8.16)",
+            "keywords": [
+                "교육대학원(서울)",
+                "2023-07-28",
+                "논문",
+                "휴·복학"
+            ],
             "url": "https://edu.khu.ac.kr/bbs/board.php?bo_table=seoul_5_1&page=1"
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2023-07-28T16:35:29.352673",
             "title": "2023학년도 제3회 문과대학 학술제 공모 심사 결과",
+            "keywords": [
+                "문과대학",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005006"
         },
         {
             "id": "0S000078",
-            "major": "교육대학원(국제)",
+            "department": "교육대학원(국제)",
             "timestamp": "2023-07-28T16:40:16.889939",
             "title": "[학사] [입시] 2023학년도 후기 경희대학교 교육대학원 석사과정 신입생 추가모집(3차) 안내",
+            "keywords": [
+                "교육대학원(국제)",
+                "2023-07-28",
+                "모집"
+            ],
             "url": "https://edu.khu.ac.kr/bbs/board.php?bo_table=global_5_1&page=1"
         },
         {
             "id": "00000019",
-            "major": "우정원",
+            "department": "우정원",
             "timestamp": "2023-07-28T17:00:41.470429",
             "title": "[8/1~2] 기숙사 남녀동 승강기쪽 계단 사용 불가 및 출입 제한 안내NEW",
+            "keywords": [
+                "우정원",
+                "2023-07-28",
+                "기숙사"
+            ],
             "url": "https://wjwdorm.khu.ac.kr/60/6010.kmc"
         },
         {
             "id": "0S000081",
-            "major": "행복기숙사",
+            "department": "행복기숙사",
             "timestamp": "2023-07-28T17:10:24.152127",
             "title": "[전체] 2023-2학기 행복기숙사 학부 재학생 추가입사 모집안내(남자 6개월)NEW",
+            "keywords": [
+                "행복기숙사",
+                "2023-07-28",
+                "기숙사",
+                "모집"
+            ],
             "url": "https://happydorm.khu.ac.kr/60/6010.kmc"
         },
         {
             "id": "00000093",
-            "major": "대학생활(학사)",
+            "department": "대학생활(학사)",
             "timestamp": "2023-07-28T19:04:53.528389",
             "title": "(캠퍼스:서울) [서울캠퍼스 학부] 2022학년도 후기(2023.08)...",
+            "keywords": [
+                "대학생활(학사)",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=UNDERGRADUATE&page=1"
         },
         {
             "id": "00000096",
-            "major": "대학생활(교내학점교류)",
+            "department": "대학생활(교내학점교류)",
             "timestamp": "2023-07-28T19:05:08.172936",
             "title": "(캠퍼스:공통) 2023학년도 2학기 타대학 소속 학점교류생 학번 안내",
+            "keywords": [
+                "대학생활(교내학점교류)",
+                "2023-07-28",
+                "학점교류"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=CREDIT&page=1"
         },
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2023-07-28T20:00:08.701095",
             "title": "다전공 융합리더",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-07-28",
+                "다·부전공"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=626"
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2023-07-28T21:10:04.614809",
             "title": "[서울캠퍼스 학부] 2022학년도 후기(2023.08) 학위수여석 관련 안내",
+            "keywords": [
+                "경영대학",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "0S000051",
-            "major": "경제학과",
+            "department": "경제학과",
             "timestamp": "2023-07-28T23:10:06.932654",
             "title": "2023학년도 2학기 수업연한초과자(졸업유예자) 등록 안내",
+            "keywords": [
+                "경제학과",
+                "2023-07-28",
+                "졸업"
+            ],
             "url": "https://econ.khu.ac.kr/econ/user/bbs/BMSR00040/list.do?menuNo=4400060&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000051",
-            "major": "경제학과",
+            "department": "경제학과",
             "timestamp": "2023-07-28T23:10:06.957557",
             "title": "2023학년도 2학기 재학생(복학생) 등록 안내",
+            "keywords": [
+                "경제학과",
+                "2023-07-28",
+                "휴·복학"
+            ],
             "url": "https://econ.khu.ac.kr/econ/user/bbs/BMSR00040/list.do?menuNo=4400060&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000051",
-            "major": "경제학과",
+            "department": "경제학과",
             "timestamp": "2023-07-28T23:10:06.982932",
             "title": "2023학년도 2학기 분할납부 안내(서울C)",
+            "keywords": [
+                "경제학과",
+                "2023-07-28",
+                "기타"
+            ],
             "url": "https://econ.khu.ac.kr/econ/user/bbs/BMSR00040/list.do?menuNo=4400060&pageIndex=2&searchCondition=&searchKeyword="
         }
     ]

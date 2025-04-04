@@ -4,9 +4,14 @@
     "stacks": [
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2024-07-14T23:00:20.904460",
             "title": "주간식단표 240715-0719",
+            "keywords": [
+                "학생회관(국제)",
+                "2024-07-14",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/user/bbs/BMSR00040/list.do?menuNo=200283&pageIndex=1&catId=137&searchCondition=&searchKeyword="
         }
     ]

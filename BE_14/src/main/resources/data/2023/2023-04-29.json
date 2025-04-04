@@ -4,16 +4,27 @@
     "stacks": [
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2023-04-29T09:08:27.255622",
             "title": "서울시50플러스재단 제2차 직원채용",
+            "keywords": [
+                "정경대학",
+                "2023-04-29",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000057",
-            "major": "국제통상-금융투자학부.장학및홍보",
+            "department": "국제통상-금융투자학부.장학및홍보",
             "timestamp": "2023-04-29T09:39:10.343562",
             "title": "[한국콘텐츠진흥원] 2023년 콘텐츠 수출·마케팅 전문인력 양성 교육생 모집 안내",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2023-04-29",
+                "모집",
+                "장학"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=scholarship&page=1"
         }
     ]

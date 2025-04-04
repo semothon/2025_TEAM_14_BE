@@ -1,5 +1,6 @@
 package com.example.BE_14;
 
+import com.example.BE_14.entity.Keyword;
 import com.example.BE_14.entity.StackEntry;
 import com.example.BE_14.repository.StackRepository;
 import com.fasterxml.jackson.databind.JsonNode;
@@ -26,7 +27,6 @@ public class DataLoader implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        // classpath 아래의 data 폴더 내 모든 하위 폴더의 *.json 파일 검색
         PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();
         Resource[] resources = resolver.getResources("classpath*:/data/**/*.json");
 
@@ -46,26 +46,33 @@ public class DataLoader implements CommandLineRunner {
                 if (stacksNode.isArray()) {
                     List<StackEntry> entries = new ArrayList<>();
                     for (JsonNode node : stacksNode) {
-                        String jsonId = node.path("id").asText();
-
-                        // 이미 존재하는 jsonId는 건너뜀
-                        if (stackRepository.findByJsonId(jsonId).isPresent()) {
-                            continue;
-                        }
-
-                        String major = node.path("major").asText();
+                        String department = node.path("department").asText();
                         String timestampStr = node.path("timestamp").asText();
                         LocalDateTime timestamp = LocalDateTime.parse(timestampStr, formatter);
                         String title = node.path("title").asText();
                         String url = node.path("url").asText();
 
                         StackEntry entry = StackEntry.builder()
-                                .jsonId(jsonId)
-                                .major(major)
+                                .major(department)
                                 .timestamp(timestamp)
                                 .title(title)
                                 .url(url)
                                 .build();
+
+// 키워드 처리
+                        JsonNode keywordsNode = node.path("keywords");
+                        if (keywordsNode.isArray()) {
+                            List<Keyword> keywordEntities = new ArrayList<>();
+                            for (JsonNode keywordNode : keywordsNode) {
+                                Keyword keyword = Keyword.builder()
+                                        .keyword(keywordNode.asText())
+                                        .stackEntry(entry) // 연관 설정
+                                        .build();
+                                keywordEntities.add(keyword);
+                            }
+                            entry.setKeywords(keywordEntities);
+                        }
+
                         entries.add(entry);
                     }
 
@@ -74,7 +81,7 @@ public class DataLoader implements CommandLineRunner {
                         totalCount += entries.size();
                         System.out.println("파일 " + resource.getFilename() + " 처리 완료, " + entries.size() + " 건 저장됨.");
                     } else {
-                        System.out.println("파일 " + resource.getFilename() + " 에서 저장할 새로운 데이터가 없습니다.");
+                        System.out.println("파일 " + resource.getFilename() + " 에서 저장할 데이터 없음.");
                     }
                 }
             } catch (Exception e) {

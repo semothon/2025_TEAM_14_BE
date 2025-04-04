@@ -4,513 +4,884 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2023-12-28T23:32:18.016847",
             "title": "오늘의 채용공고가 24건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=2"
         },
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2023-12-28T00:00:38.168191",
             "title": "주간식단표 231226-231229",
+            "keywords": [
+                "학생회관(국제)",
+                "2023-12-28",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "0S000083",
-            "major": "생활협동조합(서울).주간식당메뉴",
+            "department": "생활협동조합(서울).주간식당메뉴",
             "timestamp": "2023-12-28T00:12:19.470142",
             "title": "12월 4주차 청운관식당(학생/교직원) 주간메뉴표",
+            "keywords": [
+                "생활협동조합(서울)",
+                "2023-12-28",
+                "학식"
+            ],
             "url": "https://coop.khu.ac.kr/9%ec%9b%94-3%ec%a3%bc%ec%b0%a8-%ec%a3%bc%ea%b0%84%eb%a9%94%eb%89%b4%ed%91%9c-2-copy-copy/"
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2023-12-28T09:03:57.323082",
             "title": "[스펙업] 2023년 12월 27일 채용 및 대외활동 정보",
+            "keywords": [
+                "프랑스어학과",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000077",
-            "major": "한국어학과.취업정보",
+            "department": "한국어학과.취업정보",
             "timestamp": "2023-12-28T09:04:08.031989",
             "title": "[스펙업] 2023년 12월 27일 채용 및 대외활동 정보",
+            "keywords": [
+                "한국어학과",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "http://korean.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000077",
-            "major": "한국어학과.취업정보",
+            "department": "한국어학과.취업정보",
             "timestamp": "2023-12-28T09:04:08.062942",
             "title": "[아모레퍼시픽그룹] 2024 상반기 신입사원 수시채용 (~1/5)",
+            "keywords": [
+                "한국어학과",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "http://korean.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000081",
-            "major": "한국어학과.자유게시판",
+            "department": "한국어학과.자유게시판",
             "timestamp": "2023-12-28T09:04:23.128888",
             "title": "[한국화법학회] 2024 봄 정기학술대회 개인 발표 신청",
+            "keywords": [
+                "한국어학과",
+                "2023-12-28",
+                "공모전"
+            ],
             "url": "http://korean.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
         {
             "id": "00000083",
-            "major": "스페인어학과.취업정보",
+            "department": "스페인어학과.취업정보",
             "timestamp": "2023-12-28T09:04:31.308211",
             "title": "[스펙업] 2023년 12월 27일 채용 및 대외활동 정보",
+            "keywords": [
+                "스페인어학과",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "0S000019",
-            "major": "무용학부.자유게시판",
+            "department": "무용학부.자유게시판",
             "timestamp": "2023-12-28T09:06:42.823110",
             "title": "서울시발레단 2024년 무용수 선발 오디션 안내",
+            "keywords": [
+                "무용학부",
+                "2023-12-28",
+                "기타"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00041/list.do?menuNo=300046&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000040",
-            "major": "지리학과.장학공지",
+            "department": "지리학과.장학공지",
             "timestamp": "2023-12-28T09:08:11.074819",
             "title": "2024-1학기 교내장학(우정장학 포함) 신청안내",
+            "keywords": [
+                "지리학과",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600058&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000031",
-            "major": "체육대학",
+            "department": "체육대학",
             "timestamp": "2023-12-28T09:31:30.747063",
             "title": "경희대학교 2024학년도 전기 일반대학원 정원내 신입학 추가모집 안내",
+            "keywords": [
+                "체육대학",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "http://sports.khu.ac.kr/bbs/board.php?bo_table=05_01&page=1"
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2023-12-28T09:32:22.888011",
             "title": "[홍보] [국제C] 경희대학교 2024학년도 전기 일반대학원 정원내 신입학 추가모집 안내",
+            "keywords": [
+                "생체의공학과",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2023-12-28T09:32:30.645186",
             "title": "[공지] 2024-1학기 종합설계 신청 안내",
+            "keywords": [
+                "전자공학과",
+                "2023-12-28",
+                "기타"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000062",
-            "major": "건축공학과",
+            "department": "건축공학과",
             "timestamp": "2023-12-28T09:33:32.285536",
             "title": "2024학년도 1학기 일반대학원 수강신청 안내",
+            "keywords": [
+                "건축공학과",
+                "2023-12-28",
+                "수강신청"
+            ],
             "url": "https://eng.khu.ac.kr/archieng/C0450331?page=1&category=&"
         },
         {
             "id": "00000062",
-            "major": "건축공학과",
+            "department": "건축공학과",
             "timestamp": "2023-12-28T09:33:32.286789",
             "title": "2024학년도 1학기 예비군 전입 신고 안내",
+            "keywords": [
+                "건축공학과",
+                "2023-12-28",
+                "예비군"
+            ],
             "url": "https://eng.khu.ac.kr/archieng/C0450331?page=1&category=&"
         },
         {
             "id": "00000082",
-            "major": "스페인어학과",
+            "department": "스페인어학과",
             "timestamp": "2023-12-28T09:34:25.245651",
             "title": "동계 해외인턴십 장학증서 수여식",
+            "keywords": [
+                "스페인어학과",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
         {
             "id": "0S000043",
-            "major": "정경대학.장학안내",
+            "department": "정경대학.장학안내",
             "timestamp": "2023-12-28T09:38:22.967652",
             "title": "2024학년도 1학기 교내장학금 (우정장학 포함) 신청 안내",
+            "keywords": [
+                "정경대학",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500021&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000042",
-            "major": "생체의공학과.취업",
+            "department": "생체의공학과.취업",
             "timestamp": "2023-12-28T10:02:31.709439",
             "title": "[홍보] 경희대학교 국제캠퍼스 배리어프리 맵",
+            "keywords": [
+                "생체의공학과",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000042",
-            "major": "생체의공학과.취업",
+            "department": "생체의공학과.취업",
             "timestamp": "2023-12-28T10:02:31.740537",
             "title": "[홍보] 2023학년도 동계방학 취업 완벽 대비 Just Do It 프로그램 참여자 모집",
+            "keywords": [
+                "생체의공학과",
+                "2023-12-28",
+                "모집",
+                "취업"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000090",
-            "major": "일반대학원",
+            "department": "일반대학원",
             "timestamp": "2023-12-28T10:05:59.057737",
             "title": "(국제) 2024학년도 1학기 일반대학원(국제) 전과 모집 안내",
+            "keywords": [
+                "일반대학원",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
         {
             "id": "00000090",
-            "major": "일반대학원",
+            "department": "일반대학원",
             "timestamp": "2023-12-28T10:05:59.079965",
             "title": "(공통) 2024학년도 전기 일반대학원 정원내(내국인) 신입생 추가모집 일정 및 모집…",
+            "keywords": [
+                "일반대학원",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2023-12-28T10:06:46.783852",
             "title": "2024-1학기 교내장학(우정장학 포함) 신청 안내 과사무실",
+            "keywords": [
+                "국어국문학과",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "http://gukmun.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=006009001001"
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2023-12-28T10:10:58.902666",
             "title": " 경희대학교 2024학년도 전기 일반대학원 정원내 신입학 추가모집 안내",
+            "keywords": [
+                "식품영양학과",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000058",
-            "major": "정보전자신소재공학과",
+            "department": "정보전자신소재공학과",
             "timestamp": "2023-12-28T10:33:53.260709",
             "title": "2024년도 선암장학재단 장학생 추천 안내",
+            "keywords": [
+                "정보전자신소재공학과",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "https://eng.khu.ac.kr/amie/C1350327?page=1&category=&"
         },
         {
             "id": "0S000037",
-            "major": "정보디스플레이학과",
+            "department": "정보디스플레이학과",
             "timestamp": "2023-12-28T10:39:10.652748",
             "title": "2024학년도 전기 일반대학원 정원내 신입학 추가모집 안내",
+            "keywords": [
+                "정보디스플레이학과",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "https://display.khu.ac.kr/display/user/bbs/BMSR00040/list.do?menuNo=3500019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000060",
-            "major": "한의과대학",
+            "department": "한의과대학",
             "timestamp": "2023-12-28T10:40:47.686630",
             "title": "조기취업자 출석인정에 관한 지침 개정 안내",
+            "keywords": [
+                "한의과대학",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "https://kmc.khu.ac.kr/kmc/user/bbs/BMSR00040/list.do?menuNo=4200106&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000060",
-            "major": "한의과대학",
+            "department": "한의과대학",
             "timestamp": "2023-12-28T10:40:47.686895",
             "title": "2024-1학기 수강희망과목담기 안내",
+            "keywords": [
+                "한의과대학",
+                "2023-12-28",
+                "수강신청"
+            ],
             "url": "https://kmc.khu.ac.kr/kmc/user/bbs/BMSR00040/list.do?menuNo=4200106&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2023-12-28T10:40:56.321726",
             "title": "[장학] 2024-1 학기 교내장학금 신청 안내",
+            "keywords": [
+                "간호과학대학",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2023-12-28T10:40:56.791592",
             "title": "[장학] 2024-1 학기 교내장학금 신청 안내",
+            "keywords": [
+                "간호과학대학",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "00000016",
-            "major": "글로벌커뮤니케이션학부.취업",
+            "department": "글로벌커뮤니케이션학부.취업",
             "timestamp": "2023-12-28T11:00:31.294899",
             "title": "[스펙업] 채용 및 대외활동 정보",
+            "keywords": [
+                "글로벌커뮤니케이션학부",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "http://deptofenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=001003001003"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2023-12-28T11:07:08.337074",
             "title": "2024-1학기 이수옥 장학기금 장학생 선발 공지 (~01/07까지 지... 과사무실",
+            "keywords": [
+                "국어국문학과",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "http://gukmun.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=006009001001"
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2023-12-28T11:07:51.992005",
             "title": "2024학년도 1학기 수강희망과목담기 안내",
+            "keywords": [
+                "호텔관광대학",
+                "2023-12-28",
+                "수강신청"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2023-12-28T11:07:51.992227",
             "title": "조기취업자 출석인정에 관한 지침(2024.03.01 개정)",
+            "keywords": [
+                "호텔관광대학",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2023-12-28T11:11:08.767401",
             "title": "2024학년도 1학기 교내장학금(우정장학 포함) 신청 안내",
+            "keywords": [
+                "식품영양학과",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2023-12-28T11:11:08.770136",
             "title": "2024학년도 1학기 교내장학금(우정장학 포함) 신청 안내",
+            "keywords": [
+                "식품영양학과",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000007",
-            "major": "컴퓨터공학부.취업",
+            "department": "컴퓨터공학부.취업",
             "timestamp": "2023-12-28T11:30:06.235826",
             "title": "[채용] 하이퍼커넥트 2024 상반기 AI/ML 직군 신입 공개채용 (접수 기간: -01/21)",
+            "keywords": [
+                "컴퓨터공학부",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000094",
-            "major": "대학생활(일반)",
+            "department": "대학생활(일반)",
             "timestamp": "2023-12-28T11:35:17.738561",
             "title": "(캠퍼스:공통) 미래문명원 글로벌사업팀 기간제 근로자(육아휴직 대체) ...",
+            "keywords": [
+                "대학생활(일반)",
+                "2023-12-28",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
         {
             "id": "0S000010",
-            "major": "문과대학.취업정보",
+            "department": "문과대학.취업정보",
             "timestamp": "2023-12-28T11:36:23.440071",
             "title": "[오리온] 2024년 동계 채용연계형 인턴십 (~1/7)",
+            "keywords": [
+                "문과대학",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005003"
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2023-12-28T11:36:35.176457",
             "title": "2024학년도 1학기 수강신청 일정(장애학생, 교환학생)",
+            "keywords": [
+                "호텔관광대학",
+                "2023-12-28",
+                "수강신청"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000007",
-            "major": "컴퓨터공학부.취업",
+            "department": "컴퓨터공학부.취업",
             "timestamp": "2023-12-28T12:00:08.857817",
             "title": "[인턴십] 24년 상반기 ICT 학점연계 프로젝트 인턴십 글로벌 과정 모집 (접수 기간: - 01/10 15시) ",
+            "keywords": [
+                "컴퓨터공학부",
+                "2023-12-28",
+                "모집",
+                "취업"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000007",
-            "major": "컴퓨터공학부.취업",
+            "department": "컴퓨터공학부.취업",
             "timestamp": "2023-12-28T12:00:08.857987",
             "title": "[채용] 2024 아모레퍼시픽그룹 상반기 신입사원 수시채용 (접수 기간: - 01/05 23:59)",
+            "keywords": [
+                "컴퓨터공학부",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000001",
-            "major": "중앙도서관(서울)",
+            "department": "중앙도서관(서울)",
             "timestamp": "2023-12-28T12:07:04.330327",
             "title": "WestLaw 접속 방법 변경 안내 (24.1.1부터)",
+            "keywords": [
+                "중앙도서관(서울)",
+                "2023-12-28",
+                "기타"
+            ],
             "url": "https://library.khu.ac.kr/seoul/blog/WestLaw-2411"
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2023-12-28T12:07:59.196938",
             "title": "[호텔관광대학] 개별 냉난방공사 안내(2024.01.01~2024.02.08)",
+            "keywords": [
+                "호텔관광대학",
+                "2023-12-28",
+                "기타"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000015",
-            "major": "호텔관광대학.장학공지사항",
+            "department": "호텔관광대학.장학공지사항",
             "timestamp": "2023-12-28T12:08:00.193084",
             "title": "2024학년도 1학기 (주)취영루 장학기금 장학생 추천 안내",
+            "keywords": [
+                "호텔관광대학",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900109&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000094",
-            "major": "대학생활(일반)",
+            "department": "대학생활(일반)",
             "timestamp": "2023-12-28T13:05:14.810808",
             "title": "(캠퍼스:공통) 등재지 『오토피아』 제38권 3호 원고 모집(마감일 연...",
+            "keywords": [
+                "대학생활(일반)",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2023-12-28T13:32:49.819735",
             "title": "[홍보] 2023학년도 동계방학 취업 완벽 대비 Just Do It 프로그램 참여자 모집",
+            "keywords": [
+                "전자공학과",
+                "2023-12-28",
+                "모집",
+                "취업"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2023-12-28T13:38:07.157457",
             "title": "2024학년도 1학기 수강희망과목담기 안내",
+            "keywords": [
+                "무용학부",
+                "2023-12-28",
+                "수강신청"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000022",
-            "major": "음악대학",
+            "department": "음악대학",
             "timestamp": "2023-12-28T13:38:27.159293",
             "title": "[학부]2024학년도 1학기 수강희막과목담기 안내",
+            "keywords": [
+                "음악대학",
+                "2023-12-28",
+                "기타"
+            ],
             "url": "http://music.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005013"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2023-12-28T13:41:08.682136",
             "title": "[취업] [존슨앤드존슨] 영업직 수시채용 공고",
+            "keywords": [
+                "간호과학대학",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2023-12-28T13:41:09.161730",
             "title": "[취업] [존슨앤드존슨] 영업직 수시채용 공고",
+            "keywords": [
+                "간호과학대학",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2023-12-28T14:01:13.965956",
             "title": "경희대학교 국제캠퍼스 배리어프리맵 제작 공모전 1등 수상작",
+            "keywords": [
+                "응용과학대학",
+                "2023-12-28",
+                "공모전"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000028",
-            "major": "응용과학대학.취업정보",
+            "department": "응용과학대학.취업정보",
             "timestamp": "2023-12-28T14:01:19.649607",
             "title": "경희대학교 국제캠퍼스 배리어프리맵 제작 공모전 1등 수상작",
+            "keywords": [
+                "응용과학대학",
+                "2023-12-28",
+                "공모전",
+                "취업"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2023-12-28T14:02:51.921671",
             "title": "[안내] [국제C] 경희대학교 2024학년도 전기 일반대학원 정원내 신입학 추가모집 안내",
+            "keywords": [
+                "전자공학과",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2023-12-28T14:03:00.418649",
             "title": "[홍보] 경희대학교 국제캠퍼스 배리어프리맵 제작 공모전 1등 수상작 홍보",
+            "keywords": [
+                "전자공학과",
+                "2023-12-28",
+                "공모전"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000046",
-            "major": "우주과학과",
+            "department": "우주과학과",
             "timestamp": "2023-12-28T14:03:05.351722",
             "title": "경희대학교 국제캠퍼스 배리어프리맵 제작 공모전 1등 수상작",
+            "keywords": [
+                "우주과학과",
+                "2023-12-28",
+                "공모전"
+            ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000048",
-            "major": "우주과학과.취업정보",
+            "department": "우주과학과.취업정보",
             "timestamp": "2023-12-28T14:03:13.469588",
             "title": "2023학년도 동계방학 경희대학교 취업 프로그램 JUST DO IT",
+            "keywords": [
+                "우주과학과",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200046&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2023-12-28T14:07:38.430716",
             "title": "조기취업자 출석인정에 관한 지침 개정 안내 (2024.03.01~)",
+            "keywords": [
+                "무용학부",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2023-12-28T14:10:57.400367",
             "title": "[학사] 2024학년도 1학기 수강희망과목담기 안내",
+            "keywords": [
+                "의과대학",
+                "2023-12-28",
+                "수강신청"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2023-12-28T14:10:57.403718",
             "title": "[장학] 2024학년도 1학기 양천장학회 장학생 선발 안내",
+            "keywords": [
+                "의과대학",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2023-12-28T14:40:38.919708",
             "title": "[일반] 2024학년도 1학기 수강희망과목담기 안내",
+            "keywords": [
+                "간호과학대학",
+                "2023-12-28",
+                "수강신청"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2023-12-28T14:40:39.423324",
             "title": "[일반] 2024학년도 1학기 수강희망과목담기 안내",
+            "keywords": [
+                "간호과학대학",
+                "2023-12-28",
+                "수강신청"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2023-12-28T14:40:44.338992",
             "title": "[중요] 2024학년도 1학기 수강희망과목담기 안내",
+            "keywords": [
+                "식품영양학과",
+                "2023-12-28",
+                "수강신청"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2023-12-28T14:40:44.341899",
             "title": "[중요] 2024학년도 1학기 수강희망과목담기 안내",
+            "keywords": [
+                "식품영양학과",
+                "2023-12-28",
+                "수강신청"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000076",
-            "major": "치과대학-일반대학원",
+            "department": "치과대학-일반대학원",
             "timestamp": "2023-12-28T14:41:16.552241",
             "title": "전기 일반대학원 정원내 신(편)입학 추가 모집 안내",
+            "keywords": [
+                "치과대학-일반대학원",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "http://dental.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001003"
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2023-12-28T15:02:17.175885",
             "title": "[국제][교내] 2023학년도 2학기 교외장학생 선정 꿀팁 공모전 1위 수상작",
+            "keywords": [
+                "미래혁신원",
+                "2023-12-28",
+                "공모전",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2023-12-28T15:02:17.180804",
             "title": "[국제][교내] 2023학년도 2학기 교외장학생 선정 꿀팁 공모전 1위 수상작",
+            "keywords": [
+                "미래혁신원",
+                "2023-12-28",
+                "공모전",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000075",
-            "major": "러시아어학과.취업정보",
+            "department": "러시아어학과.취업정보",
             "timestamp": "2023-12-28T15:04:18.617839",
             "title": "[아모레퍼시픽그룹] 2024 상반기 신입사원 수시채용 (~1/5)",
+            "keywords": [
+                "러시아어학과",
+                "2023-12-28",
+                "취업"
+            ],
             "url": "http://russia.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000079",
-            "major": "러시아어학과.자유게시판",
+            "department": "러시아어학과.자유게시판",
             "timestamp": "2023-12-28T15:04:33.531857",
             "title": "외국인피팅모델 모집합니다 (지플랜브랜드청바지편집샵)",
+            "keywords": [
+                "러시아어학과",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "http://russia.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
         {
             "id": "00000095",
-            "major": "대학생활(장학)",
+            "department": "대학생활(장학)",
             "timestamp": "2023-12-28T15:05:41.874765",
             "title": "(캠퍼스:국제) [국제][교내] 2023학년도 2학기 교외장학생 선정 ...",
+            "keywords": [
+                "대학생활(장학)",
+                "2023-12-28",
+                "장학"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=SCHOLARSHIP&page=1"
         },
         {
             "id": "0S000032",
-            "major": "화학과",
+            "department": "화학과",
             "timestamp": "2023-12-28T15:08:40.520328",
             "title": "경희대학교 2024학년도 전기 일반대학원 정원내 신입학 추가모집 안내",
+            "keywords": [
+                "화학과",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000041",
-            "major": "물리학과",
+            "department": "물리학과",
             "timestamp": "2023-12-28T15:09:17.801234",
             "title": "경희대학교 2024학년도 기 일반대학원 정원내 신입학 추가모집 안내",
+            "keywords": [
+                "물리학과",
+                "2023-12-28",
+                "모집"
+            ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2023-12-28T15:11:29.752555",
             "title": "[간호대학원] 2024학년도 1학기 간호대학원 휴학, 복학 신청 안내",
+            "keywords": [
+                "간호대학원",
+                "2023-12-28",
+                "휴·복학"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "0S000024",
-            "major": "이과대학",
+            "department": "이과대학",
             "timestamp": "2023-12-28T16:07:41.755070",
             "title": "2024학년도 1학기 수강희망과목담기 안내",
+            "keywords": [
+                "이과대학",
+                "2023-12-28",
+                "수강신청"
+            ],
             "url": "https://science.khu.ac.kr/science_kor/user/bbs/BMSR00040/list.do?menuNo=1200038&pageIndex=1&searchCondition=&searchKeyword="
         }
     ]

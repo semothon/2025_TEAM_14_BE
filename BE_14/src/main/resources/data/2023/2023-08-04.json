@@ -4,16 +4,26 @@
     "stacks": [
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2023-08-04T00:00:38.450259",
             "title": "(주간식단표0807~0811)",
+            "keywords": [
+                "학생회관(국제)",
+                "2023-08-04",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "00000098",
-            "major": "대학생활(포커스)",
+            "department": "대학생활(포커스)",
             "timestamp": "2023-08-04T08:35:18.171355",
             "title": "세계 최초, 콜로이드 기술로 반데르 발스 상호작용 예측 성공",
+            "keywords": [
+                "대학생활(포커스)",
+                "2023-08-04",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/focus/list.do?page=1&condition=all&pageSize=15&tps=15"
         }
     ]

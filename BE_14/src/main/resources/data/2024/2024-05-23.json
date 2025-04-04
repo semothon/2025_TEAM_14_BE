@@ -4,191 +4,327 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-05-23T23:06:33.753935",
             "title": "오늘의 채용공고가 20건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-05-23",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=2"
         },
         {
             "id": "00000040",
-            "major": "미래인재센터.추천채용",
+            "department": "미래인재센터.추천채용",
             "timestamp": "2024-05-23T23:06:38.331456",
             "title": "오늘의 추천채용이 2건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-05-23",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&page=1"
         },
         {
             "id": "00000085",
-            "major": "스마트팜학과",
+            "department": "스마트팜학과",
             "timestamp": "2024-05-23T08:16:20.503628",
             "title": "2024년도 하반기 작물정보학 실험실 학부연구생 모집공고",
+            "keywords": [
+                "스마트팜학과",
+                "2024-05-23",
+                "모집"
+            ],
             "url": "https://smartfarmsci.khu.ac.kr/smartfarm/user/bbs/BMSR00040/list.do?menuNo=9400021"
         },
         {
             "id": "0S000030",
-            "major": "수학과.취업정보",
+            "department": "수학과.취업정보",
             "timestamp": "2024-05-23T09:27:32.727374",
             "title": "[현대글로비스] 2024년 상반기 채용연계형 인턴십_공고",
+            "keywords": [
+                "수학과",
+                "2024-05-23",
+                "취업"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-05-23T10:36:40.347051",
             "title": "[국제C] 24-1학기 하계방학집중근로 국가근로장학금 희망근로지 신청 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-05-23",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000038",
-            "major": "미래혁신원.학생지원센터(장학)",
+            "department": "미래혁신원.학생지원센터(장학)",
             "timestamp": "2024-05-23T10:36:40.348503",
             "title": "[국제C] 24-1학기 하계방학집중근로 국가근로장학금 희망근로지 신청 안내",
+            "keywords": [
+                "미래혁신원",
+                "2024-05-23",
+                "장학"
+            ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-05-23T13:26:54.990039",
             "title": "각 군 현역병 모집일정(2024년 6월) 안내",
+            "keywords": [
+                "무용학부",
+                "2024-05-23",
+                "모집"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000020",
-            "major": "제2기숙사",
+            "department": "제2기숙사",
             "timestamp": "2024-05-23T13:33:51.371707",
             "title": "2024학년도 하계방중 입사 신청 안내",
+            "keywords": [
+                "제2기숙사",
+                "2024-05-23",
+                "기숙사"
+            ],
             "url": "https://dorm2.khu.ac.kr/40/4010.kmc"
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2024-05-23T13:56:41.225153",
             "title": "[호텔관광대학]  임의 작업중",
+            "keywords": [
+                "호텔관광대학",
+                "2024-05-23",
+                "기타"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-05-23T14:00:25.597286",
             "title": "[임상] 2024학년도 3학년 성인간호학실습3(신경계) 핵심술기술 실습 공지",
+            "keywords": [
+                "간호과학대학",
+                "2024-05-23",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-05-23T14:00:26.313143",
             "title": "[임상] 2024학년도 3학년 성인간호학실습3(신경계) 핵심술기술 실습 공지",
+            "keywords": [
+                "간호과학대학",
+                "2024-05-23",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2024-05-23T14:00:30.715390",
             "title": "[통일부] 2024 청년 토론회 모집 (~5.31)",
+            "keywords": [
+                "경영대학",
+                "2024-05-23",
+                "모집"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2024-05-23T14:00:30.715647",
             "title": "경기도사회적경제원 「2024년 경기도 청년 사회적경제 창업캠프」",
+            "keywords": [
+                "경영대학",
+                "2024-05-23",
+                "창업"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2024-05-23T14:00:30.715893",
             "title": "24년 6월 각 군 현역병 모집계획",
+            "keywords": [
+                "경영대학",
+                "2024-05-23",
+                "모집"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "00000051",
-            "major": "응용물리학과.세미나/콜로키움",
+            "department": "응용물리학과.세미나/콜로키움",
             "timestamp": "2024-05-23T14:07:03.932546",
             "title": "2024.05.29(수) 세미나 공지",
+            "keywords": [
+                "응용물리학과",
+                "2024-05-23",
+                "세미나"
+            ],
             "url": "https://physics.khu.ac.kr/physics/user/bbs/BMSR00040/list.do?menuNo=3000050&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-05-23T15:00:34.507987",
             "title": " 2024 청년 토론회 모집 연장",
+            "keywords": [
+                "식품영양학과",
+                "2024-05-23",
+                "모집"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2024-05-23T15:31:13.072014",
             "title": "[간호대학원] [간호대학원] 2024-1학기 학위청구논문 논문지도 경과보고서 제출 안내",
+            "keywords": [
+                "간호대학원",
+                "2024-05-23",
+                "논문"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "00000087",
-            "major": "체육대학원.중요공지",
+            "department": "체육대학원.중요공지",
             "timestamp": "2024-05-23T15:46:25.534041",
             "title": "2024학년도 1학기 성적 열람 및 공시(정정)기간 공고",
+            "keywords": [
+                "체육대학원",
+                "2024-05-23",
+                "성적"
+            ],
             "url": "http://gradsport.khu.ac.kr/bbs/board.php?bo_table=07_01&page=1"
         },
         {
             "id": "00000031",
-            "major": "체육대학",
+            "department": "체육대학",
             "timestamp": "2024-05-23T16:04:54.910131",
             "title": "국가대표 학생선수 진천선수촌 이동수업 6월 수강신청 안내",
+            "keywords": [
+                "체육대학",
+                "2024-05-23",
+                "수강신청"
+            ],
             "url": "http://sports.khu.ac.kr/bbs/board.php?bo_table=05_01&page=1"
         },
         {
             "id": "00000092",
-            "major": "국제교육원",
+            "department": "국제교육원",
             "timestamp": "2024-05-23T16:48:11.902539",
             "title": "[한국어교육부] 2024 여름 정규과정 신입생 1차 학번 조회 파일 다운로드 N",
+            "keywords": [
+                "국제교육원",
+                "2024-05-23",
+                "기타"
+            ],
             "url": "https://iie.khu.ac.kr//bbs/board.php?bo_table=notice_temp&page=1"
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2024-05-23T16:57:43.556335",
             "title": "2025년 호텔관광대학 설립 50주년 앰블럼 및 슬로건 공모전(~6/30)",
+            "keywords": [
+                "호텔관광대학",
+                "2024-05-23",
+                "공모전"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-05-23T17:00:02.736182",
             "title": "[홍보] 2024 언택트 취업·직무 박람회",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-05-23",
+                "취업"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1738"
         },
         {
             "id": "00000026",
-            "major": "국제대학.채용.인턴.활동",
+            "department": "국제대학.채용.인턴.활동",
             "timestamp": "2024-05-23T17:04:23.164834",
             "title": "2024 언택트 취업/직무 박람회 안내",
+            "keywords": [
+                "국제대학",
+                "2024-05-23",
+                "취업"
+            ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000031&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2024-05-23T17:04:28.641919",
             "title": "2024년 6월 각 군 현역병 모집 계획",
+            "keywords": [
+                "응용과학대학",
+                "2024-05-23",
+                "모집"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000028",
-            "major": "응용과학대학.취업정보",
+            "department": "응용과학대학.취업정보",
             "timestamp": "2024-05-23T17:04:33.396081",
             "title": "2024년 6월 각 군 현역병 모집 계획",
+            "keywords": [
+                "응용과학대학",
+                "2024-05-23",
+                "모집",
+                "취업"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000045",
-            "major": "전자공학과.홍보및대외활동",
+            "department": "전자공학과.홍보및대외활동",
             "timestamp": "2024-05-23T17:06:59.208514",
             "title": "[홍보] 2024 언택트 취업·직무 박람회",
+            "keywords": [
+                "전자공학과",
+                "2024-05-23",
+                "취업"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000046",
-            "major": "우주과학과",
+            "department": "우주과학과",
             "timestamp": "2024-05-23T17:07:03.918393",
             "title": "2024년 6월 각 군 현역병 모집 계획",
+            "keywords": [
+                "우주과학과",
+                "2024-05-23",
+                "모집"
+            ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         }
     ]

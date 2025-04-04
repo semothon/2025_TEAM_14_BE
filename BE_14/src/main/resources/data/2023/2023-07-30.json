@@ -4,9 +4,14 @@
     "stacks": [
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2023-07-30T23:00:34.491083",
             "title": "Google conference scholarships 신청 후기",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-07-30",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=627"
         }
     ]

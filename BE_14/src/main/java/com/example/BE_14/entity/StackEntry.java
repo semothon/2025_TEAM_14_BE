@@ -4,6 +4,8 @@ import jakarta.persistence.*;
 import lombok.*;
 
 import java.time.LocalDateTime;
+import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 @Table(name = "stack_entries")
@@ -13,19 +15,20 @@ import java.time.LocalDateTime;
 @AllArgsConstructor
 @Builder
 public class StackEntry {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    // JSON 파일의 "id" 값을 저장 (필요에 따라 이름을 변경)
-    @Column(name = "json_id")
-    private String jsonId;
-
-    private String major;
+    private String major; // JSON에서는 "department"
 
     private LocalDateTime timestamp;
 
     private String title;
 
     private String url;
+
+    @OneToMany(mappedBy = "stackEntry", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Keyword> keywords = new ArrayList<>();
+
 }

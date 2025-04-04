@@ -4,9 +4,14 @@
     "stacks": [
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2025-02-09T08:00:01.712683",
             "title": "2025학년도 봄학기 평생교육원 평생교육과정",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2025-02-09",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=2023"
         }
     ]

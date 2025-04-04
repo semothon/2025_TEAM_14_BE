@@ -4,779 +4,1347 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-02-16T23:33:47.983447",
             "title": "오늘의 채용공고가 23건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-02-16",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=2"
         },
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2024-02-16T00:01:14.882428",
             "title": "주간식단표 240213-0216",
+            "keywords": [
+                "학생회관(국제)",
+                "2024-02-16",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "0S000083",
-            "major": "생활협동조합(서울).주간식당메뉴",
+            "department": "생활협동조합(서울).주간식당메뉴",
             "timestamp": "2024-02-16T00:16:20.403842",
             "title": "2월 2주차 청운관식당(학생/교직원) 주간메뉴표",
+            "keywords": [
+                "생활협동조합(서울)",
+                "2024-02-16",
+                "학식"
+            ],
             "url": "https://coop.khu.ac.kr/9%ec%9b%94-3%ec%a3%bc%ec%b0%a8-%ec%a3%bc%ea%b0%84%eb%a9%94%eb%89%b4%ed%91%9c-2-copy-copy/"
         },
         {
             "id": "00000098",
-            "major": "대학생활(포커스)",
+            "department": "대학생활(포커스)",
             "timestamp": "2024-02-16T09:09:03.467593",
             "title": "경희 구성원, CES 2024를 누비다",
+            "keywords": [
+                "대학생활(포커스)",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/focus/list.do?page=1&condition=all&pageSize=15&tps=15"
         },
         {
             "id": "00000005",
-            "major": "소프트웨어융합학과.취업정보",
+            "department": "소프트웨어융합학과.취업정보",
             "timestamp": "2024-02-16T09:30:08.564398",
             "title": "[KISIA] 2024 S-개발자 양성과정 교육생 모집",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-02-16",
+                "모집",
+                "취업"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/%ec%b7%a8%ec%97%85%ec%a0%95%eb%b3%b4/?vid=294"
         },
         {
             "id": "00000007",
-            "major": "컴퓨터공학부.취업",
+            "department": "컴퓨터공학부.취업",
             "timestamp": "2024-02-16T09:30:10.195838",
             "title": "[채용] 한국형사법무정책연구원 채용공고 / 위촉전문원 (접수 기간: - 02/22)",
+            "keywords": [
+                "컴퓨터공학부",
+                "2024-02-16",
+                "취업"
+            ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000019",
-            "major": "우정원",
+            "department": "우정원",
             "timestamp": "2024-02-16T09:31:06.592975",
             "title": "2024학년도 상반기 우정원 주요일정 NEW",
+            "keywords": [
+                "우정원",
+                "2024-02-16",
+                "기숙사"
+            ],
             "url": "https://wjwdorm.khu.ac.kr/60/6010.kmc"
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2024-02-16T09:33:53.012149",
             "title": "[홍보] 2023학년도 동계방학 취업 완벽대비 Level Up 프로그램 참여자 모집",
+            "keywords": [
+                "생체의공학과",
+                "2024-02-16",
+                "모집",
+                "취업"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2024-02-16T09:45:06.351230",
             "title": "[일반대학원] 2024학년도 1학기 재학생(복학생)·수료생 등록일정 안내",
+            "keywords": [
+                "의과대학",
+                "2024-02-16",
+                "휴·복학"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "00000011",
-            "major": "기계공학과",
+            "department": "기계공학과",
             "timestamp": "2024-02-16T10:00:16.128617",
             "title": "2024학년도 1학기 등록 및 분할납부 신청 실시 안내",
+            "keywords": [
+                "기계공학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://eng.khu.ac.kr/me/C1280305?page=1&category=&"
         },
         {
             "id": "00000090",
-            "major": "일반대학원",
+            "department": "일반대학원",
             "timestamp": "2024-02-16T10:07:53.394184",
             "title": "(공통) [학점교류](타대학 소속 학생 대상) 2024학년도 1학기 경희대학교 일반대학원…",
+            "keywords": [
+                "일반대학원",
+                "2024-02-16",
+                "학점교류"
+            ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
         {
             "id": "0S000060",
-            "major": "한의과대학",
+            "department": "한의과대학",
             "timestamp": "2024-02-16T10:14:38.332949",
             "title": "경희대학교 대학혁신지원사업 성과포럼",
+            "keywords": [
+                "한의과대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://kmc.khu.ac.kr/kmc/user/bbs/BMSR00040/list.do?menuNo=4200106&pageIndex=3&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2024-02-16T10:14:55.799700",
             "title": "2024학년도 1학기 편입학자 학점인정 신청 안내",
+            "keywords": [
+                "경영대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-02-16T10:30:03.586605",
             "title": "[홍보] 2023학년도 동계방학 취업 완벽대비 Level Up 프로그램 참여자 모집",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-02-16",
+                "모집",
+                "취업"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1619"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-02-16T10:30:03.586790",
             "title": "[홍보] 2023학년도 동계방학 international Project 운영 역량 강화 및 스펙 향상 심화 과정 참여자 모집",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1618"
         },
         {
             "id": "00000031",
-            "major": "체육대학",
+            "department": "체육대학",
             "timestamp": "2024-02-16T10:32:35.627922",
             "title": "2024학년도 편입학 학점인정 안내",
+            "keywords": [
+                "체육대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://sports.khu.ac.kr/bbs/board.php?bo_table=05_01&page=1"
         },
         {
             "id": "00000034",
-            "major": "외국어대학.취업정보",
+            "department": "외국어대학.취업정보",
             "timestamp": "2024-02-16T10:32:56.904719",
             "title": "2023학년도 동계방학 취업 완벽대비 Level Up 프로그램 참여자...",
+            "keywords": [
+                "외국어대학",
+                "2024-02-16",
+                "취업"
+            ],
             "url": "http://foreign.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004010"
         },
         {
             "id": "00000091",
-            "major": "교무처-교직팀",
+            "department": "교무처-교직팀",
             "timestamp": "2024-02-16T10:37:59.716351",
             "title": "023학년도 2학기 경희후마니타스 우수예비교사 선정 안내(서울캠퍼스)",
+            "keywords": [
+                "교무처-교직팀",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://education.khu.ac.kr/education/user/bbs/BMSR00040/list.do?menuNo=7000028&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000091",
-            "major": "교무처-교직팀",
+            "department": "교무처-교직팀",
             "timestamp": "2024-02-16T10:37:59.716721",
             "title": "023학년도 2학기 경희후마니타스 우수예비교사 선정 안내(서울캠퍼스)",
+            "keywords": [
+                "교무처-교직팀",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://education.khu.ac.kr/education/user/bbs/BMSR00040/list.do?menuNo=7000028&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000072",
-            "major": "국제대학원",
+            "department": "국제대학원",
             "timestamp": "2024-02-16T10:45:15.032218",
             "title": "[GSP/국제대학원] Spring 2024 ENROLLMENT AND COURSE REGISTRATION / 2024학년도 1학기 등록 및 수강신청 안내",
+            "keywords": [
+                "국제대학원",
+                "2024-02-16",
+                "수강신청"
+            ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000076",
-            "major": "치과대학-일반대학원",
+            "department": "치과대학-일반대학원",
             "timestamp": "2024-02-16T10:45:42.768983",
             "title": "전기(2024년 2월) 학위수여식 안내",
+            "keywords": [
+                "치과대학-일반대학원",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://dental.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001003"
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2024-02-16T11:04:02.019325",
             "title": "[홍보] 2023학년도 동계방학 international Project 운영 역량 강화 및 스펙 향상 심화 과정 참여자 모집",
+            "keywords": [
+                "생체의공학과",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000091",
-            "major": "교무처-교직팀",
+            "department": "교무처-교직팀",
             "timestamp": "2024-02-16T11:07:46.293181",
             "title": "[서울] 2023학년도 2학기 경희후마니타스 우수예비교사 선정 안내(서울캠퍼스)",
+            "keywords": [
+                "교무처-교직팀",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://education.khu.ac.kr/education/user/bbs/BMSR00040/list.do?menuNo=7000028&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000091",
-            "major": "교무처-교직팀",
+            "department": "교무처-교직팀",
             "timestamp": "2024-02-16T11:07:46.293535",
             "title": "[서울] 2023학년도 2학기 경희후마니타스 우수예비교사 선정 안내(서울캠퍼스)",
+            "keywords": [
+                "교무처-교직팀",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://education.khu.ac.kr/education/user/bbs/BMSR00040/list.do?menuNo=7000028&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-02-16T11:10:27.465666",
             "title": "2024학년도 1학기 학부 신·편입생 학생증 신청안내",
+            "keywords": [
+                "무용학부",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-02-16T11:15:36.403399",
             "title": "2024학년도 1학기 신·편입생 학생증 신청안내 (내국인)",
+            "keywords": [
+                "경영대학원",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-02-16T11:15:36.403670",
             "title": "2024학년도 1학기 신·편입생 학생증 신청안내 (외국인)",
+            "keywords": [
+                "경영대학원",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-02-16T11:15:36.406388",
             "title": "2024학년도 1학기 신·편입생 학생증 신청안내 (내국인)",
+            "keywords": [
+                "경영대학원",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-02-16T11:15:36.406628",
             "title": "2024학년도 1학기 신·편입생 학생증 신청안내 (외국인)",
+            "keywords": [
+                "경영대학원",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000009",
-            "major": "산업경영공학과",
+            "department": "산업경영공학과",
             "timestamp": "2024-02-16T11:30:17.883407",
             "title": "2023학년도 전기(2024년 2월) 학위수여식 및 포토존 운영 공지",
+            "keywords": [
+                "산업경영공학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://eng.khu.ac.kr/ie/C0930322?page=1&category=&"
         },
         {
             "id": "00000011",
-            "major": "기계공학과",
+            "department": "기계공학과",
             "timestamp": "2024-02-16T11:30:19.356736",
             "title": "2023년도 전기 (2024년 2월) 학위수여식 일정 및 포토존 운영 안내",
+            "keywords": [
+                "기계공학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://eng.khu.ac.kr/me/C1280305?page=1&category=&"
         },
         {
             "id": "00000011",
-            "major": "기계공학과",
+            "department": "기계공학과",
             "timestamp": "2024-02-16T11:30:19.358674",
             "title": "2024년도 1학기 편입학자 학점인정 신청 안내",
+            "keywords": [
+                "기계공학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://eng.khu.ac.kr/me/C1280305?page=1&category=&"
         },
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2024-02-16T11:32:00.807479",
             "title": "2023학년도 전기(2024년 2월) 학위수여식 및 포토존 운영 안내",
+            "keywords": [
+                "공과대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://eng.khu.ac.kr/eng/C1100333?page=1&category=&"
         },
         {
             "id": "00000033",
-            "major": "외국어대학",
+            "department": "외국어대학",
             "timestamp": "2024-02-16T11:33:06.370817",
             "title": "[LINC 3.0] 2024학년도 경희 청년 해외개척단(Global AFRO!)8기 모집 홍보",
+            "keywords": [
+                "외국어대학",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "http://foreign.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004014"
         },
         {
             "id": "00000033",
-            "major": "외국어대학",
+            "department": "외국어대학",
             "timestamp": "2024-02-16T11:33:06.396042",
             "title": "2023학년도 동계방학 international Project 운영 역량 강화 및 스펙 향상 심화 과정 참여자 모집 및 홍보",
+            "keywords": [
+                "외국어대학",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "http://foreign.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004014"
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2024-02-16T11:33:56.116890",
             "title": "[졸업] 2023학년도 전기 학위수여식 관련 안내",
+            "keywords": [
+                "생체의공학과",
+                "2024-02-16",
+                "졸업"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2024-02-16T11:33:56.286663",
             "title": "[졸업] 2023학년도 전기 학위수여식 관련 안내",
+            "keywords": [
+                "생체의공학과",
+                "2024-02-16",
+                "졸업"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000062",
-            "major": "건축공학과",
+            "department": "건축공학과",
             "timestamp": "2024-02-16T11:35:23.196902",
             "title": "2024년도 전기(2024년도 2월) 학위수여식  및 포토존 운영 추가 안내",
+            "keywords": [
+                "건축공학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://eng.khu.ac.kr/archieng/C0450331?page=1&category=&"
         },
         {
             "id": "00000064",
-            "major": "환경학및환경공학과",
+            "department": "환경학및환경공학과",
             "timestamp": "2024-02-16T11:35:25.308027",
             "title": "2023학년도 전기(2024년 2월) 학위수여식 및 포토존 운영 추가안내",
+            "keywords": [
+                "환경학및환경공학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://eng.khu.ac.kr/env/C2410334?page=1&category=&"
         },
         {
             "id": "00000068",
-            "major": "원자력공학과",
+            "department": "원자력공학과",
             "timestamp": "2024-02-16T11:35:27.824483",
             "title": "2023학년도 전기(2024년 2월) 학위수여식 및 포토존 운영 추가 안내",
+            "keywords": [
+                "원자력공학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://eng.khu.ac.kr/ne/C0880336?page=1&category=&"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-02-16T11:39:21.335907",
             "title": "장학 2024-1학기 응통과 학부생 조교 선발 안내",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-02-16",
+                "장학"
+            ],
             "url": "http://aelts.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
         {
             "id": "0S000010",
-            "major": "문과대학.취업정보",
+            "department": "문과대학.취업정보",
             "timestamp": "2024-02-16T11:39:42.722450",
             "title": "[AXA손해보험] 채널마케팅팀 제휴 사업 관리 담당 신입사원 채...",
+            "keywords": [
+                "문과대학",
+                "2024-02-16",
+                "취업"
+            ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005003"
         },
         {
             "id": "0S000051",
-            "major": "경제학과",
+            "department": "경제학과",
             "timestamp": "2024-02-16T11:44:04.908354",
             "title": "2023학년도 전기 학위수여식 안내문",
+            "keywords": [
+                "경제학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://econ.khu.ac.kr/econ/user/bbs/BMSR00040/list.do?menuNo=4400060&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000051",
-            "major": "경제학과",
+            "department": "경제학과",
             "timestamp": "2024-02-16T11:44:04.947131",
             "title": "2024학년도 1학기 정경대학 외국인 신입생 오리엔테이션 실시 안내",
+            "keywords": [
+                "경제학과",
+                "2024-02-16",
+                "오리엔테이션"
+            ],
             "url": "https://econ.khu.ac.kr/econ/user/bbs/BMSR00040/list.do?menuNo=4400060&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2024-02-16T11:44:40.451306",
             "title": "[학사] 2024학년도 편입학자 학점인정 신청 안내",
+            "keywords": [
+                "의과대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000081",
-            "major": "행복기숙사",
+            "department": "행복기숙사",
             "timestamp": "2024-02-16T11:46:13.379112",
             "title": "[전체]2024-1학기 행복기숙사 대기자 명단 안내(신입생_정시, 편입)NEW",
+            "keywords": [
+                "행복기숙사",
+                "2024-02-16",
+                "기숙사"
+            ],
             "url": "https://happydorm.khu.ac.kr/60/6010.kmc"
         },
         {
             "id": "00000025",
-            "major": "국제대학",
+            "department": "국제대학",
             "timestamp": "2024-02-16T12:01:58.952554",
             "title": "2024-1학기 국제학계열 종합행정실 근로학생 모집 안내",
+            "keywords": [
+                "국제대학",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2024-02-16T12:04:30.700180",
             "title": "[공지] 2023학년도 전기 학위수여식 안내",
+            "keywords": [
+                "전자공학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2024-02-16T12:04:30.984156",
             "title": "[학사] 2024학년도 1학기 편입학자 학점인정 신청 안내",
+            "keywords": [
+                "전자공학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2024-02-16T12:09:54.392749",
             "title": "2024학년도 1학기 편입학자 학점인정 신청 공지문",
+            "keywords": [
+                "문과대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005006"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-02-16T12:10:26.902738",
             "title": "학사 2024학년도 1학기 편입학자 학점인정 신청 안내",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://aelts.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
         {
             "id": "00000020",
-            "major": "제2기숙사",
+            "department": "제2기숙사",
             "timestamp": "2024-02-16T12:31:19.277440",
             "title": "2024학년도 1학기 대기자합격자 발표 및 기숙사비 납부 안내",
+            "keywords": [
+                "제2기숙사",
+                "2024-02-16",
+                "기숙사"
+            ],
             "url": "https://dorm2.khu.ac.kr/40/4010.kmc"
         },
         {
             "id": "0S000013",
-            "major": "철학과",
+            "department": "철학과",
             "timestamp": "2024-02-16T12:41:08.642671",
             "title": "2024-1학기 편입학자 학점인정 신청 안내",
+            "keywords": [
+                "철학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://sophia.khu.ac.kr/?pageid=1&page_id=2782&mod=list"
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2024-02-16T13:14:34.221133",
             "title": "2024학년도 1학기 학부 신편입생 학생증 신청 안내",
+            "keywords": [
+                "경영대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
         {
             "id": "00000009",
-            "major": "산업경영공학과",
+            "department": "산업경영공학과",
             "timestamp": "2024-02-16T13:30:19.844096",
             "title": "[LINC 3.0] 경희 청년 해외개척단 8기 모집",
+            "keywords": [
+                "산업경영공학과",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "https://eng.khu.ac.kr/ie/C0930322?page=1&category=&"
         },
         {
             "id": "00000011",
-            "major": "기계공학과",
+            "department": "기계공학과",
             "timestamp": "2024-02-16T13:30:21.139410",
             "title": "[LINC 3.0] 2024학년도 경희 청년 해외개척단(Global AFRO!)8기 모집",
+            "keywords": [
+                "기계공학과",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "https://eng.khu.ac.kr/me/C1280305?page=1&category=&"
         },
         {
             "id": "00000068",
-            "major": "원자력공학과",
+            "department": "원자력공학과",
             "timestamp": "2024-02-16T13:35:45.232575",
             "title": "[LINC 3.0] 2024학년도 경희 청년 해외개척단(Global AFRO!)8기 모집 홍보",
+            "keywords": [
+                "원자력공학과",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "https://eng.khu.ac.kr/ne/C0880336?page=1&category=&"
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2024-02-16T13:39:19.310053",
             "title": "2024학년도 1학기 학부 신·편입생 학생증 신청안내 협조요청",
+            "keywords": [
+                "문과대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005006"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-02-16T13:39:42.194674",
             "title": "일반 2024학년 1학기 학부 신·편입생 학생증 신청안내",
+            "keywords": [
+                "영어영문학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-02-16T13:39:48.414325",
             "title": "학사 2024학년도 1학기 학부 신,편입생 학생증 신청안내",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://aelts.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
         {
             "id": "0S000030",
-            "major": "수학과.취업정보",
+            "department": "수학과.취업정보",
             "timestamp": "2024-02-16T13:42:08.360992",
             "title": "채널마케팅팀 제휴 사업 관리 담당 신입사원 채용",
+            "keywords": [
+                "수학과",
+                "2024-02-16",
+                "취업"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-02-16T13:46:13.356694",
             "title": "2024학년도 1학기 미디어커뮤니케이션대학원 학점교류 교과목 수강신청",
+            "keywords": [
+                "경영대학원",
+                "2024-02-16",
+                "수강신청",
+                "학점교류"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-02-16T13:46:13.359739",
             "title": "2024학년도 1학기 미디어커뮤니케이션대학원 학점교류 교과목 수강신청",
+            "keywords": [
+                "경영대학원",
+                "2024-02-16",
+                "수강신청",
+                "학점교류"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2024-02-16T14:02:01.311387",
             "title": "[LINC 3.0] 2024학년도 경희 청년 해외개척단(Global AFRO!) 8기 모집",
+            "keywords": [
+                "공과대학",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "https://eng.khu.ac.kr/eng/C1100333?page=1&category=&"
         },
         {
             "id": "00000043",
-            "major": "전자공학과",
+            "department": "전자공학과",
             "timestamp": "2024-02-16T14:04:11.473546",
             "title": "2024학년도 학사제도안내",
+            "keywords": [
+                "전자공학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2024-02-16T14:06:41.022022",
             "title": "국제회의 RSVP 업무",
+            "keywords": [
+                "프랑스어학과",
+                "2024-02-16",
+                "취업"
+            ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2024-02-16T14:06:41.055773",
             "title": "미국취업연수과정 2024년도 과정 사전모집",
+            "keywords": [
+                "프랑스어학과",
+                "2024-02-16",
+                "모집",
+                "연수",
+                "취업"
+            ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000083",
-            "major": "스페인어학과.취업정보",
+            "department": "스페인어학과.취업정보",
             "timestamp": "2024-02-16T14:07:23.590940",
             "title": "[디아지오코리아] 2024년 상반기 영업 직군 채용연계형 인턴 모집 (~2/25)",
+            "keywords": [
+                "스페인어학과",
+                "2024-02-16",
+                "모집",
+                "취업"
+            ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000083",
-            "major": "스페인어학과.취업정보",
+            "department": "스페인어학과.취업정보",
             "timestamp": "2024-02-16T14:07:23.616887",
             "title": "2024년 고림고등학교 계약제교원 채용",
+            "keywords": [
+                "스페인어학과",
+                "2024-02-16",
+                "취업"
+            ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "0S000007",
-            "major": "영어영문학과.취업정보",
+            "department": "영어영문학과.취업정보",
             "timestamp": "2024-02-16T14:10:01.025913",
             "title": "[디아지오코리아] 2024년 상반기 영업 직군 채용연계형 인턴 ...",
+            "keywords": [
+                "영어영문학과",
+                "2024-02-16",
+                "취업"
+            ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2024-02-16T14:16:06.311839",
             "title": "2024학년도 1학기 대학원 신/편입생 학생증 신청 안내",
+            "keywords": [
+                "공공대학원",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-02-16T14:30:03.262696",
             "title": "[학사] 2023학년도 전기 학위수여식 안내",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1621"
         },
         {
             "id": "00000001",
-            "major": "소프트웨어융합학과",
+            "department": "소프트웨어융합학과",
             "timestamp": "2024-02-16T14:30:03.262887",
             "title": "[학사] 2024학년도 편입학 학점인정 안내",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1620"
         },
         {
             "id": "00000009",
-            "major": "산업경영공학과",
+            "department": "산업경영공학과",
             "timestamp": "2024-02-16T14:30:09.933521",
             "title": "2024학년도 1학기 등록금 납부 관련 안내",
+            "keywords": [
+                "산업경영공학과",
+                "2024-02-16",
+                "등록금"
+            ],
             "url": "https://eng.khu.ac.kr/ie/C0930322?page=1&category=&"
         },
         {
             "id": "00000074",
-            "major": "프랑스어학과.취업정보",
+            "department": "프랑스어학과.취업정보",
             "timestamp": "2024-02-16T14:35:48.782691",
             "title": "[디아지오코리아] 2024년 상반기 영업 직군 채용연계형 인턴 모집",
+            "keywords": [
+                "프랑스어학과",
+                "2024-02-16",
+                "모집",
+                "취업"
+            ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
         {
             "id": "00000094",
-            "major": "대학생활(일반)",
+            "department": "대학생활(일반)",
             "timestamp": "2024-02-16T14:37:36.439817",
             "title": "(캠퍼스:국제) 예비군(학생)에 대한 불리한 처우 금지 안내",
+            "keywords": [
+                "대학생활(일반)",
+                "2024-02-16",
+                "예비군"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
         {
             "id": "00000096",
-            "major": "대학생활(교내학점교류)",
+            "department": "대학생활(교내학점교류)",
             "timestamp": "2024-02-16T14:37:46.612379",
             "title": "(캠퍼스:국제) [안양대학교] 2024학년도 1학기 경인지역 학점교류 ...",
+            "keywords": [
+                "대학생활(교내학점교류)",
+                "2024-02-16",
+                "학점교류"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=CREDIT&page=1"
         },
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2024-02-16T15:00:59.727119",
             "title": "주간식단표 240219-0223",
+            "keywords": [
+                "학생회관(국제)",
+                "2024-02-16",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "00000066",
-            "major": "건축학과",
+            "department": "건축학과",
             "timestamp": "2024-02-16T15:05:54.582279",
             "title": "경희 청년 해외개척단(Global AFRO!) 8기 모집",
+            "keywords": [
+                "건축학과",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "https://eng.khu.ac.kr/archi/C2530330?page=1&category=&"
         },
         {
             "id": "00000094",
-            "major": "대학생활(일반)",
+            "department": "대학생활(일반)",
             "timestamp": "2024-02-16T15:08:20.920265",
             "title": "(캠퍼스:공통) [총무팀] 신규 복합기(캐논) 설치 안내",
+            "keywords": [
+                "대학생활(일반)",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-02-16T15:10:15.462895",
             "title": "일반 2024학년 1학기 학부 신·편입생 학생증 신청 안내",
+            "keywords": [
+                "영어영문학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2024-02-16T15:11:37.514595",
             "title": "2024학년도 1학기 편입학자 학점인정 신청 안내",
+            "keywords": [
+                "약학대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000037",
-            "major": "정보디스플레이학과",
+            "department": "정보디스플레이학과",
             "timestamp": "2024-02-16T15:13:21.676104",
             "title": "[LINC 3.0] 2024학년도 경희 청년 해외개척단(Global AFRO!)8기 모집 안내",
+            "keywords": [
+                "정보디스플레이학과",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "https://display.khu.ac.kr/display/user/bbs/BMSR00040/list.do?menuNo=3500019&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000060",
-            "major": "한의과대학",
+            "department": "한의과대학",
             "timestamp": "2024-02-16T15:15:23.643013",
             "title": "2024학년도 1학기 편입학자 학점인정 안내",
+            "keywords": [
+                "한의과대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://kmc.khu.ac.kr/kmc/user/bbs/BMSR00040/list.do?menuNo=4200106&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000076",
-            "major": "치과대학-일반대학원",
+            "department": "치과대학-일반대학원",
             "timestamp": "2024-02-16T15:16:27.120901",
             "title": "대학원 신(편)입생 학생증 신청 안내",
+            "keywords": [
+                "치과대학-일반대학원",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://dental.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001003"
         },
         {
             "id": "0S000019",
-            "major": "무용학부.자유게시판",
+            "department": "무용학부.자유게시판",
             "timestamp": "2024-02-16T15:40:37.565489",
             "title": "｢오라클 VM VirtualBox 확장팩｣ 불법 사용 주의 안내",
+            "keywords": [
+                "무용학부",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00041/list.do?menuNo=300046&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2024-02-16T15:44:17.655224",
             "title": "[학사] 2024학년도 1학기 학부 신·편입생 학생증 신청안내",
+            "keywords": [
+                "의과대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000060",
-            "major": "한의과대학",
+            "department": "한의과대학",
             "timestamp": "2024-02-16T15:44:18.719674",
             "title": "2024학년도 1학기 학부 신·편입생 학생증 신청안내",
+            "keywords": [
+                "한의과대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://kmc.khu.ac.kr/kmc/user/bbs/BMSR00040/list.do?menuNo=4200106&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000041",
-            "major": "생체의공학과",
+            "department": "생체의공학과",
             "timestamp": "2024-02-16T16:04:03.186919",
             "title": "[학사] 2024학년도 편입학 학점인정 안내",
+            "keywords": [
+                "생체의공학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000093",
-            "major": "대학생활(학사)",
+            "department": "대학생활(학사)",
             "timestamp": "2024-02-16T16:08:11.525407",
             "title": "(캠퍼스:공통) 2024학년도 3월 봄 단기 한국어 도우미 모집공고",
+            "keywords": [
+                "대학생활(학사)",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=UNDERGRADUATE&page=1"
         },
         {
             "id": "00000093",
-            "major": "대학생활(학사)",
+            "department": "대학생활(학사)",
             "timestamp": "2024-02-16T16:08:11.587175",
             "title": "(캠퍼스:공통) 2024학년도 미국 펜실베니아 주립대 한국어 도우미 모...",
+            "keywords": [
+                "대학생활(학사)",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=UNDERGRADUATE&page=1"
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2024-02-16T16:11:02.624994",
             "title": "2024학년도 1학기 학부 신·편입생 학생증 신청안내",
+            "keywords": [
+                "약학대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000073",
-            "major": "미디어커뮤니케이션대학원",
+            "department": "미디어커뮤니케이션대학원",
             "timestamp": "2024-02-16T16:15:31.802485",
             "title": "[대외협력처] 2023학년도 전기 졸업생 대상 기부 이벤트(~02/18) N",
+            "keywords": [
+                "미디어커뮤니케이션대학원",
+                "2024-02-16",
+                "이벤트",
+                "졸업"
+            ],
             "url": "https://communication.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
         },
         {
             "id": "0S000083",
-            "major": "생활협동조합(서울).주간식당메뉴",
+            "department": "생활협동조합(서울).주간식당메뉴",
             "timestamp": "2024-02-16T16:16:31.260521",
             "title": "2월 3주차 청운관식당(학생/교직원) 주간메뉴표",
+            "keywords": [
+                "생활협동조합(서울)",
+                "2024-02-16",
+                "학식"
+            ],
             "url": "https://coop.khu.ac.kr/9%ec%9b%94-3%ec%a3%bc%ec%b0%a8-%ec%a3%bc%ea%b0%84%eb%a9%94%eb%89%b4%ed%91%9c-2-copy-copy/"
         },
         {
             "id": "00000009",
-            "major": "산업경영공학과",
+            "department": "산업경영공학과",
             "timestamp": "2024-02-16T16:30:14.045480",
             "title": "2024학년도 1학기 일반대학원 수강신청 안내",
+            "keywords": [
+                "산업경영공학과",
+                "2024-02-16",
+                "수강신청"
+            ],
             "url": "https://eng.khu.ac.kr/ie/C0930322?page=1&category=&"
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2024-02-16T16:32:08.658308",
             "title": "2023학년도 전기(2024년 2월) 학위수여식 및 포토존 운영 추가 안내",
+            "keywords": [
+                "응용과학대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2024-02-16T16:32:08.839380",
             "title": "2023학년도 전기(2024년 2월) 학위수여식 및 포토존 운영 추가 안내",
+            "keywords": [
+                "응용과학대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000028",
-            "major": "응용과학대학.취업정보",
+            "department": "응용과학대학.취업정보",
             "timestamp": "2024-02-16T16:32:15.529965",
             "title": "2023학년도 전기(2024년 2월) 학위수여식 및 포토존 운영 추가 안내",
+            "keywords": [
+                "응용과학대학",
+                "2024-02-16",
+                "취업"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000028",
-            "major": "응용과학대학.취업정보",
+            "department": "응용과학대학.취업정보",
             "timestamp": "2024-02-16T16:32:15.700934",
             "title": "2023학년도 전기(2024년 2월) 학위수여식 및 포토존 운영 추가 안내",
+            "keywords": [
+                "응용과학대학",
+                "2024-02-16",
+                "취업"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000046",
-            "major": "우주과학과",
+            "department": "우주과학과",
             "timestamp": "2024-02-16T16:34:14.904381",
             "title": "2023학년도 전기(2024년 2월) 학위수여식 및 포토존 운영 추가 안내",
+            "keywords": [
+                "우주과학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000046",
-            "major": "우주과학과",
+            "department": "우주과학과",
             "timestamp": "2024-02-16T16:34:15.070531",
             "title": "2023학년도 전기(2024년 2월) 학위수여식 및 포토존 운영 추가 안내",
+            "keywords": [
+                "우주과학과",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000089",
-            "major": "동서의학대학원",
+            "department": "동서의학대학원",
             "timestamp": "2024-02-16T16:37:49.738987",
             "title": "[2024-1] 전공 시험 접수 안내",
+            "keywords": [
+                "동서의학대학원",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "http://gsm.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
         },
         {
             "id": "0S000015",
-            "major": "호텔관광대학.장학공지사항",
+            "department": "호텔관광대학.장학공지사항",
             "timestamp": "2024-02-16T16:40:45.560195",
             "title": "2024-1학기 호텔관광대학 행정실 근로장학생 모집(~2/21(수)까지)",
+            "keywords": [
+                "호텔관광대학",
+                "2024-02-16",
+                "모집",
+                "장학"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900109&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000032",
-            "major": "화학과",
+            "department": "화학과",
             "timestamp": "2024-02-16T16:42:55.722974",
             "title": "환경 및 에너지 관련 학생 인턴 및 연구원 모집 안내",
+            "keywords": [
+                "화학과",
+                "2024-02-16",
+                "모집"
+            ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-02-16T16:45:44.705519",
             "title": "[일반] 2024학년도 1학기 학부 신·편입생 학생증 신청안내 협조요청",
+            "keywords": [
+                "간호과학대학",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "00000090",
-            "major": "일반대학원",
+            "department": "일반대학원",
             "timestamp": "2024-02-16T17:07:45.682653",
             "title": "(공통) 아샘자산운용㈜ 채용공고",
+            "keywords": [
+                "일반대학원",
+                "2024-02-16",
+                "취업"
+            ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
         {
             "id": "00000094",
-            "major": "대학생활(일반)",
+            "department": "대학생활(일반)",
             "timestamp": "2024-02-16T17:08:13.783688",
             "title": "(캠퍼스:국제) [국제] 2024학년도 1학기 후마니타스칼리지(국제) ...",
+            "keywords": [
+                "대학생활(일반)",
+                "2024-02-16",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
         {
             "id": "0S000033",
-            "major": "생물학과",
+            "department": "생물학과",
             "timestamp": "2024-02-16T17:12:29.259314",
             "title": "[중요] 2024학년도 1학기 졸업논문 지도교수 신청/변경 신청 안내",
+            "keywords": [
+                "생물학과",
+                "2024-02-16",
+                "논문",
+                "졸업"
+            ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900033&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000091",
-            "major": "교무처-교직팀",
+            "department": "교무처-교직팀",
             "timestamp": "2024-02-16T19:07:46.976676",
             "title": "[서울] 2023 전기 교원자격증 수령 안내",
+            "keywords": [
+                "교무처-교직팀",
+                "2024-02-16",
+                "자격증"
+            ],
             "url": "https://education.khu.ac.kr/education/user/bbs/BMSR00040/list.do?menuNo=7000028&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000091",
-            "major": "교무처-교직팀",
+            "department": "교무처-교직팀",
             "timestamp": "2024-02-16T19:07:46.977247",
             "title": "[서울] 2023 전기 교원자격증 수령 안내",
+            "keywords": [
+                "교무처-교직팀",
+                "2024-02-16",
+                "자격증"
+            ],
             "url": "https://education.khu.ac.kr/education/user/bbs/BMSR00040/list.do?menuNo=7000028&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000094",
-            "major": "대학생활(일반)",
+            "department": "대학생활(일반)",
             "timestamp": "2024-02-16T20:08:18.036900",
             "title": "(캠퍼스:국제) 대외협력처 2024-1학기 경희인턴 장학생 모집",
+            "keywords": [
+                "대학생활(일반)",
+                "2024-02-16",
+                "모집",
+                "장학"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         }
     ]

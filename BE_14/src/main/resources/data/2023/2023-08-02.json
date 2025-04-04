@@ -4,37 +4,62 @@
     "stacks": [
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2023-08-02T00:00:39.532107",
             "title": "(주간식단표0807~0811)",
+            "keywords": [
+                "학생회관(국제)",
+                "2023-08-02",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "00000098",
-            "major": "대학생활(포커스)",
+            "department": "대학생활(포커스)",
             "timestamp": "2023-08-02T09:05:38.891582",
             "title": "무인이동체 보안은 경희가 잡는다",
+            "keywords": [
+                "대학생활(포커스)",
+                "2023-08-02",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/focus/list.do?page=1&condition=all&pageSize=15&tps=15"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2023-08-02T12:08:39.915933",
             "title": "2023년 DL건설 [본사] 신입/경력 채용",
+            "keywords": [
+                "정경대학",
+                "2023-08-02",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2023-08-02T16:30:33.838398",
             "title": "융합보안 여름방학 특강 프로그램 안내",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-08-02",
+                "강연"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=632"
         },
         {
             "id": "00000092",
-            "major": "국제교육원",
+            "department": "국제교육원",
             "timestamp": "2023-08-02T18:04:49.826312",
             "title": "[한국어교육부] 2023 Summer Intensive (1st) the class placement test result … N",
+            "keywords": [
+                "국제교육원",
+                "2023-08-02",
+                "기타"
+            ],
             "url": "https://iie.khu.ac.kr//bbs/board.php?bo_table=notice_temp&page=1"
         }
     ]

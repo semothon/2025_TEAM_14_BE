@@ -4,9 +4,14 @@
     "stacks": [
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2023-05-18T00:00:35.943117",
             "title": "(주간식단표0515~0519)",
+            "keywords": [
+                "학생회관(국제)",
+                "2023-05-18",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         }
     ]

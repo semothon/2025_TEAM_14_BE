@@ -4,149 +4,256 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-05-09T23:06:29.605059",
             "title": "오늘의 채용공고가 33건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-05-09",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=3"
         },
         {
             "id": "0S000044",
-            "major": "정경대학.취업정보",
+            "department": "정경대학.취업정보",
             "timestamp": "2024-05-09T09:28:03.692097",
             "title": "[대학내일ES] STAFF(총무)_인턴(전환형) 및 마케팅AE_인턴(전환형/체험형) 안내 (공고별 마감기한 상이)",
+            "keywords": [
+                "정경대학",
+                "2024-05-09",
+                "취업"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000048",
-            "major": "우주과학과.취업정보",
+            "department": "우주과학과.취업정보",
             "timestamp": "2024-05-09T10:07:05.368659",
             "title": "[우주항공청] 감사담당관(개방형 직위) 공개모집",
+            "keywords": [
+                "우주과학과",
+                "2024-05-09",
+                "모집",
+                "취업"
+            ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200046&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000041",
-            "major": "물리학과",
+            "department": "물리학과",
             "timestamp": "2024-05-09T10:28:06.538641",
             "title": "2024년도 1학기 물리학과 공개발표 공지",
+            "keywords": [
+                "물리학과",
+                "2024-05-09",
+                "기타"
+            ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000063",
-            "major": "생활과학대학",
+            "department": "생활과학대학",
             "timestamp": "2024-05-09T12:01:36.114812",
             "title": "[보육실습] 2024학년도 하계방학 보육실습 공고 (5/20(월) 마감)",
+            "keywords": [
+                "생활과학대학",
+                "2024-05-09",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700036&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000064",
-            "major": "아동가족학과",
+            "department": "아동가족학과",
             "timestamp": "2024-05-09T12:01:36.603652",
             "title": "[보육실습] 2024학년도 하계방학 보육실습 공고 (5/20(월) 마감)",
+            "keywords": [
+                "아동가족학과",
+                "2024-05-09",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700036&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000066",
-            "major": "의상학과",
+            "department": "의상학과",
             "timestamp": "2024-05-09T14:30:39.741177",
             "title": "2023 경희대 의상학과 Slow Fashion Design 콘테스트",
+            "keywords": [
+                "의상학과",
+                "2024-05-09",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700064&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000092",
-            "major": "국제교육원",
+            "department": "국제교육원",
             "timestamp": "2024-05-09T14:47:01.218134",
             "title": "[기타] 킹세종 키보드 모바일 앱 상품 평가 조사원 모집(원화 300,000원 지급예정) / Recruitment o… N",
+            "keywords": [
+                "국제교육원",
+                "2024-05-09",
+                "모집"
+            ],
             "url": "https://iie.khu.ac.kr//bbs/board.php?bo_table=notice_temp&page=1"
         },
         {
             "id": "0S000022",
-            "major": "음악대학",
+            "department": "음악대학",
             "timestamp": "2024-05-09T14:57:03.009089",
             "title": "평화의전당 광장 주차통제 안내 [2024 The-K 기획 콘서트, OT...",
+            "keywords": [
+                "음악대학",
+                "2024-05-09",
+                "기타"
+            ],
             "url": "http://music.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005013"
         },
         {
             "id": "0S000047",
-            "major": "행정학과",
+            "department": "행정학과",
             "timestamp": "2024-05-09T15:59:54.935916",
             "title": "[취업특강 안내]",
+            "keywords": [
+                "행정학과",
+                "2024-05-09",
+                "강연",
+                "취업"
+            ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-05-09T16:01:28.794317",
             "title": "제23회 식품안전의 날 기념「HACCP 세미나」개최 알림",
+            "keywords": [
+                "식품영양학과",
+                "2024-05-09",
+                "세미나"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2024-05-09T16:34:16.438034",
             "title": "응용과학대학 2024학년도 하계방학 학생주도형 Global Camp/Internship 지원사업 실시",
+            "keywords": [
+                "응용과학대학",
+                "2024-05-09",
+                "기타"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2024-05-09T16:34:16.470803",
             "title": "응용과학대학 2024학년도 하계방학 학생주도형 Global Camp/Internship 지원사업 실시",
+            "keywords": [
+                "응용과학대학",
+                "2024-05-09",
+                "기타"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000028",
-            "major": "응용과학대학.취업정보",
+            "department": "응용과학대학.취업정보",
             "timestamp": "2024-05-09T16:34:21.240029",
             "title": "응용과학대학 2024학년도 하계방학 학생주도형 Global Camp/Internship 지원사업 실시",
+            "keywords": [
+                "응용과학대학",
+                "2024-05-09",
+                "취업"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000028",
-            "major": "응용과학대학.취업정보",
+            "department": "응용과학대학.취업정보",
             "timestamp": "2024-05-09T16:34:21.272464",
             "title": "응용과학대학 2024학년도 하계방학 학생주도형 Global Camp/Internship 지원사업 실시",
+            "keywords": [
+                "응용과학대학",
+                "2024-05-09",
+                "취업"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000035",
-            "major": "대학주보.헤드라인",
+            "department": "대학주보.헤드라인",
             "timestamp": "2024-05-09T16:35:54.145288",
             "title": "국제캠 마라톤 동아리 쿠마 주도로 지역사회 순찰러닝 열...",
+            "keywords": [
+                "대학주보",
+                "2024-05-09",
+                "동아리"
+            ],
             "url": "http://media.khu.ac.kr/khunews/list.asp?code1=1012006022801&code2=&headline=&section=&auth=&page=1&field=&flag=&issue_date_split=&search_text1=&search=&keyword="
         },
         {
             "id": "00000035",
-            "major": "대학주보.헤드라인",
+            "department": "대학주보.헤드라인",
             "timestamp": "2024-05-09T16:35:54.164693",
             "title": "제22회 고황컵 개최, 야구 축구 농구 종목 겨뤄",
+            "keywords": [
+                "대학주보",
+                "2024-05-09",
+                "기타"
+            ],
             "url": "http://media.khu.ac.kr/khunews/list.asp?code1=1012006022801&code2=&headline=&section=&auth=&page=1&field=&flag=&issue_date_split=&search_text1=&search=&keyword="
         },
         {
             "id": "00000046",
-            "major": "우주과학과",
+            "department": "우주과학과",
             "timestamp": "2024-05-09T16:36:49.613273",
             "title": "응용과학대학 2024학년도 하계방학 학생주도형 Global Camp/Internship 지원사업 실시",
+            "keywords": [
+                "우주과학과",
+                "2024-05-09",
+                "기타"
+            ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000046",
-            "major": "우주과학과",
+            "department": "우주과학과",
             "timestamp": "2024-05-09T16:36:49.697584",
             "title": "응용과학대학 2024학년도 하계방학 학생주도형 Global Camp/Internship 지원사업 실시",
+            "keywords": [
+                "우주과학과",
+                "2024-05-09",
+                "기타"
+            ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000031",
-            "major": "수학과.공모전/대외활동/기타",
+            "department": "수학과.공모전/대외활동/기타",
             "timestamp": "2024-05-09T16:57:19.505617",
             "title": "2024년 카이스트 원자력및양자공학과 Open House 및 Summer Research 행사",
+            "keywords": [
+                "수학과",
+                "2024-05-09",
+                "행사"
+            ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600020&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000067",
-            "major": "식품영양학과",
+            "department": "식품영양학과",
             "timestamp": "2024-05-09T17:31:25.904426",
             "title": "현대모비스] 2024 현대모비스 임팩트 아이디어 참가자 모집",
+            "keywords": [
+                "식품영양학과",
+                "2024-05-09",
+                "모집"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         }
     ]

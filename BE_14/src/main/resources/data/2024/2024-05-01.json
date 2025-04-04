@@ -4,86 +4,147 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-05-01T23:06:34.178590",
             "title": "오늘의 채용공고가 8건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-05-01",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=1"
         },
         {
             "id": "0S000017",
-            "major": "호텔관광대학.일반공지사항",
+            "department": "호텔관광대학.일반공지사항",
             "timestamp": "2024-05-01T09:27:11.422494",
             "title": "[CJ프레시웨이] 대학생 서포터즈",
+            "keywords": [
+                "호텔관광대학",
+                "2024-05-01",
+                "기타"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000017",
-            "major": "호텔관광대학.일반공지사항",
+            "department": "호텔관광대학.일반공지사항",
             "timestamp": "2024-05-01T09:27:11.445553",
             "title": "[Estée Lauder Companies Korea] 2024 ELCA KOREA 인턴 채용 및 채용설명회 안내 (5.1~5.15)",
+            "keywords": [
+                "호텔관광대학",
+                "2024-05-01",
+                "강연",
+                "취업"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000038",
-            "major": "지리학과",
+            "department": "지리학과",
             "timestamp": "2024-05-01T09:28:41.212906",
             "title": "2024 상반기 『동문멘토와 함께하는 경희대학교 Job Festival』 안내",
+            "keywords": [
+                "지리학과",
+                "2024-05-01",
+                "기타"
+            ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600055&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000038",
-            "major": "지리학과",
+            "department": "지리학과",
             "timestamp": "2024-05-01T09:28:41.266334",
             "title": "2024학년도 2차 국제교육원 외국어강좌 안내",
+            "keywords": [
+                "지리학과",
+                "2024-05-01",
+                "기타"
+            ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600055&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000043",
-            "major": "정경대학.장학안내",
+            "department": "정경대학.장학안내",
             "timestamp": "2024-05-01T09:29:01.540587",
             "title": "세아해암학술장학재단 제3기 커리어챌린지 장학생 선발 안내 [~05.10.(금)까지]",
+            "keywords": [
+                "정경대학",
+                "2024-05-01",
+                "장학"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500021&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2024-05-01T09:31:07.024401",
             "title": "[간호대학원] 2024년도 노인전문간호사 자격시험 대비를 위한 세미나 개최 안내",
+            "keywords": [
+                "간호대학원",
+                "2024-05-01",
+                "세미나"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-05-01T10:00:49.304101",
             "title": "[임상] 2024학년도 3학년 1차 & 2차 성인간호학실습1 공지",
+            "keywords": [
+                "간호과학대학",
+                "2024-05-01",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "0S000062",
-            "major": "간호과학대학",
+            "department": "간호과학대학",
             "timestamp": "2024-05-01T10:00:50.123456",
             "title": "[임상] 2024학년도 3학년 1차 & 2차 성인간호학실습1 공지",
+            "keywords": [
+                "간호과학대학",
+                "2024-05-01",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
         {
             "id": "00000020",
-            "major": "제2기숙사",
+            "department": "제2기숙사",
             "timestamp": "2024-05-01T14:03:14.333694",
             "title": "2024년 5월 공휴일로 인한 제2기숙사 사감실 휴무 안내",
+            "keywords": [
+                "제2기숙사",
+                "2024-05-01",
+                "기숙사"
+            ],
             "url": "https://dorm2.khu.ac.kr/40/4010.kmc"
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-05-01T15:26:21.515269",
             "title": "경희대학교 통근 및 캠퍼스간 셔틀버스 운행 만족도 조사 홍보",
+            "keywords": [
+                "무용학부",
+                "2024-05-01",
+                "설국버스"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=2&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000068",
-            "major": "경영대학",
+            "department": "경영대학",
             "timestamp": "2024-05-01T16:00:17.404283",
             "title": "★중요★2024학년도 1학기 1차 졸업시험 결과",
+            "keywords": [
+                "경영대학",
+                "2024-05-01",
+                "졸업"
+            ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         }
     ]

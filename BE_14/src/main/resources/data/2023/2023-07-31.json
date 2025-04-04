@@ -4,65 +4,111 @@
     "stacks": [
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2023-07-31T00:00:37.253872",
             "title": "(주간식단표0807~0811)",
+            "keywords": [
+                "학생회관(국제)",
+                "2023-07-31",
+                "학식"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "00000098",
-            "major": "대학생활(포커스)",
+            "department": "대학생활(포커스)",
             "timestamp": "2023-07-31T08:05:14.028798",
             "title": "권역별 고령친화산업혁신센터 신규기관 선정",
+            "keywords": [
+                "대학생활(포커스)",
+                "2023-07-31",
+                "기타"
+            ],
             "url": "https://www.khu.ac.kr/kor/focus/list.do?page=1&condition=all&pageSize=15&tps=15"
         },
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2023-07-31T12:30:23.870932",
             "title": "제 4차 펄어비스 인재 양성 프로그램 후기",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-07-31",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=628"
         },
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2023-07-31T13:30:04.467736",
             "title": "펄어비스X경희소융 인재양성 프로그램 4차 후기",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-07-31",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=629"
         },
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2023-07-31T14:00:33.861826",
             "title": "펄어비스x경희소융 인재양성 프로젝트 4차 후기",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-07-31",
+                "기타"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=630"
         },
         {
             "id": "00000004",
-            "major": "소프트웨어융합학과.아고라",
+            "department": "소프트웨어융합학과.아고라",
             "timestamp": "2023-07-31T18:00:04.027014",
             "title": "게임 PX 디자인 강의는 폐강됐나요?",
+            "keywords": [
+                "소프트웨어융합학과",
+                "2023-07-31",
+                "수강신청"
+            ],
             "url": "http://swcon.khu.ac.kr/wordpress/agora/?vid=631"
         },
         {
             "id": "0S000066",
-            "major": "의상학과",
+            "department": "의상학과",
             "timestamp": "2023-07-31T19:10:53.388465",
             "title": "CNF코스 영화의상 온라인 특강(23년 여름) ",
+            "keywords": [
+                "의상학과",
+                "2023-07-31",
+                "강연",
+                "온라인"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700064&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000066",
-            "major": "의상학과",
+            "department": "의상학과",
             "timestamp": "2023-07-31T19:10:53.388696",
             "title": "노스페이스 영업MD팀 업무보조 아르바이트 구인",
+            "keywords": [
+                "의상학과",
+                "2023-07-31",
+                "기타"
+            ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700064&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000082",
-            "major": "스페인어학과",
+            "department": "스페인어학과",
             "timestamp": "2023-07-31T20:04:23.069712",
             "title": "[경희대 중남미연구소] 한-쿠바 협력 포럼",
+            "keywords": [
+                "스페인어학과",
+                "2023-07-31",
+                "기타"
+            ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         }
     ]

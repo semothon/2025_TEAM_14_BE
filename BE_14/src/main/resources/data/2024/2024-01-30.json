@@ -4,37 +4,62 @@
     "stacks": [
         {
             "id": "00000018",
-            "major": "학생회관(국제).학생식당",
+            "department": "학생회관(국제).학생식당",
             "timestamp": "2024-01-30T00:00:42.997356",
             "title": "동계집중휴무기간(1/29~2/2) 학생회관 식당 미운영 공지",
+            "keywords": [
+                "학생회관(국제)",
+                "2024-01-30",
+                "학생회"
+            ],
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
             "id": "0S000083",
-            "major": "생활협동조합(서울).주간식당메뉴",
+            "department": "생활협동조합(서울).주간식당메뉴",
             "timestamp": "2024-01-30T00:11:30.324579",
             "title": "2월 1주차 청운관식당(학생/교직원) 주간메뉴표",
+            "keywords": [
+                "생활협동조합(서울)",
+                "2024-01-30",
+                "학식"
+            ],
             "url": "https://coop.khu.ac.kr/9%ec%9b%94-3%ec%a3%bc%ec%b0%a8-%ec%a3%bc%ea%b0%84%eb%a9%94%eb%89%b4%ed%91%9c-2-copy-copy/"
         },
         {
             "id": "00000096",
-            "major": "대학생활(교내학점교류)",
+            "department": "대학생활(교내학점교류)",
             "timestamp": "2024-01-30T08:06:26.666747",
             "title": "(캠퍼스:국제) [성결대학교] 2024학년도 1학기 경인지역 학점교류",
+            "keywords": [
+                "대학생활(교내학점교류)",
+                "2024-01-30",
+                "학점교류"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=CREDIT&page=1"
         },
         {
             "id": "00000096",
-            "major": "대학생활(교내학점교류)",
+            "department": "대학생활(교내학점교류)",
             "timestamp": "2024-01-30T08:06:26.742899",
             "title": "(캠퍼스:국제) [가천대학교] 2024학년도 1학기 경인지역 학점교류",
+            "keywords": [
+                "대학생활(교내학점교류)",
+                "2024-01-30",
+                "학점교류"
+            ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=CREDIT&page=1"
         },
         {
             "id": "00000020",
-            "major": "제2기숙사",
+            "department": "제2기숙사",
             "timestamp": "2024-01-30T16:01:00.927953",
             "title": "제2기숙사 2024-1학기 조기 입사 신청 안내",
+            "keywords": [
+                "제2기숙사",
+                "2024-01-30",
+                "기숙사"
+            ],
             "url": "https://dorm2.khu.ac.kr/40/4010.kmc"
         }
     ]

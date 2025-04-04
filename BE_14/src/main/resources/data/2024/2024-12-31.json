@@ -4,268 +4,458 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-12-31T23:33:18.856056",
             "title": "오늘의 채용공고가 21건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-12-31",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=2"
         },
         {
             "id": "0S000022",
-            "major": "음악대학",
+            "department": "음악대학",
             "timestamp": "2024-12-31T09:05:40.502503",
             "title": "한국어센터 공간이전 공사로 인한 주차통제 안내",
+            "keywords": [
+                "음악대학",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "http://music.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005013"
         },
         {
             "id": "00000064",
-            "major": "환경학및환경공학과",
+            "department": "환경학및환경공학과",
             "timestamp": "2024-12-31T09:34:18.825476",
             "title": "[대학원]2025학년도 1학기 일반대학원 수강신청 안내",
+            "keywords": [
+                "환경학및환경공학과",
+                "2024-12-31",
+                "수강신청"
+            ],
             "url": "https://env.khu.ac.kr/env/user/bbs/BMSR00040/list.do?menuNo=18000015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-12-31T09:34:57.014191",
             "title": "국제교육원 온라인 한국어과정 홍보",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-12-31",
+                "온라인"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-12-31T09:34:57.014246",
             "title": "2024학년도 6차 국제교육원 외국어강좌 홍보",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2024-12-31T09:35:22.441310",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "약학대학",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000022",
-            "major": "음악대학",
+            "department": "음악대학",
             "timestamp": "2024-12-31T09:35:32.350400",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "음악대학",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "http://music.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005013"
         },
         {
             "id": "0S000023",
-            "major": "음악대학.자유게시판",
+            "department": "음악대학.자유게시판",
             "timestamp": "2024-12-31T09:35:37.198120",
             "title": "2024학년도 6차 국제교육원 외국어강좌 홍보 의뢰",
+            "keywords": [
+                "음악대학",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "http://music.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005001"
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2024-12-31T09:37:54.136410",
             "title": "[학사] 2025-1학기 복학 신청 안내",
+            "keywords": [
+                "의과대학",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000061",
-            "major": "치과대학",
+            "department": "치과대학",
             "timestamp": "2024-12-31T09:37:56.949605",
             "title": "[학사]2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "치과대학",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://dental.khu.ac.kr/dental_kor/user/bbs/BMSR00040/list.do?menuNo=16700050&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000080",
-            "major": "경영대학원",
+            "department": "경영대학원",
             "timestamp": "2024-12-31T09:38:41.427843",
             "title": " 2024학년도 2학기 성적 열람 및 공시(정정)기간 안내",
+            "keywords": [
+                "경영대학원",
+                "2024-12-31",
+                "성적"
+            ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000014",
-            "major": "호텔관광대학.학사공지사항",
+            "department": "호텔관광대학.학사공지사항",
             "timestamp": "2024-12-31T10:04:57.979103",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "호텔관광대학",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000042",
-            "major": "정경대학",
+            "department": "정경대학",
             "timestamp": "2024-12-31T10:06:55.059067",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "정경대학",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500020&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000081",
-            "major": "행복기숙사",
+            "department": "행복기숙사",
             "timestamp": "2024-12-31T10:08:46.684931",
             "title": "[이문동(B동) 2024-2학기] 24년 12월 상벌점 공지NEW A사감W1 2024-12-3",
+            "keywords": [
+                "행복기숙사",
+                "2024-12-31",
+                "기숙사"
+            ],
             "url": "https://happydorm.khu.ac.kr/60/6010.kmc"
         },
         {
             "id": "00000020",
-            "major": "제2기숙사",
+            "department": "제2기숙사",
             "timestamp": "2024-12-31T10:30:26.935086",
             "title": "2025-1학기 제1차 입사 신청 안내",
+            "keywords": [
+                "제2기숙사",
+                "2024-12-31",
+                "기숙사"
+            ],
             "url": "https://dorm2.khu.ac.kr/40/4010.kmc"
         },
         {
             "id": "00000058",
-            "major": "정보전자신소재공학과",
+            "department": "정보전자신소재공학과",
             "timestamp": "2024-12-31T10:34:12.438373",
             "title": "2025학년도 1학기 일반대학원 수강신청 안내",
+            "keywords": [
+                "정보전자신소재공학과",
+                "2024-12-31",
+                "수강신청"
+            ],
             "url": "https://amie.khu.ac.kr/amie/user/bbs/BMSR00040/list.do?menuNo=17700015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2024-12-31T10:34:52.709563",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "사학과",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2024-12-31T10:34:52.709619",
             "title": "2025학년도 1학기 (서울)일반대학원 전과 안내",
+            "keywords": [
+                "사학과",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-12-31T10:34:54.270231",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "영어영문학과",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-12-31T10:34:54.270289",
             "title": "2025학년도 1학기 (서울)일반대학원 전과 안내 및 구성원 공지",
+            "keywords": [
+                "영어영문학과",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-12-31T10:34:54.271064",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "영어영문학과",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-12-31T10:34:54.271120",
             "title": "2025학년도 1학기 (서울)일반대학원 전과 안내 및 구성원 공지",
+            "keywords": [
+                "영어영문학과",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000013",
-            "major": "철학과",
+            "department": "철학과",
             "timestamp": "2024-12-31T10:34:58.848934",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "철학과",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://com.khu.ac.kr/sophia/user/bbs/BMSR00040/list.do?menuNo=16200007&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000056",
-            "major": "국제통상-금융투자학부",
+            "department": "국제통상-금융투자학부",
             "timestamp": "2024-12-31T10:37:51.039480",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000056",
-            "major": "국제통상-금융투자학부",
+            "department": "국제통상-금융투자학부",
             "timestamp": "2024-12-31T10:37:51.346652",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "국제통상-금융투자학부",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "http://cominv.khu.ac.kr/home/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000041",
-            "major": "물리학과",
+            "department": "물리학과",
             "timestamp": "2024-12-31T11:06:50.124762",
             "title": "[일반대학원] 2025학년도 1학기 일반대학원 전과 안내",
+            "keywords": [
+                "물리학과",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000060",
-            "major": "한의과대학",
+            "department": "한의과대학",
             "timestamp": "2024-12-31T11:07:52.972266",
             "title": "평화의전당 광장 주차통제 재안내[2025년 경희학원 시무식·신년 교례회]",
+            "keywords": [
+                "한의과대학",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "https://kmc.khu.ac.kr/kmc_kor/user/bbs/BMSR00040/list.do?menuNo=4200052&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2024-12-31T11:31:13.076679",
             "title": "[응용과학대학] 2024-2학기 실기B(단대우수학술) 장학신청 안내",
+            "keywords": [
+                "응용과학대학",
+                "2024-12-31",
+                "장학"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000027",
-            "major": "응용과학대학",
+            "department": "응용과학대학",
             "timestamp": "2024-12-31T11:31:13.076731",
             "title": "[응용과학대학] 2024학년도 2차 학술대회 참여발표 및 국내외 경진대회 수상 학생 활동지 지원 신청 안내",
+            "keywords": [
+                "응용과학대학",
+                "2024-12-31",
+                "공모전"
+            ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2024-12-31T11:34:48.038908",
             "title": "MBTI 워크숍 실시 안내",
+            "keywords": [
+                "국어국문학과",
+                "2024-12-31",
+                "워크숍"
+            ],
             "url": "https://com.khu.ac.kr/gukmun/user/bbs/BMSR00040/list.do?menuNo=16000042&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2024-12-31T11:34:48.260749",
             "title": "2024학년도 6차 국제교육원 외국어강좌",
+            "keywords": [
+                "국어국문학과",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/gukmun/user/bbs/BMSR00040/list.do?menuNo=16000042&boardType=&pageIndex=2&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2024-12-31T11:34:48.260801",
             "title": "국제교육원 온라인 한국어과정",
+            "keywords": [
+                "국어국문학과",
+                "2024-12-31",
+                "온라인"
+            ],
             "url": "https://com.khu.ac.kr/gukmun/user/bbs/BMSR00040/list.do?menuNo=16000042&boardType=&pageIndex=2&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2024-12-31T11:34:48.260848",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "국어국문학과",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://com.khu.ac.kr/gukmun/user/bbs/BMSR00040/list.do?menuNo=16000042&boardType=&pageIndex=2&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-12-31T11:34:52.537538",
             "title": "평화의전당 광장 주차통제 재안내[2025년 경희학원 시무식·신년 교례회] (날짜변경)",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-12-31T11:34:52.537593",
             "title": "2025학년도 1학기 복학 신청 안내",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000018",
-            "major": "무용학부",
+            "department": "무용학부",
             "timestamp": "2024-12-31T11:35:09.069844",
             "title": "복학 신청 안내(2025-1학기)",
+            "keywords": [
+                "무용학부",
+                "2024-12-31",
+                "휴·복학"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000054",
-            "major": "무역학과",
+            "department": "무역학과",
             "timestamp": "2024-12-31T12:07:43.480882",
             "title": "★★[필독] 무역학과 2025교육과정시행세칙[학부]",
+            "keywords": [
+                "무역학과",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "http://trade.khu.ac.kr/trade/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2024-12-31T15:04:48.136832",
             "title": "[문과대 행정실] 제주항공 사고 관련 심리적 외상 관리 안내",
+            "keywords": [
+                "문과대학",
+                "2024-12-31",
+                "기타"
+            ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800019&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         }
     ]

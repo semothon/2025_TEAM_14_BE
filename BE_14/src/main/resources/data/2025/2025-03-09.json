@@ -4,9 +4,14 @@
     "stacks": [
         {
             "id": "0S000039",
-            "major": "지리학과.취업공지",
+            "department": "지리학과.취업공지",
             "timestamp": "2025-03-09T00:06:55.346014",
             "title": "[일동제약그룹] 2025년 상반기 공개채용",
+            "keywords": [
+                "지리학과",
+                "2025-03-09",
+                "취업"
+            ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600057&pageIndex=1&searchCondition=&searchKeyword="
         }
     ]

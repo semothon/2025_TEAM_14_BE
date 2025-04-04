@@ -4,9 +4,14 @@
     "stacks": [
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2023-11-12T10:31:55.003098",
             "title": "2023-2학기 6,7차 학습법 특강 다시보기 서비스 제공 안내",
+            "keywords": [
+                "공과대학",
+                "2023-11-12",
+                "강연"
+            ],
             "url": "https://eng.khu.ac.kr/eng/C1100333?page=1&category=&"
         }
     ]

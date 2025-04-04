@@ -4,408 +4,704 @@
     "stacks": [
         {
             "id": "00000039",
-            "major": "미래인재센터.채용공고",
+            "department": "미래인재센터.채용공고",
             "timestamp": "2024-10-22T23:31:24.581082",
             "title": "오늘의 채용공고가 29건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-10-22",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_3&page=2"
         },
         {
             "id": "00000040",
-            "major": "미래인재센터.추천채용",
+            "department": "미래인재센터.추천채용",
             "timestamp": "2024-10-22T23:31:29.535209",
             "title": "오늘의 추천채용이 1건 있습니다",
+            "keywords": [
+                "미래인재센터",
+                "2024-10-22",
+                "취업"
+            ],
             "url": "https://goodjob.khu.ac.kr/bbs/board.php?bo_table=s3_2&page=1"
         },
         {
             "id": "0S000002",
-            "major": "문과대학",
+            "department": "문과대학",
             "timestamp": "2024-10-22T09:32:54.225676",
             "title": "제3회 인권작품 공모전 개최 안내",
+            "keywords": [
+                "문과대학",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800019&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-10-22T09:32:58.294785",
             "title": "제3회 인권작품 공모전 공모 안내",
+            "keywords": [
+                "영어영문학과",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000013",
-            "major": "철학과",
+            "department": "철학과",
             "timestamp": "2024-10-22T09:33:02.838595",
             "title": "제3회 인권작품 공모전 공모 안내",
+            "keywords": [
+                "철학과",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://com.khu.ac.kr/sophia/user/bbs/BMSR00040/list.do?menuNo=16200007&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000016",
-            "major": "호텔관광대학.학과공지사항",
+            "department": "호텔관광대학.학과공지사항",
             "timestamp": "2024-10-22T09:33:07.979469",
             "title": "[문화엔터테인먼트학과] 2024-2학기 본전공(제1전공) 미신청자 사유서 제출 안내",
+            "keywords": [
+                "호텔관광대학",
+                "2024-10-22",
+                "기타"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900110&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000019",
-            "major": "무용학부.자유게시판",
+            "department": "무용학부.자유게시판",
             "timestamp": "2024-10-22T09:33:20.945605",
             "title": "제3회 인권작품 공모전 안내",
+            "keywords": [
+                "무용학부",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00041/list.do?menuNo=300046&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000020",
-            "major": "약학대학",
+            "department": "약학대학",
             "timestamp": "2024-10-22T09:33:25.232635",
             "title": "2024학년도 동계 계절학기 운영 세부사항 안내 [교양수업 참고]",
+            "keywords": [
+                "약학대학",
+                "2024-10-22",
+                "계절학기"
+            ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000060",
-            "major": "한의과대학",
+            "department": "한의과대학",
             "timestamp": "2024-10-22T09:35:58.560048",
             "title": "[인권센터] 제3회 인권작품 공모전 공모 안내",
+            "keywords": [
+                "한의과대학",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://kmc.khu.ac.kr/kmc_kor/user/bbs/BMSR00040/list.do?menuNo=4200052&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2024-10-22T10:03:00.250243",
             "title": "제3회 인권작품 공모전 공모 안내",
+            "keywords": [
+                "사학과",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-10-22T10:03:03.132166",
             "title": "제3회 인권작품 공모전 공모 안내",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000061",
-            "major": "치과대학",
+            "department": "치과대학",
             "timestamp": "2024-10-22T10:06:00.565714",
             "title": "[학사]2024학년도 동계 계절학기 안내",
+            "keywords": [
+                "치과대학",
+                "2024-10-22",
+                "계절학기"
+            ],
             "url": "https://dental.khu.ac.kr/dental_kor/user/bbs/BMSR00040/list.do?menuNo=16700050&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000079",
-            "major": "공공대학원",
+            "department": "공공대학원",
             "timestamp": "2024-10-22T10:06:47.037667",
             "title": "[인권센터] 제3회 인권작품 공모전 공모",
+            "keywords": [
+                "공공대학원",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000064",
-            "major": "환경학및환경공학과",
+            "department": "환경학및환경공학과",
             "timestamp": "2024-10-22T10:32:27.024682",
             "title": "2024학년도 동계 학부연구생 신청안내",
+            "keywords": [
+                "환경학및환경공학과",
+                "2024-10-22",
+                "기타"
+            ],
             "url": "https://env.khu.ac.kr/env/user/bbs/BMSR00040/list.do?menuNo=18000015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000041",
-            "major": "물리학과",
+            "department": "물리학과",
             "timestamp": "2024-10-22T10:34:50.418162",
             "title": "2024학년도 동계 계절학기 수요조사 안내(~11/3까지)",
+            "keywords": [
+                "물리학과",
+                "2024-10-22",
+                "계절학기"
+            ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2024-10-22T11:00:26.809625",
             "title": "「제7회 서울특별시 드론 활용 경진대회」 개최 안내",
+            "keywords": [
+                "공과대학",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100020&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000088",
-            "major": "체육대학원.기타공지",
+            "department": "체육대학원.기타공지",
             "timestamp": "2024-10-22T11:02:48.852983",
             "title": "[인권센터] 제3회 인권작품 공모전 공모 안내",
+            "keywords": [
+                "체육대학원",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "http://gradsport.khu.ac.kr/bbs/board.php?bo_table=07_02&page=1"
         },
         {
             "id": "0S000010",
-            "major": "문과대학.취업정보",
+            "department": "문과대학.취업정보",
             "timestamp": "2024-10-22T11:03:03.158018",
             "title": "[한국로봇산업진흥원] 2024년 제3차 신규직원 공개경쟁채용(~11/5)",
+            "keywords": [
+                "문과대학",
+                "2024-10-22",
+                "취업"
+            ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800035&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000016",
-            "major": "호텔관광대학.학과공지사항",
+            "department": "호텔관광대학.학과공지사항",
             "timestamp": "2024-10-22T11:03:09.661640",
             "title": "[관광.엔터테인먼트 학부] 2024-2학기 본전공(제1전공) 미신청자 사유서 제출 안내",
+            "keywords": [
+                "호텔관광대학",
+                "2024-10-22",
+                "기타"
+            ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900110&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-10-22T11:33:02.803223",
             "title": "<서울 아일랜드 문학 축제> 홍보",
+            "keywords": [
+                "영어영문학과",
+                "2024-10-22",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2024-10-22T11:36:35.803687",
             "title": "[간호대학원] 2024년 11월 14일(목) 동서간호학연구소 세미나(콜로키움) 개최 안내",
+            "keywords": [
+                "간호대학원",
+                "2024-10-22",
+                "세미나"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "00000022",
-            "major": "공과대학",
+            "department": "공과대학",
             "timestamp": "2024-10-22T12:00:27.792113",
             "title": "[인권센터] 제3회 인권작품 공모전 공모 안내",
+            "keywords": [
+                "공과대학",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100020&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000058",
-            "major": "정보전자신소재공학과",
+            "department": "정보전자신소재공학과",
             "timestamp": "2024-10-22T12:02:41.488059",
             "title": "2024-동계 공과대학 해외전공연수 공고문",
+            "keywords": [
+                "정보전자신소재공학과",
+                "2024-10-22",
+                "연수"
+            ],
             "url": "https://amie.khu.ac.kr/amie/user/bbs/BMSR00040/list.do?menuNo=17700015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000055",
-            "major": "무역학과.장학및홍보",
+            "department": "무역학과.장학및홍보",
             "timestamp": "2024-10-22T12:06:03.728928",
             "title": "[к№Җ.мһҘ лІ•лҘ мӮ¬л¬ҙмҶҢ] мҠӨнғӯ(мҶЎл¬ҙ м—…л¬ҙ) мұ„мҡ© (~11.4мӣ”)",
+            "keywords": [
+                "무역학과",
+                "2024-10-22",
+                "장학"
+            ],
             "url": "http://trade.khu.ac.kr/trade/index.php?mid=scholarship&page=1"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2024-10-22T13:02:59.344207",
             "title": "2024학년도 2학기 중간 강의평가 시행 안내",
+            "keywords": [
+                "국어국문학과",
+                "2024-10-22",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/gukmun/user/bbs/BMSR00040/list.do?menuNo=16000042&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000069",
-            "major": "원자력공학과.취업정보",
+            "department": "원자력공학과.취업정보",
             "timestamp": "2024-10-22T13:32:30.193748",
             "title": "[현대트랜시스] 모빌리티품질관리 부문 경력 채용",
+            "keywords": [
+                "원자력공학과",
+                "2024-10-22",
+                "취업"
+            ],
             "url": "https://ne.khu.ac.kr/ne/user/bbs/BMSR00040/list.do?menuNo=17500024&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2024-10-22T13:32:59.635689",
             "title": "「경희사랑 한마음 걷기대회」 안내",
+            "keywords": [
+                "국어국문학과",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://com.khu.ac.kr/gukmun/user/bbs/BMSR00040/list.do?menuNo=16000042&boardType=&pageIndex=2&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000086",
-            "major": "아트퓨전디자인대학원",
+            "department": "아트퓨전디자인대학원",
             "timestamp": "2024-10-22T14:02:40.317497",
             "title": "2024학년도 2학기 청구논문심사 심사 신청 안내",
+            "keywords": [
+                "아트퓨전디자인대학원",
+                "2024-10-22",
+                "논문"
+            ],
             "url": "/bbs/board.php?bo_table=06_01&wr_id=489&page=1"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2024-10-22T14:02:57.388514",
             "title": "[문과대 행정실] 제3회 인권작품 공모전 공모 안내",
+            "keywords": [
+                "국어국문학과",
+                "2024-10-22",
+                "공모전"
+            ],
             "url": "https://com.khu.ac.kr/gukmun/user/bbs/BMSR00040/list.do?menuNo=16000042&boardType=&pageIndex=2&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-10-22T14:03:00.179988",
             "title": "2025학년도 전기 미디어커뮤니케이션대학원 석사과정 신(편)입생 모집",
+            "keywords": [
+                "영어영문학과",
+                "2024-10-22",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-10-22T14:03:00.180383",
             "title": "2025학년도 전기 미디어커뮤니케이션대학원 석사과정 신(편)입생 모집",
+            "keywords": [
+                "영어영문학과",
+                "2024-10-22",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000026",
-            "major": "이과대학.연구/세미나",
+            "department": "이과대학.연구/세미나",
             "timestamp": "2024-10-22T14:03:55.743314",
             "title": "[국고]2024 Khreative U+ 대학원생 연구역량 강화 영어논문 작성방법 워크숍 안내",
+            "keywords": [
+                "이과대학",
+                "2024-10-22",
+                "논문",
+                "워크숍"
+            ],
             "url": "https://science.khu.ac.kr/science_kor/user/bbs/BMSR00040/list.do?menuNo=1200040&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000075",
-            "major": "간호대학원",
+            "department": "간호대학원",
             "timestamp": "2024-10-22T14:06:36.135046",
             "title": "[일반] 2024년 2학기 동서간호학연구소 콜로키움 개최 안내 (11.14.(목))",
+            "keywords": [
+                "간호대학원",
+                "2024-10-22",
+                "기타"
+            ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
         {
             "id": "0S000003",
-            "major": "국어국문학과",
+            "department": "국어국문학과",
             "timestamp": "2024-10-22T14:32:59.758387",
             "title": "2025학년도 전기 미디어커뮤니케이션대학원 석사과정 신(편)입생 모집 안내",
+            "keywords": [
+                "국어국문학과",
+                "2024-10-22",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/gukmun/user/bbs/BMSR00040/list.do?menuNo=16000042&boardType=&pageIndex=2&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2024-10-22T14:33:01.143752",
             "title": "2024 Khreative U+ 대학원생 연구역량 강화 영어논문 작성방법 워크숍",
+            "keywords": [
+                "사학과",
+                "2024-10-22",
+                "논문",
+                "워크숍"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2024-10-22T14:33:01.143806",
             "title": "2025학년도 전기 미디어커뮤니케이션대학원 석사과정 신(편)입생 모집안내",
+            "keywords": [
+                "사학과",
+                "2024-10-22",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-10-22T14:33:04.099329",
             "title": "‍미디어커뮤니케이션대학원(부서 미디어커뮤니케이션대학원)",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-10-22",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-10-22T14:33:04.099862",
             "title": "‍미디어커뮤니케이션대학원(부서 미디어커뮤니케이션대학원)",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-10-22",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-10-22T15:03:09.629051",
             "title": "[국고]2024 Khreative U+ 대학원생 연구역량 강화 영어논문 작성방법 워크숍",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-10-22",
+                "논문",
+                "워크숍"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-10-22T15:03:09.629626",
             "title": "[국고]2024 Khreative U+ 대학원생 연구역량 강화 영어논문 작성방법 워크숍",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-10-22",
+                "논문",
+                "워크숍"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000013",
-            "major": "철학과",
+            "department": "철학과",
             "timestamp": "2024-10-22T15:03:12.740537",
             "title": "2024 Khreative U+ 대학원생 연구역량 강화 영어논문 작성방법 워크숍 홍보",
+            "keywords": [
+                "철학과",
+                "2024-10-22",
+                "논문",
+                "워크숍"
+            ],
             "url": "https://com.khu.ac.kr/sophia/user/bbs/BMSR00040/list.do?menuNo=16200007&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000035",
-            "major": "대학주보.헤드라인",
+            "department": "대학주보.헤드라인",
             "timestamp": "2024-10-22T15:31:10.011025",
             "title": "서울캠 AED 32개소에 설치, 미설치 건물은 근거리 ...",
+            "keywords": [
+                "대학주보",
+                "2024-10-22",
+                "기타"
+            ],
             "url": "http://media.khu.ac.kr/khunews/list.asp?code1=1012006022801&code2=&headline=&section=&auth=&page=1&field=&flag=&issue_date_split=&search_text1=&search=&keyword="
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2024-10-22T15:33:03.665063",
             "title": "2024학년도 동계 계절학기 시행 및 전공/교양강좌 개설 안내",
+            "keywords": [
+                "사학과",
+                "2024-10-22",
+                "계절학기"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000013",
-            "major": "철학과",
+            "department": "철학과",
             "timestamp": "2024-10-22T15:33:09.749744",
             "title": "2024학년도 동계 계절학기 시행 및 전공/교양강좌 개설 안내",
+            "keywords": [
+                "철학과",
+                "2024-10-22",
+                "계절학기"
+            ],
             "url": "https://com.khu.ac.kr/sophia/user/bbs/BMSR00040/list.do?menuNo=16200007&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000013",
-            "major": "철학과",
+            "department": "철학과",
             "timestamp": "2024-10-22T15:33:09.749795",
             "title": "2025학년도 전기 미디어커뮤니케이션대학원 석사과정 신(편)입생 모집 안내",
+            "keywords": [
+                "철학과",
+                "2024-10-22",
+                "모집"
+            ],
             "url": "https://com.khu.ac.kr/sophia/user/bbs/BMSR00040/list.do?menuNo=16200007&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-10-22T16:03:00.243737",
             "title": "<<2024학년도 동계 계절학기 시행 및 전공/교양강좌 개설 안내>>",
+            "keywords": [
+                "영어영문학과",
+                "2024-10-22",
+                "계절학기"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000005",
-            "major": "영어영문학과",
+            "department": "영어영문학과",
             "timestamp": "2024-10-22T16:03:00.244172",
             "title": "<<2024학년도 동계 계절학기 시행 및 전공/교양강좌 개설 안내>>",
+            "keywords": [
+                "영어영문학과",
+                "2024-10-22",
+                "계절학기"
+            ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-10-22T16:03:01.621846",
             "title": "미술대학 2025학년도 수시 실기우수자전형 미술 실기고사 진행을 위한 주차통제 협조 의뢰[11/2(토)~11/3(일)]",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-10-22",
+                "기타"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000006",
-            "major": "응용영어통번역학과",
+            "department": "응용영어통번역학과",
             "timestamp": "2024-10-22T16:03:01.621901",
             "title": "2024학년도 동계 계절학기 시행 및 전공/교양강좌 개설 안내",
+            "keywords": [
+                "응용영어통번역학과",
+                "2024-10-22",
+                "계절학기"
+            ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000054",
-            "major": "무역학과",
+            "department": "무역학과",
             "timestamp": "2024-10-22T16:05:46.632415",
             "title": "2024-2학기 무역학과 졸업논문 대체시험 신청 및 대체 서류 제출 안내",
+            "keywords": [
+                "무역학과",
+                "2024-10-22",
+                "논문",
+                "졸업"
+            ],
             "url": "http://trade.khu.ac.kr/trade/index.php?mid=notice&page=1"
         },
         {
             "id": "0S000060",
-            "major": "한의과대학",
+            "department": "한의과대학",
             "timestamp": "2024-10-22T16:05:58.501881",
             "title": "[미술대학] \"2024 경희나이트 × 오픈스튜디오\" 행사",
+            "keywords": [
+                "한의과대학",
+                "2024-10-22",
+                "행사"
+            ],
             "url": "https://kmc.khu.ac.kr/kmc_kor/user/bbs/BMSR00040/list.do?menuNo=4200052&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000004",
-            "major": "사학과",
+            "department": "사학과",
             "timestamp": "2024-10-22T16:33:02.324814",
             "title": "2024 경희나이트 × 오픈스튜디오 행사 홍보",
+            "keywords": [
+                "사학과",
+                "2024-10-22",
+                "행사"
+            ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000019",
-            "major": "무용학부.자유게시판",
+            "department": "무용학부.자유게시판",
             "timestamp": "2024-10-22T16:33:28.498335",
             "title": "2024 경희나이트 × 오픈스튜디오 행사 안내",
+            "keywords": [
+                "무용학부",
+                "2024-10-22",
+                "행사"
+            ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00041/list.do?menuNo=300046&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "0S000032",
-            "major": "화학과",
+            "department": "화학과",
             "timestamp": "2024-10-22T16:34:24.875004",
             "title": "[경혜장학] 2024학년도 화학과 동문장학생 선발 안내",
+            "keywords": [
+                "화학과",
+                "2024-10-22",
+                "장학"
+            ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
         },
         {
             "id": "00000068",
-            "major": "원자력공학과",
+            "department": "원자력공학과",
             "timestamp": "2024-10-22T17:02:34.578315",
             "title": "신한울1,2호기 종합준공 및 신한울3,4호기 착공식 행사 초청 및 참석자 신청 (~10.23(수) 4시까지)",
+            "keywords": [
+                "원자력공학과",
+                "2024-10-22",
+                "행사"
+            ],
             "url": "https://ne.khu.ac.kr/ne/user/bbs/BMSR00040/list.do?menuNo=17500023&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "0S000058",
-            "major": "의과대학",
+            "department": "의과대학",
             "timestamp": "2024-10-22T17:06:08.391572",
             "title": "[일반] 건양대학교 의과대학 「제3회 CHARM KYUM 의학교육 포럼」 안내",
+            "keywords": [
+                "의과대학",
+                "2024-10-22",
+                "기타"
+            ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
         {
             "id": "0S000077",
-            "major": "교육대학원(서울)",
+            "department": "교육대학원(서울)",
             "timestamp": "2024-10-22T17:06:56.043426",
             "title": "예비교사들의 AI 디지털교육 역량강화를 위한 인공지능 활용방안 1차 특강- Chat GPT 및 인공지능의 활용",
+            "keywords": [
+                "교육대학원(서울)",
+                "2024-10-22",
+                "강연"
+            ],
             "url": "https://eduseoul.khu.ac.kr/edu_seoul/user/bbs/BMSR00040/list.do?menuNo=12800075&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
             "id": "00000020",
-            "major": "제2기숙사",
+            "department": "제2기숙사",
             "timestamp": "2024-10-22T19:00:25.307113",
             "title": "무인택배함 운영기간 만료 안내",
+            "keywords": [
+                "제2기숙사",
+                "2024-10-22",
+                "기숙사"
+            ],
             "url": "https://dorm2.khu.ac.kr/40/4010.kmc"
         }
     ]
