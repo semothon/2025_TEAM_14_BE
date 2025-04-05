@@ -20,7 +20,7 @@ public class StackEntry {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String major; // JSON에서는 "department"
+    private String major;
 
     private LocalDateTime timestamp;
 
@@ -29,6 +29,5 @@ public class StackEntry {
     private String url;
 
     @OneToMany(mappedBy = "stackEntry", cascade = CascadeType.ALL, orphanRemoval = true)
-    private List<Keyword> keywords = new ArrayList<>();
-
+    private List<Search> searches = new ArrayList<>();
 }

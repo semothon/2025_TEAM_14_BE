@@ -3,20 +3,26 @@ package com.example.BE_14.entity;
 import jakarta.persistence.*;
 import lombok.*;
 
+import java.time.LocalDate;
+
 @Entity
-@Table(name = "keywords")
+@Table(name = "searches")
 @Getter
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class Keyword {
+public class Search {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     private String keyword;
+
+    private LocalDate createdTime;
+
+    private String depart;
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "stack_entry_id")
