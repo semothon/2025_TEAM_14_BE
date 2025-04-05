@@ -55,18 +55,28 @@ public class UserService {
     public User updateUser(Long userId, UpdateUserRequest request) {
         User user = userRepository.findById(userId)
                 .orElseThrow(() -> new IllegalArgumentException("해당 유저가 존재하지 않습니다."));
+
         if (request.getName() != null) {
             user.setName(request.getName());
         }
         if (request.getDepartment() != null) {
             user.setDepartment(request.getDepartment());
         }
+
         user.setStudyYear(request.getStudyYear());
+
         if (request.getTransferMinor() != null) {
             user.setTransferMinor(request.getTransferMinor());
         }
+
+        // 🔥 키워드가 들어있으면 기존 키워드 덮어쓰기
+        if (request.getUserKeywords() != null && !request.getUserKeywords().isEmpty()) {
+            user.setUserKeywords(request.getUserKeywords());
+        }
+
         return userRepository.save(user);
     }
+
 
     // 이메일 중복 체크 메서드 추가
     public boolean emailExists(String email) {

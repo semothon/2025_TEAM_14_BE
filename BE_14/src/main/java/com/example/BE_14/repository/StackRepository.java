@@ -8,4 +8,6 @@ import java.util.List;
 
 public interface StackRepository extends JpaRepository<StackEntry, Long> {
     List<StackEntry> findByTimestampBetweenOrderByTimestampDesc(LocalDateTime start, LocalDateTime end);
+    List<StackEntry> findTop5ByTitleContainingIgnoreCaseOrderByTimestampDesc(String title);
+
 }

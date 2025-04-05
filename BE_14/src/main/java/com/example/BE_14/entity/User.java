@@ -3,8 +3,11 @@ package com.example.BE_14.entity;
 import jakarta.persistence.*;
 import lombok.*;
 
+import java.util.ArrayList;
+import java.util.List;
+
 @Entity
-@Table(name = "users") // 테이블명
+@Table(name = "users")
 @Getter
 @Setter
 @NoArgsConstructor
@@ -13,11 +16,11 @@ import lombok.*;
 public class User {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)  // PK
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     @Column(nullable = false, unique = true)
-    private String email;       // 로그인 ID 역할
+    private String email;
 
     @Column(nullable = false)
     private String password;
@@ -28,11 +31,16 @@ public class User {
     @Column(nullable = false)
     private String department;
 
-    // 예약어 충돌을 피하기 위해 studyYear로 변경
-    // 실제 컬럼명은 study_year로 설정
     @Column(name = "study_year", nullable = false)
     private int studyYear;
 
-    @Column(nullable = true) // 선택 사항
-    private String transferMinor; // 전과/부전공 여부
+    @Column
+    private String transferMinor;
+
+    // ✅ 사용자 키워드 목록 - 초기 none 포함
+    @ElementCollection
+    @CollectionTable(name = "user_keywords", joinColumns = @JoinColumn(name = "user_id"))
+    @Column(name = "keyword")
+    @Builder.Default
+    private List<String> userKeywords = new ArrayList<>(List.of("none"));
 }
