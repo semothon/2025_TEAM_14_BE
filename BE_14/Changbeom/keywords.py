@@ -2,7 +2,7 @@ import json
 import os
 import keyfilter as kf
 
-with open("BE_14\Changbeom\departments.json", "r", encoding="utf-8") as f: ###############상대경로##################
+with open("./BE_14\Changbeom\departments.json", "r", encoding="utf-8") as f: ###############상대경로##################
     departments = json.load(f)
 
 # 학과 관련 키워드

@@ -58,7 +58,8 @@
             "keywords": [
                 "우정원",
                 "2024-04-25",
-                "기숙사"
+                "기숙사",
+                "휴무"
             ],
             "url": "https://wjwdorm.khu.ac.kr/60/6010.kmc"
         },
@@ -70,8 +71,10 @@
             "keywords": [
                 "화학과",
                 "2024-04-25",
+                "1학기",
                 "강연",
-                "모집"
+                "모집",
+                "특강"
             ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -83,8 +86,10 @@
             "keywords": [
                 "정보디스플레이학과",
                 "2024-04-25",
+                "1학기",
                 "강연",
-                "모집"
+                "모집",
+                "특강"
             ],
             "url": "https://display.khu.ac.kr/display/user/bbs/BMSR00040/list.do?menuNo=3500019&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -96,8 +101,10 @@
             "keywords": [
                 "지리학과",
                 "2024-04-25",
+                "신청",
                 "연수",
-                "온라인"
+                "온라인",
+                "학점"
             ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600055&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -109,7 +116,8 @@
             "keywords": [
                 "지리학과",
                 "2024-04-25",
-                "기타"
+                "1학기",
+                "일정"
             ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600055&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -121,8 +129,10 @@
             "keywords": [
                 "지리학과",
                 "2024-04-25",
+                "1학기",
                 "강연",
-                "모집"
+                "모집",
+                "특강"
             ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600055&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -146,8 +156,10 @@
             "keywords": [
                 "수학과",
                 "2024-04-25",
+                "1학기",
                 "강연",
-                "모집"
+                "모집",
+                "특강"
             ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600020&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -159,7 +171,10 @@
             "keywords": [
                 "물리학과",
                 "2024-04-25",
-                "강연"
+                "1학기",
+                "강연",
+                "사업",
+                "특강"
             ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
@@ -171,8 +186,11 @@
             "keywords": [
                 "생체의공학과",
                 "2024-04-25",
+                "1학기",
                 "모집",
-                "취업"
+                "취업",
+                "프로그램",
+                "홍보"
             ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800031&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -184,7 +202,9 @@
             "keywords": [
                 "동서의학대학원",
                 "2024-04-25",
-                "모집"
+                "모집",
+                "신입",
+                "편입"
             ],
             "url": "http://gsm.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
         },
@@ -196,7 +216,8 @@
             "keywords": [
                 "약학대학",
                 "2024-04-25",
-                "기타"
+                "신청",
+                "프로그램"
             ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -209,7 +230,8 @@
                 "컴퓨터공학부",
                 "2024-04-25",
                 "취업",
-                "행사"
+                "행사",
+                "홍보"
             ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
@@ -233,7 +255,7 @@
             "keywords": [
                 "생물학과",
                 "2024-04-25",
-                "기타"
+                "개최"
             ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900032&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -245,8 +267,10 @@
             "keywords": [
                 "생물학과",
                 "2024-04-25",
+                "1학기",
                 "강연",
-                "모집"
+                "모집",
+                "특강"
             ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900032&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -258,7 +282,8 @@
             "keywords": [
                 "미래혁신원",
                 "2024-04-25",
-                "장학"
+                "장학",
+                "프로그램"
             ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -320,6 +345,8 @@
             "keywords": [
                 "공공대학원",
                 "2024-04-25",
+                "사업",
+                "연구",
                 "취업"
             ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
@@ -332,6 +359,7 @@
             "keywords": [
                 "행복기숙사",
                 "2024-04-25",
+                "1학기",
                 "기숙사"
             ],
             "url": "https://happydorm.khu.ac.kr/60/6010.kmc"
@@ -344,7 +372,9 @@
             "keywords": [
                 "국제대학원",
                 "2024-04-25",
-                "모집"
+                "2학기",
+                "모집",
+                "신입"
             ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -356,7 +386,9 @@
             "keywords": [
                 "국제대학원",
                 "2024-04-25",
-                "모집"
+                "2학기",
+                "모집",
+                "신입"
             ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -368,7 +400,8 @@
             "keywords": [
                 "무용학부",
                 "2024-04-25",
-                "모집"
+                "모집",
+                "일정"
             ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=2&searchCondition=&searchKeyword="
         },
@@ -380,7 +413,7 @@
             "keywords": [
                 "약학대학",
                 "2024-04-25",
-                "기타"
+                "프로그램"
             ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=3&searchCondition=&searchKeyword="
         },
@@ -404,7 +437,7 @@
             "keywords": [
                 "화학과",
                 "2024-04-25",
-                "기타"
+                "프로그램"
             ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -416,6 +449,7 @@
             "keywords": [
                 "행복기숙사",
                 "2024-04-25",
+                "1학기",
                 "기숙사"
             ],
             "url": "https://happydorm.khu.ac.kr/60/6010.kmc"

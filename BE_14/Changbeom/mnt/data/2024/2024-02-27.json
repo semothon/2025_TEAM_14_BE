@@ -39,30 +39,6 @@
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
-            "id": "0S000080",
-            "department": "경영대학원",
-            "timestamp": "2024-02-27T00:17:07.345341",
-            "title": "新生指南 (中文视频)",
-            "keywords": [
-                "경영대학원",
-                "2024-02-27",
-                "기타"
-            ],
-            "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
-        },
-        {
-            "id": "0S000080",
-            "department": "경영대학원",
-            "timestamp": "2024-02-27T00:17:07.347427",
-            "title": "新生指南 (中文视频)",
-            "keywords": [
-                "경영대학원",
-                "2024-02-27",
-                "기타"
-            ],
-            "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
-        },
-        {
             "id": "0S000083",
             "department": "생활협동조합(서울).주간식당메뉴",
             "timestamp": "2024-02-27T00:17:23.357064",
@@ -118,7 +94,8 @@
             "keywords": [
                 "체육대학",
                 "2024-02-27",
-                "모집"
+                "모집",
+                "신입"
             ],
             "url": "http://sports.khu.ac.kr/bbs/board.php?bo_table=05_01&page=1"
         },
@@ -130,7 +107,8 @@
             "keywords": [
                 "생체의공학과",
                 "2024-02-27",
-                "모집"
+                "모집",
+                "홍보"
             ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -154,7 +132,9 @@
             "keywords": [
                 "응용영어통번역학과",
                 "2024-02-27",
-                "기타"
+                "1학기",
+                "강의",
+                "홍보"
             ],
             "url": "http://aelts.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
@@ -166,7 +146,8 @@
             "keywords": [
                 "문과대학",
                 "2024-02-27",
-                "기타"
+                "강의",
+                "홍보"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005001"
         },
@@ -178,6 +159,8 @@
             "keywords": [
                 "호텔관광대학",
                 "2024-02-27",
+                "1학기",
+                "신청",
                 "장학"
             ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900109&pageIndex=1&searchCondition=&searchKeyword="
@@ -190,6 +173,7 @@
             "keywords": [
                 "무용학부",
                 "2024-02-27",
+                "강의",
                 "모집"
             ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
@@ -202,7 +186,8 @@
             "keywords": [
                 "약학대학",
                 "2024-02-27",
-                "기타"
+                "강의",
+                "홍보"
             ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=2&searchCondition=&searchKeyword="
         },
@@ -214,33 +199,10 @@
             "keywords": [
                 "식품영양학과",
                 "2024-02-27",
+                "1학기",
                 "창업"
             ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
-        },
-        {
-            "id": "0S000080",
-            "department": "경영대학원",
-            "timestamp": "2024-02-27T09:47:33.135297",
-            "title": "[亚洲经MBA(中文)] 2024学年度第一学期专业考试报名指南",
-            "keywords": [
-                "경영대학원",
-                "2024-02-27",
-                "기타"
-            ],
-            "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
-        },
-        {
-            "id": "0S000080",
-            "department": "경영대학원",
-            "timestamp": "2024-02-27T09:47:33.137565",
-            "title": "[亚洲经MBA(中文)] 2024学年度第一学期专业考试报名指南",
-            "keywords": [
-                "경영대학원",
-                "2024-02-27",
-                "기타"
-            ],
-            "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
         {
             "id": "00000007",
@@ -286,7 +248,9 @@
             "keywords": [
                 "국어국문학과",
                 "2024-02-27",
-                "기타"
+                "1학기",
+                "강의",
+                "홍보"
             ],
             "url": "http://gukmun.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=006009001001"
         },
@@ -298,7 +262,7 @@
             "keywords": [
                 "사학과",
                 "2024-02-27",
-                "기타"
+                "연구"
             ],
             "url": "http://history.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001"
         },
@@ -310,7 +274,9 @@
             "keywords": [
                 "사학과",
                 "2024-02-27",
-                "기타"
+                "1학기",
+                "강의",
+                "홍보"
             ],
             "url": "http://history.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001"
         },
@@ -322,7 +288,7 @@
             "keywords": [
                 "식품영양학과",
                 "2024-02-27",
-                "기타"
+                "강의"
             ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -334,6 +300,7 @@
             "keywords": [
                 "행복기숙사",
                 "2024-02-27",
+                "2학기",
                 "기숙사"
             ],
             "url": "https://happydorm.khu.ac.kr/60/6010.kmc"
@@ -346,6 +313,7 @@
             "keywords": [
                 "행복기숙사",
                 "2024-02-27",
+                "2학기",
                 "기숙사"
             ],
             "url": "https://happydorm.khu.ac.kr/60/6010.kmc"
@@ -395,7 +363,8 @@
             "keywords": [
                 "철학과",
                 "2024-02-27",
-                "기타"
+                "강의",
+                "홍보"
             ],
             "url": "http://sophia.khu.ac.kr/?pageid=1&page_id=2782&mod=list"
         },
@@ -407,7 +376,7 @@
             "keywords": [
                 "호텔관광대학",
                 "2024-02-27",
-                "기타"
+                "모집"
             ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900110&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -419,6 +388,7 @@
             "keywords": [
                 "호텔관광대학",
                 "2024-02-27",
+                "강의",
                 "모집"
             ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
@@ -443,7 +413,8 @@
             "keywords": [
                 "치과대학-일반대학원",
                 "2024-02-27",
-                "모집"
+                "모집",
+                "신입"
             ],
             "url": "http://dental.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001003"
         },
@@ -479,7 +450,8 @@
             "keywords": [
                 "외국어대학",
                 "2024-02-27",
-                "기타"
+                "강의",
+                "홍보"
             ],
             "url": "http://foreign.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004014"
         },
@@ -491,7 +463,8 @@
             "keywords": [
                 "환경학및환경공학과",
                 "2024-02-27",
-                "취업"
+                "취업",
+                "홍보"
             ],
             "url": "https://eng.khu.ac.kr/env/C2430306?page=1&category=&"
         },
@@ -527,6 +500,7 @@
             "keywords": [
                 "대학생활(학사)",
                 "2024-02-27",
+                "1학기",
                 "온라인"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=UNDERGRADUATE&page=1"
@@ -539,7 +513,7 @@
             "keywords": [
                 "응용과학대학",
                 "2024-02-27",
-                "기타"
+                "신입"
             ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -551,7 +525,7 @@
             "keywords": [
                 "응용과학대학",
                 "2024-02-27",
-                "기타"
+                "신입"
             ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -563,7 +537,7 @@
             "keywords": [
                 "응용과학대학",
                 "2024-02-27",
-                "기타"
+                "신입"
             ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -575,7 +549,7 @@
             "keywords": [
                 "응용과학대학",
                 "2024-02-27",
-                "기타"
+                "신입"
             ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -587,6 +561,7 @@
             "keywords": [
                 "응용과학대학",
                 "2024-02-27",
+                "신입",
                 "취업"
             ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
@@ -599,6 +574,7 @@
             "keywords": [
                 "응용과학대학",
                 "2024-02-27",
+                "신입",
                 "취업"
             ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
@@ -611,6 +587,7 @@
             "keywords": [
                 "응용과학대학",
                 "2024-02-27",
+                "신입",
                 "취업"
             ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
@@ -623,6 +600,7 @@
             "keywords": [
                 "응용과학대학",
                 "2024-02-27",
+                "신입",
                 "취업"
             ],
             "url": "https://applsci.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
@@ -635,7 +613,8 @@
             "keywords": [
                 "외국어대학",
                 "2024-02-27",
-                "기타"
+                "1학기",
+                "프로그램"
             ],
             "url": "http://foreign.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004014"
         },
@@ -659,7 +638,7 @@
             "keywords": [
                 "우주과학과",
                 "2024-02-27",
-                "기타"
+                "신입"
             ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -671,7 +650,7 @@
             "keywords": [
                 "우주과학과",
                 "2024-02-27",
-                "기타"
+                "신입"
             ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -683,7 +662,7 @@
             "keywords": [
                 "우주과학과",
                 "2024-02-27",
-                "기타"
+                "신입"
             ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -695,7 +674,7 @@
             "keywords": [
                 "우주과학과",
                 "2024-02-27",
-                "기타"
+                "신입"
             ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200042&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -707,7 +686,8 @@
             "keywords": [
                 "영어영문학과",
                 "2024-02-27",
-                "기타"
+                "1학기",
+                "강의"
             ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
@@ -719,7 +699,8 @@
             "keywords": [
                 "간호대학원",
                 "2024-02-27",
-                "기타"
+                "1학기",
+                "신청"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
@@ -731,7 +712,7 @@
             "keywords": [
                 "치과대학-일반대학원",
                 "2024-02-27",
-                "기타"
+                "프로그램"
             ],
             "url": "http://dental.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001003"
         },
@@ -743,7 +724,7 @@
             "keywords": [
                 "대학생활(일반)",
                 "2024-02-27",
-                "기타"
+                "강의"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
@@ -755,7 +736,11 @@
             "keywords": [
                 "영어영문학과",
                 "2024-02-27",
-                "기타"
+                "1학기",
+                "신입",
+                "신청",
+                "일정",
+                "편입"
             ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
@@ -791,7 +776,8 @@
             "keywords": [
                 "원자력공학과",
                 "2024-02-27",
-                "모집"
+                "모집",
+                "홍보"
             ],
             "url": "https://eng.khu.ac.kr/ne/C0880336?page=1&category=&"
         },
@@ -803,7 +789,9 @@
             "keywords": [
                 "원자력공학과",
                 "2024-02-27",
-                "공모전"
+                "공모전",
+                "모집",
+                "홍보"
             ],
             "url": "https://eng.khu.ac.kr/ne/C0880336?page=1&category=&"
         },
@@ -815,7 +803,8 @@
             "keywords": [
                 "원자력공학과",
                 "2024-02-27",
-                "기타"
+                "강의",
+                "홍보"
             ],
             "url": "https://eng.khu.ac.kr/ne/C0880336?page=1&category=&"
         },
@@ -827,7 +816,8 @@
             "keywords": [
                 "원자력공학과",
                 "2024-02-27",
-                "취업"
+                "취업",
+                "홍보"
             ],
             "url": "https://eng.khu.ac.kr/ne/C1800320?page=1&category=&"
         },
@@ -839,7 +829,8 @@
             "keywords": [
                 "원자력공학과",
                 "2024-02-27",
-                "취업"
+                "취업",
+                "홍보"
             ],
             "url": "https://eng.khu.ac.kr/ne/C1800320?page=1&category=&"
         },
@@ -851,6 +842,7 @@
             "keywords": [
                 "행정학과",
                 "2024-02-27",
+                "1학기",
                 "모집"
             ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
@@ -863,6 +855,7 @@
             "keywords": [
                 "행정학과",
                 "2024-02-27",
+                "1학기",
                 "모집"
             ],
             "url": "https://pa.khu.ac.kr/pa/user/bbs/BMSR00040/list.do?menuNo=4700043&pageIndex=1&searchCondition=&searchKeyword="
@@ -887,6 +880,7 @@
             "keywords": [
                 "문과대학",
                 "2024-02-27",
+                "1학기",
                 "창업"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005006"
@@ -899,6 +893,7 @@
             "keywords": [
                 "영어영문학과",
                 "2024-02-27",
+                "1학기",
                 "창업"
             ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
@@ -923,6 +918,7 @@
             "keywords": [
                 "영어영문학과",
                 "2024-02-27",
+                "사업",
                 "취업"
             ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
@@ -959,6 +955,7 @@
             "keywords": [
                 "호텔관광대학",
                 "2024-02-27",
+                "1학기",
                 "모집",
                 "장학"
             ],
@@ -972,7 +969,7 @@
             "keywords": [
                 "경영대학",
                 "2024-02-27",
-                "기타"
+                "강의"
             ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
@@ -984,6 +981,7 @@
             "keywords": [
                 "국어국문학과",
                 "2024-02-27",
+                "1학기",
                 "창업"
             ],
             "url": "http://gukmun.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=006009001001"
@@ -996,6 +994,7 @@
             "keywords": [
                 "사학과",
                 "2024-02-27",
+                "1학기",
                 "창업"
             ],
             "url": "http://history.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001"
@@ -1008,6 +1007,7 @@
             "keywords": [
                 "응용영어통번역학과",
                 "2024-02-27",
+                "1학기",
                 "창업"
             ],
             "url": "http://aelts.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
@@ -1020,7 +1020,8 @@
             "keywords": [
                 "공공대학원",
                 "2024-02-27",
-                "기타"
+                "1학기",
+                "프로그램"
             ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
@@ -1045,7 +1046,8 @@
             "keywords": [
                 "국제대학원",
                 "2024-02-27",
-                "기타"
+                "1학기",
+                "일정"
             ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -1070,7 +1072,9 @@
             "keywords": [
                 "국제대학원",
                 "2024-02-27",
-                "수강신청"
+                "1학기",
+                "수강신청",
+                "신청"
             ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -1082,7 +1086,8 @@
             "keywords": [
                 "외국어대학",
                 "2024-02-27",
-                "모집"
+                "모집",
+                "홍보"
             ],
             "url": "http://foreign.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004014"
         },
@@ -1094,7 +1099,8 @@
             "keywords": [
                 "사학과",
                 "2024-02-27",
-                "기타"
+                "강의",
+                "연구"
             ],
             "url": "http://history.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001"
         },
@@ -1106,7 +1112,8 @@
             "keywords": [
                 "의과대학",
                 "2024-02-27",
-                "모집"
+                "모집",
+                "신입"
             ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
@@ -1118,7 +1125,9 @@
             "keywords": [
                 "의과대학",
                 "2024-02-27",
-                "기타"
+                "1학기",
+                "신청",
+                "학생증"
             ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
@@ -1130,7 +1139,8 @@
             "keywords": [
                 "식품영양학과",
                 "2024-02-27",
-                "기타"
+                "1학기",
+                "프로그램"
             ],
             "url": "https://che.khu.ac.kr/che/user/bbs/BMSR00040/list.do?menuNo=12700018&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },

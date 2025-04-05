@@ -47,6 +47,7 @@
                 "소프트웨어융합대학",
                 "2023-11-08",
                 "국제교류",
+                "신청",
                 "연수"
             ],
             "url": "https://software.khu.ac.kr/software/user/bbs/BMSR00040/list.do?menuNo=1700014&pageIndex=1&searchCondition=&searchKeyword="
@@ -60,6 +61,7 @@
                 "소프트웨어융합대학",
                 "2023-11-08",
                 "국제교류",
+                "신청",
                 "연수"
             ],
             "url": "https://software.khu.ac.kr/software/user/bbs/BMSR00040/list.do?menuNo=1700014&pageIndex=1&searchCondition=&searchKeyword="
@@ -73,6 +75,7 @@
                 "전자정보대학",
                 "2023-11-08",
                 "국제교류",
+                "신청",
                 "연수"
             ],
             "url": "https://eni.khu.ac.kr/eni/user/bbs/BMSR00040/list.do?menuNo=2000020&pageIndex=1&searchCondition=&searchKeyword="
@@ -86,6 +89,7 @@
                 "전자정보대학",
                 "2023-11-08",
                 "국제교류",
+                "신청",
                 "연수"
             ],
             "url": "https://eni.khu.ac.kr/eni/user/bbs/BMSR00040/list.do?menuNo=2000020&pageIndex=1&searchCondition=&searchKeyword="
@@ -99,6 +103,7 @@
                 "생체의공학과",
                 "2023-11-08",
                 "국제교류",
+                "신청",
                 "연수"
             ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
@@ -112,6 +117,7 @@
                 "생체의공학과",
                 "2023-11-08",
                 "국제교류",
+                "신청",
                 "연수"
             ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
@@ -125,6 +131,7 @@
                 "전자공학과",
                 "2023-11-08",
                 "국제교류",
+                "신청",
                 "연수"
             ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
@@ -138,6 +145,7 @@
                 "전자공학과",
                 "2023-11-08",
                 "국제교류",
+                "신청",
                 "연수"
             ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
@@ -210,7 +218,7 @@
             "keywords": [
                 "문과대학",
                 "2023-11-08",
-                "기타"
+                "컨퍼런스"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005006"
         },
@@ -223,7 +231,8 @@
                 "물리학과",
                 "2023-11-08",
                 "계절학기",
-                "수강신청"
+                "수강신청",
+                "신청"
             ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
@@ -236,7 +245,9 @@
                 "외국어대학",
                 "2023-11-08",
                 "모집",
-                "창업"
+                "창업",
+                "프로그램",
+                "홍보"
             ],
             "url": "http://foreign.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004014"
         },
@@ -296,7 +307,7 @@
             "keywords": [
                 "프랑스어학과",
                 "2023-11-08",
-                "기타"
+                "신청"
             ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
@@ -333,7 +344,9 @@
             "keywords": [
                 "프랑스어학과",
                 "2023-11-08",
-                "강연"
+                "강연",
+                "신청",
+                "특강"
             ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
@@ -406,7 +419,8 @@
             "keywords": [
                 "스페인어학과",
                 "2023-11-08",
-                "취업"
+                "취업",
+                "홍보"
             ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
@@ -431,7 +445,9 @@
                 "스페인어학과",
                 "2023-11-08",
                 "모집",
-                "취업"
+                "신입",
+                "취업",
+                "홍보"
             ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
@@ -443,7 +459,9 @@
             "keywords": [
                 "스페인어학과",
                 "2023-11-08",
-                "강연"
+                "강연",
+                "신청",
+                "특강"
             ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
@@ -467,6 +485,7 @@
             "keywords": [
                 "영어영문학과",
                 "2023-11-08",
+                "신청",
                 "취업"
             ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
@@ -479,7 +498,8 @@
             "keywords": [
                 "정보디스플레이학과",
                 "2023-11-08",
-                "기타"
+                "개최",
+                "프로그램"
             ],
             "url": "https://display.khu.ac.kr/display/user/bbs/BMSR00040/list.do?menuNo=3500019&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -503,7 +523,8 @@
             "keywords": [
                 "정보디스플레이학과",
                 "2023-11-08",
-                "기타"
+                "개최",
+                "프로그램"
             ],
             "url": "https://display.khu.ac.kr/display/user/bbs/BMSR00040/list.do?menuNo=3500019&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -529,7 +550,8 @@
                 "2023-11-08",
                 "모집",
                 "창업",
-                "취업"
+                "취업",
+                "프로그램"
             ],
             "url": "https://eng.khu.ac.kr/me/C1300316?page=1&category=&"
         },
@@ -541,7 +563,9 @@
             "keywords": [
                 "외국어대학",
                 "2023-11-08",
-                "기타"
+                "개최",
+                "행사",
+                "홍보"
             ],
             "url": "http://foreign.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004014"
         },
@@ -553,7 +577,8 @@
             "keywords": [
                 "프랑스어학과",
                 "2023-11-08",
-                "모집"
+                "모집",
+                "신입"
             ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
@@ -565,7 +590,8 @@
             "keywords": [
                 "프랑스어학과",
                 "2023-11-08",
-                "모집"
+                "모집",
+                "신입"
             ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
@@ -603,7 +629,8 @@
                 "2023-11-08",
                 "모집",
                 "창업",
-                "취업"
+                "취업",
+                "프로그램"
             ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000031&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -616,7 +643,8 @@
                 "영어영문학과",
                 "2023-11-08",
                 "모집",
-                "취업"
+                "취업",
+                "캠프"
             ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
@@ -629,7 +657,8 @@
                 "문과대학",
                 "2023-11-08",
                 "모집",
-                "취업"
+                "취업",
+                "캠프"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005003"
         },
@@ -665,7 +694,8 @@
             "keywords": [
                 "프랑스어학과",
                 "2023-11-08",
-                "취업"
+                "취업",
+                "캠프"
             ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
@@ -677,7 +707,8 @@
             "keywords": [
                 "스페인어학과",
                 "2023-11-08",
-                "취업"
+                "취업",
+                "캠프"
             ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
@@ -689,7 +720,8 @@
             "keywords": [
                 "대학생활(일반)",
                 "2023-11-08",
-                "모집"
+                "모집",
+                "연구"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
@@ -701,6 +733,7 @@
             "keywords": [
                 "대학생활(일반)",
                 "2023-11-08",
+                "사업",
                 "취업"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
@@ -713,7 +746,8 @@
             "keywords": [
                 "대학생활(교내학점교류)",
                 "2023-11-08",
-                "계절학기"
+                "계절학기",
+                "학점"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=CREDIT&page=1"
         },
@@ -726,6 +760,7 @@
                 "대학생활(교내학점교류)",
                 "2023-11-08",
                 "계절학기",
+                "학점",
                 "학점교류"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=CREDIT&page=1"
@@ -738,6 +773,7 @@
             "keywords": [
                 "중앙도서관(서울)",
                 "2023-11-08",
+                "강의",
                 "취업"
             ],
             "url": "https://library.khu.ac.kr/seoul/blog/HR-and-11/27-12/4"
@@ -787,7 +823,7 @@
             "keywords": [
                 "대학주보",
                 "2023-11-08",
-                "기타"
+                "방학"
             ],
             "url": "http://media.khu.ac.kr/khunews/list.asp?code1=1012006022801&code2=&headline=&section=&auth=&page=1&field=&flag=&issue_date_split=&search_text1=&search=&keyword="
         },
@@ -799,7 +835,7 @@
             "keywords": [
                 "원자력공학과",
                 "2023-11-08",
-                "기타"
+                "홍보"
             ],
             "url": "https://eng.khu.ac.kr/ne/C0880336?page=1&category=&"
         },
@@ -813,7 +849,9 @@
                 "2023-11-08",
                 "모집",
                 "창업",
-                "취업"
+                "취업",
+                "프로그램",
+                "홍보"
             ],
             "url": "https://eng.khu.ac.kr/ne/C1800320?page=1&category=&"
         },
@@ -826,7 +864,9 @@
                 "소프트웨어융합학과",
                 "2023-11-08",
                 "모집",
-                "창업"
+                "창업",
+                "프로그램",
+                "홍보"
             ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1515"
         },
@@ -875,7 +915,8 @@
                 "문과대학",
                 "2023-11-08",
                 "강연",
-                "창업"
+                "창업",
+                "특강"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005006"
         },
@@ -900,6 +941,7 @@
                 "컴퓨터공학부",
                 "2023-11-08",
                 "모집",
+                "인턴",
                 "취업"
             ],
             "url": "https://ce.khu.ac.kr/ce/user/bbs/BMSR00040/list.do?menuNo=1600046&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
@@ -924,7 +966,10 @@
             "keywords": [
                 "생체의공학과",
                 "2023-11-08",
-                "행사"
+                "개최",
+                "프로그램",
+                "행사",
+                "홍보"
             ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -936,7 +981,10 @@
             "keywords": [
                 "전자공학과",
                 "2023-11-08",
-                "행사"
+                "개최",
+                "프로그램",
+                "행사",
+                "홍보"
             ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -949,6 +997,7 @@
                 "스페인어학과",
                 "2023-11-08",
                 "모집",
+                "인턴",
                 "취업"
             ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
@@ -961,7 +1010,7 @@
             "keywords": [
                 "스페인어학과",
                 "2023-11-08",
-                "기타"
+                "컨퍼런스"
             ],
             "url": "http://spanish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
@@ -973,6 +1022,7 @@
             "keywords": [
                 "영어영문학과",
                 "2023-11-08",
+                "인턴",
                 "취업"
             ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
@@ -986,6 +1036,7 @@
                 "정경대학",
                 "2023-11-08",
                 "모집",
+                "인턴",
                 "취업"
             ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
@@ -998,7 +1049,8 @@
             "keywords": [
                 "외국어대학",
                 "2023-11-08",
-                "공모전"
+                "공모전",
+                "모집"
             ],
             "url": "http://foreign.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004014"
         },
@@ -1010,7 +1062,8 @@
             "keywords": [
                 "동서의학대학원",
                 "2023-11-08",
-                "기타"
+                "신입",
+                "편입"
             ],
             "url": "http://gsm.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
         },
@@ -1034,7 +1087,9 @@
             "keywords": [
                 "프랑스어학과",
                 "2023-11-08",
-                "취업"
+                "인턴",
+                "취업",
+                "홍보"
             ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004004"
         },
@@ -1046,7 +1101,8 @@
             "keywords": [
                 "일반대학원",
                 "2023-11-08",
-                "기타"
+                "상담",
+                "프로그램"
             ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
@@ -1058,7 +1114,9 @@
             "keywords": [
                 "대학생활(일반)",
                 "2023-11-08",
-                "기타"
+                "2학기",
+                "상담",
+                "장학"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
@@ -1083,6 +1141,7 @@
                 "수학과",
                 "2023-11-08",
                 "모집",
+                "인턴",
                 "취업"
             ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600019&pageIndex=1&searchCondition=&searchKeyword="
@@ -1107,6 +1166,7 @@
             "keywords": [
                 "국제대학",
                 "2023-11-08",
+                "신청",
                 "졸업"
             ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000030&pageIndex=1&searchCondition=&searchKeyword="
@@ -1119,7 +1179,7 @@
             "keywords": [
                 "중앙도서관(서울)",
                 "2023-11-08",
-                "기타"
+                "공공시설"
             ],
             "url": "https://library.khu.ac.kr/seoul/blog/2-2-11/1006000800"
         },
@@ -1131,7 +1191,7 @@
             "keywords": [
                 "의과대학",
                 "2023-11-08",
-                "기타"
+                "인턴"
             ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
@@ -1144,7 +1204,8 @@
                 "사회기반시스템공학과",
                 "2023-11-08",
                 "모집",
-                "창업"
+                "창업",
+                "프로그램"
             ],
             "url": "https://eng.khu.ac.kr/civileng/C2240333?page=1&category=&"
         },
@@ -1156,6 +1217,7 @@
             "keywords": [
                 "생체의공학과",
                 "2023-11-08",
+                "일정",
                 "창업"
             ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
@@ -1168,6 +1230,7 @@
             "keywords": [
                 "전자공학과",
                 "2023-11-08",
+                "일정",
                 "창업"
             ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
@@ -1254,7 +1317,7 @@
             "keywords": [
                 "약학대학",
                 "2023-11-08",
-                "기타"
+                "1학기"
             ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         }

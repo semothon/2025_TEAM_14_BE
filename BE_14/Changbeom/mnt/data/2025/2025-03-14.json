@@ -35,6 +35,7 @@
             "keywords": [
                 "한의과대학",
                 "2025-03-14",
+                "캠페인",
                 "행사"
             ],
             "url": "https://kmc.khu.ac.kr/kmc_kor/user/bbs/BMSR00040/list.do?menuNo=4200052&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -59,7 +60,10 @@
             "keywords": [
                 "생물학과",
                 "2025-03-14",
-                "성적평가"
+                "1학기",
+                "강의",
+                "성적",
+                "신청"
             ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900033&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -71,6 +75,7 @@
             "keywords": [
                 "정경대학",
                 "2025-03-14",
+                "연구",
                 "취업"
             ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
@@ -83,7 +88,9 @@
             "keywords": [
                 "경영대학원",
                 "2025-03-14",
-                "논문"
+                "1학기",
+                "논문",
+                "신청"
             ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -95,7 +102,7 @@
             "keywords": [
                 "국제대학",
                 "2025-03-14",
-                "기타"
+                "2학기"
             ],
             "url": "https://kic.khu.ac.kr/kic_kor/user/bbs/BMSR00040/list.do?menuNo=5000030&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -126,18 +133,6 @@
             "url": "https://zhongwen.khu.ac.kr/zhongwen/user/bbs/BMSR00040/list.do?menuNo=2300012&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
         {
-            "id": "0S000055",
-            "department": "무역학과.장학및홍보",
-            "timestamp": "2025-03-14T11:07:41.361952",
-            "title": "[(мЈј)лҢҖмғҒ лҜёмЈјлІ•мқё] к°Ғ л¶Җл¬ё мқён„ҙ мӮ¬мӣҗ мұ„мҡ©(~03.17)",
-            "keywords": [
-                "무역학과",
-                "2025-03-14",
-                "장학"
-            ],
-            "url": "http://trade.khu.ac.kr/trade/index.php?mid=scholarship&page=1"
-        },
-        {
             "id": "00000088",
             "department": "체육대학원.기타공지",
             "timestamp": "2025-03-14T11:34:51.325126",
@@ -145,6 +140,7 @@
             "keywords": [
                 "체육대학원",
                 "2025-03-14",
+                "캠페인",
                 "행사"
             ],
             "url": "http://gradsport.khu.ac.kr/bbs/board.php?bo_table=07_02&page=1"
@@ -157,6 +153,7 @@
             "keywords": [
                 "문과대학",
                 "2025-03-14",
+                "캠페인",
                 "행사"
             ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800019&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -218,21 +215,11 @@
                 "정경대학",
                 "2025-03-14",
                 "강연",
-                "취업"
+                "설명회",
+                "취업",
+                "홍보"
             ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500022&pageIndex=1&searchCondition=&searchKeyword="
-        },
-        {
-            "id": "0S000055",
-            "department": "무역학과.장학및홍보",
-            "timestamp": "2025-03-14T13:37:35.295870",
-            "title": "мұ„мҡ©г…Ј[(мЈј)лҢҖмғҒ лҜёмЈјлІ•мқё] к°Ғ л¶Җл¬ё мқён„ҙ мӮ¬мӣҗ мұ„мҡ©(~03.17)",
-            "keywords": [
-                "무역학과",
-                "2025-03-14",
-                "장학"
-            ],
-            "url": "http://trade.khu.ac.kr/trade/index.php?mid=scholarship&page=1"
         },
         {
             "id": "00000014",
@@ -255,6 +242,8 @@
             "keywords": [
                 "공과대학",
                 "2025-03-14",
+                "사업",
+                "인턴",
                 "취업"
             ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100023&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -267,7 +256,8 @@
             "keywords": [
                 "치과대학",
                 "2025-03-14",
-                "기타"
+                "1학기",
+                "학점"
             ],
             "url": "https://dental.khu.ac.kr/dental_kor/user/bbs/BMSR00040/list.do?menuNo=16700050&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -279,6 +269,7 @@
             "keywords": [
                 "교육대학원(국제)",
                 "2025-03-14",
+                "1학기",
                 "오리엔테이션"
             ],
             "url": "https://eduglobal.khu.ac.kr/edu_global/user/bbs/BMSR00040/list.do?menuNo=12900045&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -291,7 +282,8 @@
             "keywords": [
                 "영어영문학과",
                 "2025-03-14",
-                "기타"
+                "1학기",
+                "학점"
             ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -303,7 +295,8 @@
             "keywords": [
                 "영어영문학과",
                 "2025-03-14",
-                "기타"
+                "신청",
+                "프로그램"
             ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -315,7 +308,8 @@
             "keywords": [
                 "영어영문학과",
                 "2025-03-14",
-                "기타"
+                "1학기",
+                "학점"
             ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -327,7 +321,7 @@
             "keywords": [
                 "교육대학원(국제)",
                 "2025-03-14",
-                "기타"
+                "실습"
             ],
             "url": "https://eduglobal.khu.ac.kr/edu_global/user/bbs/BMSR00040/list.do?menuNo=12900045&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -339,7 +333,8 @@
             "keywords": [
                 "사학과",
                 "2025-03-14",
-                "기타"
+                "1학기",
+                "학점"
             ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -351,6 +346,8 @@
             "keywords": [
                 "문과대학",
                 "2025-03-14",
+                "1학기",
+                "연구",
                 "장학"
             ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800034&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -363,7 +360,8 @@
             "keywords": [
                 "문과대학",
                 "2025-03-14",
-                "기타"
+                "1학기",
+                "학점"
             ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800033&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -375,7 +373,8 @@
             "keywords": [
                 "교육대학원(서울)",
                 "2025-03-14",
-                "기타"
+                "1학기",
+                "일정"
             ],
             "url": "https://eduseoul.khu.ac.kr/edu_seoul/user/bbs/BMSR00040/list.do?menuNo=12800075&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -388,7 +387,8 @@
                 "글로벌커뮤니케이션학부",
                 "2025-03-14",
                 "강연",
-                "공모전"
+                "대회",
+                "설명회"
             ],
             "url": "https://deptofenglish.khu.ac.kr/deptofenglish/user/bbs/BMSR00040/list.do?menuNo=2100013&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -400,7 +400,8 @@
             "keywords": [
                 "철학과",
                 "2025-03-14",
-                "기타"
+                "1학기",
+                "학점"
             ],
             "url": "https://com.khu.ac.kr/sophia/user/bbs/BMSR00040/list.do?menuNo=16200007&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -437,6 +438,7 @@
                 "수학과",
                 "2025-03-14",
                 "강연",
+                "설명회",
                 "취업"
             ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600019&pageIndex=1&searchCondition=&searchKeyword="
@@ -473,7 +475,8 @@
             "keywords": [
                 "약학대학",
                 "2025-03-14",
-                "기타"
+                "1학기",
+                "학점"
             ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -497,7 +500,8 @@
             "keywords": [
                 "정경대학",
                 "2025-03-14",
-                "기타"
+                "1학기",
+                "학점"
             ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500020&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -509,7 +513,8 @@
             "keywords": [
                 "음악대학",
                 "2025-03-14",
-                "기타"
+                "1학기",
+                "학점"
             ],
             "url": "http://music.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005013"
         },
@@ -545,7 +550,7 @@
             "keywords": [
                 "경제학과",
                 "2025-03-14",
-                "기타"
+                "1학기"
             ],
             "url": "https://econ.khu.ac.kr/econ/user/bbs/BMSR00040/list.do?menuNo=4400060&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -557,7 +562,9 @@
             "keywords": [
                 "교육대학원(국제)",
                 "2025-03-14",
-                "기타"
+                "1학기",
+                "신청",
+                "실습"
             ],
             "url": "https://eduglobal.khu.ac.kr/edu_global/user/bbs/BMSR00040/list.do?menuNo=12900045&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
