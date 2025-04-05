@@ -46,6 +46,7 @@
             "keywords": [
                 "화학과",
                 "2024-01-02",
+                "1학기",
                 "수강신청"
             ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
@@ -58,6 +59,7 @@
             "keywords": [
                 "생물학과",
                 "2024-01-02",
+                "1학기",
                 "수강신청"
             ],
             "url": "https://biology.khu.ac.kr/biology/user/bbs/BMSR00040/list.do?menuNo=900033&pageIndex=1&searchCondition=&searchKeyword="
@@ -70,6 +72,7 @@
             "keywords": [
                 "지리학과",
                 "2024-01-02",
+                "1학기",
                 "수강신청"
             ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600055&pageIndex=1&searchCondition=&searchKeyword="
@@ -82,7 +85,10 @@
             "keywords": [
                 "의과대학",
                 "2024-01-02",
-                "휴·복학"
+                "1학기",
+                "복학",
+                "신청",
+                "휴학"
             ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
@@ -94,6 +100,7 @@
             "keywords": [
                 "물리학과",
                 "2024-01-02",
+                "1학기",
                 "수강신청"
             ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
@@ -119,7 +126,9 @@
                 "정보전자신소재공학과",
                 "2024-01-02",
                 "모집",
-                "취업"
+                "방학",
+                "취업",
+                "프로그램"
             ],
             "url": "https://eng.khu.ac.kr/amie/C2130308?page=1&category=&"
         },
@@ -131,7 +140,7 @@
             "keywords": [
                 "원자력공학과",
                 "2024-01-02",
-                "기타"
+                "홍보"
             ],
             "url": "https://eng.khu.ac.kr/ne/C0880336?page=1&category=&"
         },
@@ -143,7 +152,9 @@
             "keywords": [
                 "중앙도서관(서울)",
                 "2024-01-02",
-                "기타"
+                "공공시설",
+                "서비스",
+                "설문조사"
             ],
             "url": "https://library.khu.ac.kr/seoul/blog/2023-1/12"
         },
@@ -167,6 +178,7 @@
             "keywords": [
                 "미디어커뮤니케이션대학원",
                 "2024-01-02",
+                "1학기",
                 "장학"
             ],
             "url": "https://communication.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
@@ -179,6 +191,7 @@
             "keywords": [
                 "행복기숙사",
                 "2024-01-02",
+                "2학기",
                 "기숙사"
             ],
             "url": "https://happydorm.khu.ac.kr/60/6010.kmc"
@@ -227,7 +240,9 @@
             "keywords": [
                 "정보전자신소재공학과",
                 "2024-01-02",
-                "수강신청"
+                "1학기",
+                "수강신청",
+                "신청"
             ],
             "url": "https://eng.khu.ac.kr/amie/C1350327?page=1&category=&"
         },
@@ -239,7 +254,9 @@
             "keywords": [
                 "동서의학대학원",
                 "2024-01-02",
-                "휴·복학"
+                "1학기",
+                "복학",
+                "신청"
             ],
             "url": "http://gsm.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
         },
@@ -251,7 +268,9 @@
             "keywords": [
                 "교무처-교직팀",
                 "2024-01-02",
-                "강연"
+                "강연",
+                "신청",
+                "특강"
             ],
             "url": "https://education.khu.ac.kr/education/user/bbs/BMSR00040/list.do?menuNo=7000028&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -263,7 +282,9 @@
             "keywords": [
                 "교무처-교직팀",
                 "2024-01-02",
-                "강연"
+                "강연",
+                "신청",
+                "특강"
             ],
             "url": "https://education.khu.ac.kr/education/user/bbs/BMSR00040/list.do?menuNo=7000028&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -275,6 +296,8 @@
             "keywords": [
                 "대학생활(교내학점교류)",
                 "2024-01-02",
+                "1학기",
+                "학점",
                 "학점교류"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=CREDIT&page=1"
@@ -287,7 +310,7 @@
             "keywords": [
                 "대학생활(일반)",
                 "2024-01-02",
-                "기타"
+                "행정실"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
@@ -299,6 +322,7 @@
             "keywords": [
                 "수학과",
                 "2024-01-02",
+                "1학기",
                 "수강신청"
             ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600017&pageIndex=1&searchCondition=&searchKeyword="
@@ -311,7 +335,7 @@
             "keywords": [
                 "공과대학",
                 "2024-01-02",
-                "기타"
+                "개최"
             ],
             "url": "https://eng.khu.ac.kr/eng/C1100333?page=1&category=&"
         },
@@ -323,7 +347,7 @@
             "keywords": [
                 "대학생활(일반)",
                 "2024-01-02",
-                "기타"
+                "1학기"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
@@ -335,7 +359,11 @@
             "keywords": [
                 "응용영어통번역학과",
                 "2024-01-02",
-                "수강신청"
+                "1학기",
+                "국제교류",
+                "수강신청",
+                "신청",
+                "일정"
             ],
             "url": "http://aelts.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
@@ -347,6 +375,7 @@
             "keywords": [
                 "응용영어통번역학과",
                 "2024-01-02",
+                "1학기",
                 "수강신청"
             ],
             "url": "http://aelts.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
@@ -359,7 +388,11 @@
             "keywords": [
                 "문과대학",
                 "2024-01-02",
-                "수강신청"
+                "1학기",
+                "국제교류",
+                "수강신청",
+                "신청",
+                "일정"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005001"
         },
@@ -371,6 +404,7 @@
             "keywords": [
                 "문과대학",
                 "2024-01-02",
+                "1학기",
                 "수강신청"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005001"
@@ -383,7 +417,11 @@
             "keywords": [
                 "철학과",
                 "2024-01-02",
-                "수강신청"
+                "1학기",
+                "국제교류",
+                "수강신청",
+                "신청",
+                "일정"
             ],
             "url": "http://sophia.khu.ac.kr/?pageid=1&page_id=2782&mod=list"
         },
@@ -395,6 +433,7 @@
             "keywords": [
                 "철학과",
                 "2024-01-02",
+                "1학기",
                 "수강신청"
             ],
             "url": "http://sophia.khu.ac.kr/?pageid=1&page_id=2782&mod=list"
@@ -407,7 +446,9 @@
             "keywords": [
                 "의과대학",
                 "2024-01-02",
-                "기타"
+                "1학기",
+                "신청",
+                "전과"
             ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
@@ -455,7 +496,11 @@
             "keywords": [
                 "사학과",
                 "2024-01-02",
-                "수강신청"
+                "1학기",
+                "국제교류",
+                "수강신청",
+                "신청",
+                "일정"
             ],
             "url": "http://history.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001"
         },
@@ -467,6 +512,7 @@
             "keywords": [
                 "사학과",
                 "2024-01-02",
+                "1학기",
                 "수강신청"
             ],
             "url": "http://history.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001"
@@ -479,7 +525,9 @@
             "keywords": [
                 "의과대학",
                 "2024-01-02",
-                "수강신청"
+                "1학기",
+                "수강신청",
+                "신청"
             ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
@@ -491,6 +539,7 @@
             "keywords": [
                 "대학생활(학사)",
                 "2024-01-02",
+                "1학기",
                 "예비군"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=UNDERGRADUATE&page=1"
@@ -503,6 +552,7 @@
             "keywords": [
                 "대학생활(일반)",
                 "2024-01-02",
+                "1학기",
                 "예비군"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
@@ -515,7 +565,7 @@
             "keywords": [
                 "중앙도서관(국제)",
                 "2024-01-02",
-                "기타"
+                "서비스"
             ],
             "url": "https://library.khu.ac.kr/global/blog/Info21-1/6"
         },
@@ -527,6 +577,7 @@
             "keywords": [
                 "미래혁신원",
                 "2024-01-02",
+                "2학기",
                 "장학"
             ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
@@ -539,6 +590,7 @@
             "keywords": [
                 "미래혁신원",
                 "2024-01-02",
+                "2학기",
                 "장학"
             ],
             "url": "https://janghak.khu.ac.kr/janghak/user/bbs/BMSR00040/list.do?menuNo=12300032&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
@@ -551,6 +603,7 @@
             "keywords": [
                 "대학생활(장학)",
                 "2024-01-02",
+                "2학기",
                 "장학"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=SCHOLARSHIP&page=1"
@@ -563,7 +616,7 @@
             "keywords": [
                 "중앙도서관(서울)",
                 "2024-01-02",
-                "기타"
+                "서비스"
             ],
             "url": "https://library.khu.ac.kr/seoul/blog/Info21-1/6-SNS"
         },
@@ -599,6 +652,8 @@
             "keywords": [
                 "대학생활(교내학점교류)",
                 "2024-01-02",
+                "1학기",
+                "학점",
                 "학점교류"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=CREDIT&page=1"
@@ -623,7 +678,11 @@
             "keywords": [
                 "영어영문학과",
                 "2024-01-02",
-                "수강신청"
+                "1학기",
+                "국제교류",
+                "수강신청",
+                "신청",
+                "일정"
             ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
@@ -647,7 +706,10 @@
             "keywords": [
                 "정보디스플레이학과",
                 "2024-01-02",
-                "수강신청"
+                "1학기",
+                "국제교류",
+                "수강신청",
+                "신청"
             ],
             "url": "https://display.khu.ac.kr/display/user/bbs/BMSR00040/list.do?menuNo=3500019&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -695,7 +757,8 @@
             "keywords": [
                 "미술대학",
                 "2024-01-02",
-                "기타"
+                "1학기",
+                "강의"
             ],
             "url": "https://khuart.khu.ac.kr/khuart/user/bbs/BMSR00040/list.do?menuNo=1400031&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -719,6 +782,7 @@
             "keywords": [
                 "국어국문학과",
                 "2024-01-02",
+                "1학기",
                 "수강신청"
             ],
             "url": "http://gukmun.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=006009001001"
@@ -731,7 +795,11 @@
             "keywords": [
                 "국어국문학과",
                 "2024-01-02",
-                "수강신청"
+                "1학기",
+                "국제교류",
+                "수강신청",
+                "신청",
+                "일정"
             ],
             "url": "http://gukmun.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=006009001001"
         }

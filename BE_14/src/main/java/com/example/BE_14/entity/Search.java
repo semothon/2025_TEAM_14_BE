@@ -24,7 +24,9 @@ public class Search {
 
     private String depart;
 
-    @ManyToOne(fetch = FetchType.LAZY)
+    @Getter
+    @ManyToOne
     @JoinColumn(name = "stack_entry_id")
     private StackEntry stackEntry;
+
 }

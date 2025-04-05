@@ -47,6 +47,8 @@
                 "문과대학",
                 "2023-07-07",
                 "모집",
+                "실습",
+                "인턴",
                 "취업"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005003"
@@ -59,7 +61,9 @@
             "keywords": [
                 "대학생활(일반)",
                 "2023-07-07",
-                "기타"
+                "1학기",
+                "방학",
+                "장학"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
@@ -72,6 +76,8 @@
                 "수학과",
                 "2023-07-07",
                 "모집",
+                "실습",
+                "인턴",
                 "취업"
             ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600019&pageIndex=1&searchCondition=&searchKeyword="
@@ -84,6 +90,8 @@
             "keywords": [
                 "물리학과",
                 "2023-07-07",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
@@ -109,6 +117,7 @@
             "keywords": [
                 "세화원",
                 "2023-07-07",
+                "2학기",
                 "기숙사"
             ],
             "url": "https://sewhahall.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005001"
@@ -121,6 +130,8 @@
             "keywords": [
                 "물리학과",
                 "2023-07-07",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
@@ -134,6 +145,8 @@
                 "미디어학과",
                 "2023-07-07",
                 "모집",
+                "실습",
+                "인턴",
                 "취업"
             ],
             "url": "https://mediacom.khu.ac.kr/media/user/bbs/BMSR00040/list.do?menuNo=4600045&pageIndex=1&searchCondition=&searchKeyword="
@@ -158,6 +171,7 @@
             "keywords": [
                 "일반대학원",
                 "2023-07-07",
+                "2학기",
                 "모집"
             ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
@@ -218,7 +232,10 @@
             "keywords": [
                 "교육대학원(서울)",
                 "2023-07-07",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "재입학"
             ],
             "url": "https://edu.khu.ac.kr/bbs/board.php?bo_table=seoul_5_1&page=4"
         },
@@ -230,7 +247,9 @@
             "keywords": [
                 "동서의학대학원",
                 "2023-07-07",
-                "모집"
+                "모집",
+                "신입",
+                "편입"
             ],
             "url": "http://gsm.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
         },
@@ -266,6 +285,8 @@
             "keywords": [
                 "일반대학원",
                 "2023-07-07",
+                "2학기",
+                "신청",
                 "장학",
                 "졸업"
             ],
@@ -291,6 +312,7 @@
             "keywords": [
                 "대학생활(장학)",
                 "2023-07-07",
+                "1학기",
                 "장학"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?category=SCHOLARSHIP&page=1"
@@ -339,6 +361,7 @@
             "keywords": [
                 "국제대학원",
                 "2023-07-07",
+                "2학기",
                 "모집"
             ],
             "url": "https://gsp.khu.ac.kr/gsp/user/bbs/BMSR00040/list.do?menuNo=1500047&pageIndex=1&searchCondition=&searchKeyword="
@@ -351,7 +374,8 @@
             "keywords": [
                 "미디어학과",
                 "2023-07-07",
-                "기타"
+                "2학기",
+                "전과"
             ],
             "url": "https://mediacom.khu.ac.kr/media/user/bbs/BMSR00040/list.do?menuNo=4600044&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -363,7 +387,9 @@
             "keywords": [
                 "미디어학과",
                 "2023-07-07",
-                "휴·복학"
+                "2학기",
+                "복학",
+                "신청"
             ],
             "url": "https://mediacom.khu.ac.kr/media/user/bbs/BMSR00040/list.do?menuNo=4600044&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -375,7 +401,8 @@
             "keywords": [
                 "경영대학",
                 "2023-07-07",
-                "기타"
+                "2학기",
+                "전과"
             ],
             "url": "https://kbiz.khu.ac.kr/board5/bbs/board.php?bo_table=05_04_01&page=1"
         },
@@ -387,6 +414,9 @@
             "keywords": [
                 "일반대학원",
                 "2023-07-07",
+                "2학기",
+                "신청",
+                "학점",
                 "학점교류"
             ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
@@ -399,8 +429,9 @@
             "keywords": [
                 "일반대학원",
                 "2023-07-07",
-                "공모전",
+                "1학기",
                 "논문",
+                "대회",
                 "장학"
             ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
@@ -413,6 +444,9 @@
             "keywords": [
                 "일반대학원",
                 "2023-07-07",
+                "2학기",
+                "신청",
+                "학점",
                 "학점교류"
             ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
@@ -437,6 +471,9 @@
             "keywords": [
                 "일반대학원",
                 "2023-07-07",
+                "2학기",
+                "신청",
+                "학점",
                 "학점교류"
             ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
@@ -449,6 +486,9 @@
             "keywords": [
                 "일반대학원",
                 "2023-07-07",
+                "2학기",
+                "신청",
+                "학점",
                 "학점교류"
             ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"

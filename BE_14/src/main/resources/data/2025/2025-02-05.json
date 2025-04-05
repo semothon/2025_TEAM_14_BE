@@ -22,6 +22,7 @@
             "keywords": [
                 "중국어학과",
                 "2025-02-05",
+                "인턴",
                 "취업"
             ],
             "url": "https://zhongwen.khu.ac.kr/zhongwen/user/bbs/BMSR00040/list.do?menuNo=2300012&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -34,6 +35,7 @@
             "keywords": [
                 "프랑스어학과",
                 "2025-02-05",
+                "인턴",
                 "취업"
             ],
             "url": "https://france.khu.ac.kr/france/user/bbs/BMSR00040/list.do?menuNo=2600013&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -46,6 +48,7 @@
             "keywords": [
                 "스페인어학과",
                 "2025-02-05",
+                "인턴",
                 "취업"
             ],
             "url": "https://spanish.khu.ac.kr/spanish/user/bbs/BMSR00040/list.do?menuNo=2500014&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -58,8 +61,9 @@
             "keywords": [
                 "체육대학원",
                 "2025-02-05",
-                "장학",
-                "휴·복학"
+                "1학기",
+                "복학",
+                "장학"
             ],
             "url": "http://gradsport.khu.ac.kr/bbs/board.php?bo_table=07_01&page=1"
         },
@@ -71,7 +75,10 @@
             "keywords": [
                 "교육대학원(서울)",
                 "2025-02-05",
-                "수강신청"
+                "1학기",
+                "수강신청",
+                "신입",
+                "신청"
             ],
             "url": "https://eduseoul.khu.ac.kr/edu_seoul/user/bbs/BMSR00040/list.do?menuNo=12800075&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -83,7 +90,9 @@
             "keywords": [
                 "경영대학원",
                 "2025-02-05",
-                "수강신청"
+                "1학기",
+                "수강신청",
+                "신청"
             ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -108,7 +117,8 @@
             "keywords": [
                 "문과대학",
                 "2025-02-05",
-                "세미나"
+                "세미나",
+                "행정실"
             ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800019&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -120,7 +130,9 @@
             "keywords": [
                 "영어영문학과",
                 "2025-02-05",
-                "세미나"
+                "강의",
+                "세미나",
+                "행정실"
             ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -145,7 +157,9 @@
             "keywords": [
                 "간호과학대학",
                 "2025-02-05",
-                "휴·복학"
+                "1학기",
+                "복학",
+                "실습"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
@@ -157,6 +171,7 @@
             "keywords": [
                 "사학과",
                 "2025-02-05",
+                "연구",
                 "취업"
             ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100038&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -170,6 +185,7 @@
                 "공공대학원",
                 "2025-02-05",
                 "강연",
+                "설명회",
                 "온라인"
             ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
@@ -182,7 +198,7 @@
             "keywords": [
                 "공공대학원",
                 "2025-02-05",
-                "기타"
+                "연구"
             ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
@@ -194,7 +210,9 @@
             "keywords": [
                 "전자공학과",
                 "2025-02-05",
-                "기타"
+                "1학기",
+                "전과",
+                "편입"
             ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900037&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -218,7 +236,7 @@
             "keywords": [
                 "경영대학원",
                 "2025-02-05",
-                "기타"
+                "편입"
             ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -230,7 +248,7 @@
             "keywords": [
                 "경영대학원",
                 "2025-02-05",
-                "기타"
+                "신입"
             ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -242,6 +260,8 @@
             "keywords": [
                 "문과대학",
                 "2025-02-05",
+                "1학기",
+                "신청",
                 "장학"
             ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800034&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -254,6 +274,8 @@
             "keywords": [
                 "호텔관광대학",
                 "2025-02-05",
+                "1학기",
+                "신청",
                 "장학"
             ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900109&pageIndex=1&searchCondition=&searchKeyword="
@@ -290,6 +312,8 @@
             "keywords": [
                 "약학대학",
                 "2025-02-05",
+                "1학기",
+                "신청",
                 "장학"
             ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
@@ -302,6 +326,8 @@
             "keywords": [
                 "정경대학",
                 "2025-02-05",
+                "1학기",
+                "신청",
                 "장학"
             ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500021&pageIndex=1&searchCondition=&searchKeyword="
@@ -314,6 +340,8 @@
             "keywords": [
                 "정경대학",
                 "2025-02-05",
+                "1학기",
+                "신청",
                 "장학"
             ],
             "url": "https://khsma.khu.ac.kr/khsma/user/bbs/BMSR00040/list.do?menuNo=500021&pageIndex=1&searchCondition=&searchKeyword="
@@ -326,7 +354,7 @@
             "keywords": [
                 "교육대학원(국제)",
                 "2025-02-05",
-                "기타"
+                "1학기"
             ],
             "url": "https://eduglobal.khu.ac.kr/edu_global/user/bbs/BMSR00040/list.do?menuNo=12900045&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -350,7 +378,7 @@
             "keywords": [
                 "응용영어통번역학과",
                 "2025-02-05",
-                "기타"
+                "강의"
             ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -386,7 +414,7 @@
             "keywords": [
                 "중앙도서관(국제)",
                 "2025-02-05",
-                "기타"
+                "공공시설"
             ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         },
@@ -398,7 +426,7 @@
             "keywords": [
                 "중앙도서관(서울)",
                 "2025-02-05",
-                "기타"
+                "공공시설"
             ],
             "url": "https://lib.khu.ac.kr/bbs/list/1?pn=1"
         }

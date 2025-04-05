@@ -27,30 +27,6 @@
             "url": "https://www.khu.ac.kr/kor/forum/list.do?type=RESTAURANT&category=INTL&page=1"
         },
         {
-            "id": "0S000080",
-            "department": "경영대학원",
-            "timestamp": "2023-08-30T00:10:32.236239",
-            "title": "新生指南 (中文视频)",
-            "keywords": [
-                "경영대학원",
-                "2023-08-30",
-                "기타"
-            ],
-            "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
-        },
-        {
-            "id": "0S000080",
-            "department": "경영대학원",
-            "timestamp": "2023-08-30T00:10:32.237595",
-            "title": "新生指南 (中文视频)",
-            "keywords": [
-                "경영대학원",
-                "2023-08-30",
-                "기타"
-            ],
-            "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
-        },
-        {
             "id": "0S000083",
             "department": "생활협동조합(서울).주간식당메뉴",
             "timestamp": "2023-08-30T00:10:50.192350",
@@ -70,7 +46,7 @@
             "keywords": [
                 "대학생활(포커스)",
                 "2023-08-30",
-                "기타"
+                "연구"
             ],
             "url": "https://www.khu.ac.kr/kor/focus/list.do?page=1&condition=all&pageSize=15&tps=15"
         },
@@ -82,7 +58,7 @@
             "keywords": [
                 "문과대학",
                 "2023-08-30",
-                "기타"
+                "개최"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005006"
         },
@@ -107,7 +83,9 @@
             "keywords": [
                 "소프트웨어융합학과",
                 "2023-08-30",
-                "모집"
+                "모집",
+                "취업",
+                "프로그램"
             ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1410"
         },
@@ -119,7 +97,9 @@
             "keywords": [
                 "소프트웨어중심대학사업단",
                 "2023-08-30",
-                "모집"
+                "2학기",
+                "모집",
+                "연구"
             ],
             "url": "http://swedu.khu.ac.kr/board5/bbs/board.php?bo_table=06_01&wr_id=2183&page=1"
         },
@@ -132,6 +112,7 @@
                 "소프트웨어융합학과",
                 "2023-08-30",
                 "모집",
+                "연구",
                 "장학",
                 "취업"
             ],
@@ -157,7 +138,8 @@
             "keywords": [
                 "공과대학",
                 "2023-08-30",
-                "공모전"
+                "개최",
+                "대회"
             ],
             "url": "https://eng.khu.ac.kr/eng/C1100333?page=1&category=&"
         },
@@ -169,7 +151,7 @@
             "keywords": [
                 "전자공학과",
                 "2023-08-30",
-                "기타"
+                "2학기"
             ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -194,6 +176,7 @@
                 "전자공학과",
                 "2023-08-30",
                 "모집",
+                "연구",
                 "장학"
             ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
@@ -206,7 +189,9 @@
             "keywords": [
                 "우주과학과",
                 "2023-08-30",
-                "장학"
+                "유학",
+                "장학",
+                "프로그램"
             ],
             "url": "https://space.khu.ac.kr/applsci/user/bbs/BMSR00040/list.do?menuNo=3200045&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -243,7 +228,7 @@
             "keywords": [
                 "프랑스어학과",
                 "2023-08-30",
-                "기타"
+                "신청"
             ],
             "url": "http://france.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004002"
         },
@@ -293,7 +278,9 @@
             "keywords": [
                 "응용영어통번역학과",
                 "2023-08-30",
-                "창업"
+                "계절학기",
+                "창업",
+                "학점"
             ],
             "url": "http://aelts.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
@@ -305,7 +292,7 @@
             "keywords": [
                 "간호과학대학",
                 "2023-08-30",
-                "기타"
+                "상담"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
@@ -317,7 +304,7 @@
             "keywords": [
                 "간호과학대학",
                 "2023-08-30",
-                "기타"
+                "상담"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
         },
@@ -341,7 +328,10 @@
             "keywords": [
                 "소프트웨어융합학과",
                 "2023-08-30",
-                "모집"
+                "모집",
+                "취업",
+                "프로그램",
+                "홍보"
             ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1410"
         },
@@ -365,7 +355,8 @@
             "keywords": [
                 "소프트웨어중심대학사업단",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신청"
             ],
             "url": "http://swedu.khu.ac.kr/board5/bbs/board.php?bo_table=06_01&wr_id=2185&page=1"
         },
@@ -377,7 +368,7 @@
             "keywords": [
                 "소프트웨어중심대학사업단",
                 "2023-08-30",
-                "기타"
+                "2학기"
             ],
             "url": "http://swedu.khu.ac.kr/board5/bbs/board.php?bo_table=06_01&wr_id=2184&page=1"
         },
@@ -389,7 +380,7 @@
             "keywords": [
                 "기계공학과",
                 "2023-08-30",
-                "기타"
+                "강의"
             ],
             "url": "https://eng.khu.ac.kr/me/C1280305?page=1&category=&"
         },
@@ -402,7 +393,8 @@
                 "기계공학과",
                 "2023-08-30",
                 "모집",
-                "취업"
+                "취업",
+                "프로그램"
             ],
             "url": "https://eng.khu.ac.kr/me/C1300316?page=1&category=&"
         },
@@ -426,7 +418,9 @@
             "keywords": [
                 "정보전자신소재공학과",
                 "2023-08-30",
-                "모집"
+                "모집",
+                "취업",
+                "프로그램"
             ],
             "url": "https://eng.khu.ac.kr/amie/C1350327?page=1&category=&"
         },
@@ -438,7 +432,7 @@
             "keywords": [
                 "정보전자신소재공학과",
                 "2023-08-30",
-                "기타"
+                "강의"
             ],
             "url": "https://eng.khu.ac.kr/amie/C1350327?page=1&category=&"
         },
@@ -462,7 +456,9 @@
             "keywords": [
                 "원자력공학과",
                 "2023-08-30",
-                "모집"
+                "모집",
+                "취업",
+                "프로그램"
             ],
             "url": "https://eng.khu.ac.kr/ne/C0880336?page=1&category=&"
         },
@@ -474,7 +470,7 @@
             "keywords": [
                 "원자력공학과",
                 "2023-08-30",
-                "기타"
+                "강의"
             ],
             "url": "https://eng.khu.ac.kr/ne/C0880336?page=1&category=&"
         },
@@ -499,7 +495,8 @@
                 "공과대학",
                 "2023-08-30",
                 "모집",
-                "장학"
+                "장학",
+                "행정실"
             ],
             "url": "https://eng.khu.ac.kr/eng/C1100333?page=1&category=&"
         },
@@ -535,7 +532,8 @@
             "keywords": [
                 "교육대학원(국제)",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신청"
             ],
             "url": "https://edu.khu.ac.kr/bbs/board.php?bo_table=global_5_1&page=1"
         },
@@ -547,7 +545,8 @@
             "keywords": [
                 "소프트웨어중심대학사업단",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "개최"
             ],
             "url": "http://swedu.khu.ac.kr/board5/bbs/board.php?bo_table=06_01&wr_id=2188&page=1"
         },
@@ -571,7 +570,9 @@
             "keywords": [
                 "공과대학",
                 "2023-08-30",
-                "모집"
+                "2학기",
+                "모집",
+                "행정실"
             ],
             "url": "https://eng.khu.ac.kr/eng/C1100333?page=1&category=&"
         },
@@ -583,7 +584,7 @@
             "keywords": [
                 "공과대학",
                 "2023-08-30",
-                "기타"
+                "2학기"
             ],
             "url": "https://eng.khu.ac.kr/eng/C1100333?page=1&category=&"
         },
@@ -619,7 +620,10 @@
             "keywords": [
                 "생체의공학과",
                 "2023-08-30",
-                "모집"
+                "모집",
+                "취업",
+                "프로그램",
+                "홍보"
             ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800030&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -643,7 +647,10 @@
             "keywords": [
                 "전자공학과",
                 "2023-08-30",
-                "모집"
+                "모집",
+                "취업",
+                "프로그램",
+                "홍보"
             ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -655,7 +662,8 @@
             "keywords": [
                 "호텔관광대학",
                 "2023-08-30",
-                "공모전"
+                "공모전",
+                "모집"
             ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -667,6 +675,8 @@
             "keywords": [
                 "무용학부",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
@@ -679,7 +689,7 @@
             "keywords": [
                 "정보전자신소재공학과",
                 "2023-08-30",
-                "기타"
+                "2학기"
             ],
             "url": "https://eng.khu.ac.kr/amie/C1350327?page=1&category=&"
         },
@@ -691,7 +701,8 @@
             "keywords": [
                 "중앙도서관(서울)",
                 "2023-08-30",
-                "논문"
+                "논문",
+                "사업"
             ],
             "url": "https://library.khu.ac.kr/seoul/blog/DBpia-X-2023-8/299/30"
         },
@@ -703,6 +714,8 @@
             "keywords": [
                 "국어국문학과",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "http://gukmun.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=006009001001"
@@ -715,7 +728,7 @@
             "keywords": [
                 "국어국문학과",
                 "2023-08-30",
-                "기타"
+                "신청"
             ],
             "url": "http://gukmun.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=006009001001"
         },
@@ -727,6 +740,8 @@
             "keywords": [
                 "사학과",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "http://history.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001"
@@ -739,6 +754,8 @@
             "keywords": [
                 "응용영어통번역학과",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "http://aelts.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
@@ -751,6 +768,8 @@
             "keywords": [
                 "문과대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005005"
@@ -763,6 +782,8 @@
             "keywords": [
                 "철학과",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "http://sophia.khu.ac.kr/?pageid=1&page_id=2782&mod=list"
@@ -775,6 +796,7 @@
             "keywords": [
                 "경제학과",
                 "2023-08-30",
+                "2학기",
                 "수강신청"
             ],
             "url": "https://econ.khu.ac.kr/econ/user/bbs/BMSR00040/list.do?menuNo=4400060&pageIndex=1&searchCondition=&searchKeyword="
@@ -787,6 +809,7 @@
             "keywords": [
                 "치과대학",
                 "2023-08-30",
+                "신청",
                 "장학"
             ],
             "url": "http://dental.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001001"
@@ -799,7 +822,8 @@
             "keywords": [
                 "치과대학",
                 "2023-08-30",
-                "모집"
+                "모집",
+                "홍보"
             ],
             "url": "http://dental.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001001"
         },
@@ -811,6 +835,8 @@
             "keywords": [
                 "간호과학대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
@@ -823,6 +849,8 @@
             "keywords": [
                 "간호과학대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
@@ -847,7 +875,10 @@
             "keywords": [
                 "법학전문대학원",
                 "2023-08-30",
-                "기타"
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://law.khu.ac.kr/bbs/board.php?bo_table=07_01_01&page=1"
         },
@@ -859,7 +890,7 @@
             "keywords": [
                 "사회기반시스템공학과",
                 "2023-08-30",
-                "기타"
+                "강의"
             ],
             "url": "https://eng.khu.ac.kr/civileng/C2240333?page=1&category=&"
         },
@@ -871,7 +902,9 @@
             "keywords": [
                 "사회기반시스템공학과",
                 "2023-08-30",
-                "모집"
+                "모집",
+                "취업",
+                "프로그램"
             ],
             "url": "https://eng.khu.ac.kr/civileng/C2240333?page=1&category=&"
         },
@@ -883,7 +916,9 @@
             "keywords": [
                 "대학생활(일반)",
                 "2023-08-30",
-                "모집"
+                "2학기",
+                "모집",
+                "행정실"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
@@ -907,6 +942,8 @@
             "keywords": [
                 "약학대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
@@ -919,6 +956,8 @@
             "keywords": [
                 "의과대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
@@ -931,7 +970,7 @@
             "keywords": [
                 "대학주보",
                 "2023-08-30",
-                "공모전"
+                "대회"
             ],
             "url": "http://media.khu.ac.kr/khunews/list.asp?code1=1012006022801&code2=&headline=&section=&auth=&page=1&field=&flag=&issue_date_split=&search_text1=&search=&keyword="
         },
@@ -943,7 +982,11 @@
             "keywords": [
                 "경영대학원",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -955,7 +998,11 @@
             "keywords": [
                 "경영대학원",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -967,7 +1014,8 @@
             "keywords": [
                 "중앙도서관(국제)",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "연구"
             ],
             "url": "https://library.khu.ac.kr/global/blog/2023-2-Elseviier-DB"
         },
@@ -1003,7 +1051,11 @@
             "keywords": [
                 "영어영문학과",
                 "2023-08-30",
-                "장학"
+                "2학기",
+                "신청",
+                "장학",
+                "행정실",
+                "홍보"
             ],
             "url": "http://khenglish.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
@@ -1015,7 +1067,11 @@
             "keywords": [
                 "교육대학원(서울)",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://edu.khu.ac.kr/bbs/board.php?bo_table=seoul_5_1&page=1"
         },
@@ -1027,7 +1083,11 @@
             "keywords": [
                 "교육대학원(서울)",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://edu.khu.ac.kr/bbs/board.php?bo_table=seoul_5_1&page=1"
         },
@@ -1039,7 +1099,11 @@
             "keywords": [
                 "경영대학원",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -1051,7 +1115,11 @@
             "keywords": [
                 "경영대학원",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -1063,7 +1131,11 @@
             "keywords": [
                 "경영대학원",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -1075,7 +1147,11 @@
             "keywords": [
                 "경영대학원",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://khmba.khu.ac.kr/khmba_kor/user/bbs/BMSR00040/list.do?menuNo=10800152&pageIndex=1&searchCategory=&searchCondition=&searchKeyword="
         },
@@ -1087,7 +1163,7 @@
             "keywords": [
                 "소프트웨어중심대학사업단",
                 "2023-08-30",
-                "기타"
+                "신청"
             ],
             "url": "http://swedu.khu.ac.kr/board5/bbs/board.php?bo_table=06_01&wr_id=2180&page=1"
         },
@@ -1124,7 +1200,9 @@
             "keywords": [
                 "일반대학원",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신청",
+                "학생증"
             ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
@@ -1136,6 +1214,8 @@
             "keywords": [
                 "사학과",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "http://history.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001"
@@ -1148,6 +1228,8 @@
             "keywords": [
                 "문과대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005005"
@@ -1160,6 +1242,8 @@
             "keywords": [
                 "무용학부",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
@@ -1184,7 +1268,9 @@
             "keywords": [
                 "일반대학원",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신청",
+                "학생증"
             ],
             "url": "https://gskh.khu.ac.kr/index/s8_comm/comm_1.php?&page=1"
         },
@@ -1208,6 +1294,8 @@
             "keywords": [
                 "철학과",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "http://sophia.khu.ac.kr/?pageid=1&page_id=2782&mod=list"
@@ -1220,7 +1308,11 @@
             "keywords": [
                 "호텔관광대학",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900107&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -1232,6 +1324,7 @@
             "keywords": [
                 "호텔관광대학",
                 "2023-08-30",
+                "2학기",
                 "모집"
             ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
@@ -1244,7 +1337,7 @@
             "keywords": [
                 "무용학부",
                 "2023-08-30",
-                "기타"
+                "신청"
             ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=2&searchCondition=&searchKeyword="
         },
@@ -1256,6 +1349,7 @@
             "keywords": [
                 "치과대학",
                 "2023-08-30",
+                "신청",
                 "장학"
             ],
             "url": "http://dental.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001001"
@@ -1268,7 +1362,8 @@
             "keywords": [
                 "치과대학-일반대학원",
                 "2023-08-30",
-                "기타"
+                "신청",
+                "학생증"
             ],
             "url": "http://dental.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002005001003"
         },
@@ -1280,6 +1375,8 @@
             "keywords": [
                 "교육대학원(국제)",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://edu.khu.ac.kr/bbs/board.php?bo_table=global_5_1&page=1"
@@ -1292,7 +1389,7 @@
             "keywords": [
                 "공공대학원",
                 "2023-08-30",
-                "기타"
+                "강의"
             ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
@@ -1317,7 +1414,10 @@
             "keywords": [
                 "응용영어통번역학과",
                 "2023-08-30",
-                "장학"
+                "2학기",
+                "신청",
+                "장학",
+                "홍보"
             ],
             "url": "http://aelts.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=002004001"
         },
@@ -1329,6 +1429,8 @@
             "keywords": [
                 "약학대학",
                 "2023-08-30",
+                "2학기",
+                "강의",
                 "수강신청"
             ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
@@ -1341,6 +1443,8 @@
             "keywords": [
                 "이과대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://science.khu.ac.kr/science_kor/user/bbs/BMSR00040/list.do?menuNo=1200039&pageIndex=1&searchCondition=&searchKeyword="
@@ -1353,6 +1457,8 @@
             "keywords": [
                 "수학과",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600018&pageIndex=1&searchCondition=&searchKeyword="
@@ -1365,6 +1471,8 @@
             "keywords": [
                 "물리학과",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
@@ -1389,7 +1497,7 @@
             "keywords": [
                 "기계공학과",
                 "2023-08-30",
-                "기타"
+                "2학기"
             ],
             "url": "https://eng.khu.ac.kr/me/C1280305?page=1&category=&"
         },
@@ -1401,6 +1509,7 @@
             "keywords": [
                 "대학생활(일반)",
                 "2023-08-30",
+                "2학기",
                 "모집"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
@@ -1461,6 +1570,8 @@
             "keywords": [
                 "약학대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
@@ -1473,6 +1584,8 @@
             "keywords": [
                 "이과대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://science.khu.ac.kr/science_kor/user/bbs/BMSR00040/list.do?menuNo=1200039&pageIndex=1&searchCondition=&searchKeyword="
@@ -1485,6 +1598,7 @@
             "keywords": [
                 "물리학과",
                 "2023-08-30",
+                "2학기",
                 "장학"
             ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
@@ -1509,7 +1623,9 @@
             "keywords": [
                 "공과대학",
                 "2023-08-30",
-                "장학"
+                "유학",
+                "장학",
+                "프로그램"
             ],
             "url": "https://eng.khu.ac.kr/eng/C1100333?page=1&category=&"
         },
@@ -1545,7 +1661,7 @@
             "keywords": [
                 "문과대학",
                 "2023-08-30",
-                "기타"
+                "프로그램"
             ],
             "url": "http://human.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=005006"
         },
@@ -1557,7 +1673,10 @@
             "keywords": [
                 "공공대학원",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
@@ -1569,6 +1688,7 @@
             "keywords": [
                 "소프트웨어중심대학사업단",
                 "2023-08-30",
+                "2학기",
                 "모집"
             ],
             "url": "https://swedu.khu.ac.kr/board5/bbs/board.php?bo_table=06_01&wr_id=2189&page=1"
@@ -1593,7 +1713,9 @@
             "keywords": [
                 "체육대학원",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신청",
+                "학생증"
             ],
             "url": "http://gradsport.khu.ac.kr/bbs/board.php?bo_table=07_01&page=1"
         },
@@ -1605,7 +1727,8 @@
             "keywords": [
                 "체육대학원",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "일정"
             ],
             "url": "http://gradsport.khu.ac.kr/bbs/board.php?bo_table=07_01&page=1"
         },
@@ -1666,7 +1789,9 @@
             "keywords": [
                 "약학대학",
                 "2023-08-30",
-                "수강신청"
+                "2학기",
+                "수강신청",
+                "신청"
             ],
             "url": "https://pharm.khu.ac.kr/pharm_kor/user/bbs/BMSR00040/list.do?menuNo=3900106&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -1690,6 +1815,8 @@
             "keywords": [
                 "수학과",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600018&pageIndex=1&searchCondition=&searchKeyword="
@@ -1714,6 +1841,7 @@
             "keywords": [
                 "간호과학대학",
                 "2023-08-30",
+                "2학기",
                 "장학"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
@@ -1726,6 +1854,7 @@
             "keywords": [
                 "간호과학대학",
                 "2023-08-30",
+                "2학기",
                 "장학"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
@@ -1738,7 +1867,9 @@
             "keywords": [
                 "대학생활(일반)",
                 "2023-08-30",
-                "모집"
+                "2학기",
+                "모집",
+                "취업"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
@@ -1786,7 +1917,11 @@
             "keywords": [
                 "대학생활(일반)",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         },
@@ -1810,6 +1945,7 @@
             "keywords": [
                 "화학과",
                 "2023-08-30",
+                "2학기",
                 "장학"
             ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
@@ -1822,6 +1958,7 @@
             "keywords": [
                 "화학과",
                 "2023-08-30",
+                "2학기",
                 "장학"
             ],
             "url": "https://chem.khu.ac.kr/chem/user/bbs/BMSR00040/list.do?menuNo=3700015&pageIndex=1&searchCondition=&searchKeyword="
@@ -1846,6 +1983,8 @@
             "keywords": [
                 "지리학과",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://geo.khu.ac.kr/geo/user/bbs/BMSR00040/list.do?menuNo=3600058&pageIndex=1&searchCondition=&searchKeyword="
@@ -1870,6 +2009,8 @@
             "keywords": [
                 "의과대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
@@ -1882,6 +2023,8 @@
             "keywords": [
                 "간호과학대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
@@ -1894,6 +2037,8 @@
             "keywords": [
                 "간호과학대학",
                 "2023-08-30",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_1.php?&page=1"
@@ -1906,7 +2051,11 @@
             "keywords": [
                 "대학생활(일반)",
                 "2023-08-30",
-                "기타"
+                "2학기",
+                "신입",
+                "신청",
+                "편입",
+                "학생증"
             ],
             "url": "https://www.khu.ac.kr/kor/notice/list.do?page=1&category=GENERAL"
         }

@@ -160,7 +160,8 @@
                 "스페인어학과",
                 "2024-09-24",
                 "모집",
-                "취업"
+                "취업",
+                "프로그램"
             ],
             "url": "https://spanish.khu.ac.kr/spanish/user/bbs/BMSR00040/list.do?menuNo=2500014&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -172,7 +173,7 @@
             "keywords": [
                 "문과대학",
                 "2024-09-24",
-                "기타"
+                "행정실"
             ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800019&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -184,7 +185,8 @@
             "keywords": [
                 "사학과",
                 "2024-09-24",
-                "기타"
+                "연구",
+                "프로그램"
             ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -199,18 +201,6 @@
                 "기타"
             ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
-        },
-        {
-            "id": "0S000055",
-            "department": "무역학과.장학및홍보",
-            "timestamp": "2024-09-24T09:35:55.533705",
-            "title": "[мӮјм–‘к·ёлЈ№] 2024л…„ 9мӣ” мӢ мһ…мӮ¬мӣҗ лҢҖк·ңлӘЁ лӘЁм§‘ (~10/7(мӣ”) 09мӢңк№Ңм§Җ)",
-            "keywords": [
-                "무역학과",
-                "2024-09-24",
-                "장학"
-            ],
-            "url": "http://trade.khu.ac.kr/trade/index.php?mid=scholarship&page=1"
         },
         {
             "id": "0S000060",
@@ -232,6 +222,7 @@
             "keywords": [
                 "교육대학원(국제)",
                 "2024-09-24",
+                "2학기",
                 "논문"
             ],
             "url": "https://eduglobal.khu.ac.kr/edu_global/user/bbs/BMSR00040/list.do?menuNo=12900045&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -269,8 +260,10 @@
             "keywords": [
                 "전자공학과",
                 "2024-09-24",
-                "공모전",
-                "모집"
+                "2학기",
+                "대회",
+                "모집",
+                "프로그램"
             ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -282,8 +275,10 @@
             "keywords": [
                 "전자공학과",
                 "2024-09-24",
-                "공모전",
-                "모집"
+                "2학기",
+                "대회",
+                "모집",
+                "프로그램"
             ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -295,7 +290,7 @@
             "keywords": [
                 "전자공학과",
                 "2024-09-24",
-                "기타"
+                "홍보"
             ],
             "url": "https://ee.khu.ac.kr/ee/user/bbs/BMSR00040/list.do?menuNo=1900039&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -320,6 +315,7 @@
                 "건축공학과",
                 "2024-09-24",
                 "공모전",
+                "모집",
                 "취업"
             ],
             "url": "https://archieng.khu.ac.kr/archieng/user/bbs/BMSR00040/list.do?menuNo=17900017&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -382,7 +378,8 @@
                 "프랑스어학과",
                 "2024-09-24",
                 "모집",
-                "취업"
+                "취업",
+                "프로그램"
             ],
             "url": "https://france.khu.ac.kr/france/user/bbs/BMSR00040/list.do?menuNo=2600013&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -406,7 +403,7 @@
             "keywords": [
                 "사학과",
                 "2024-09-24",
-                "기타"
+                "홍보"
             ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -418,7 +415,7 @@
             "keywords": [
                 "응용영어통번역학과",
                 "2024-09-24",
-                "기타"
+                "홍보"
             ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -431,7 +428,8 @@
                 "응용영어통번역학과",
                 "2024-09-24",
                 "모집",
-                "취업"
+                "취업",
+                "홍보"
             ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400018&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -443,7 +441,7 @@
             "keywords": [
                 "문과대학",
                 "2024-09-24",
-                "다·부전공"
+                "다/부전공"
             ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800033&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -455,7 +453,7 @@
             "keywords": [
                 "철학과",
                 "2024-09-24",
-                "기타"
+                "홍보"
             ],
             "url": "https://com.khu.ac.kr/sophia/user/bbs/BMSR00040/list.do?menuNo=16200007&boardType=&pageIndex=2&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -492,7 +490,8 @@
             "keywords": [
                 "미디어커뮤니케이션대학원",
                 "2024-09-24",
-                "공모전"
+                "공모전",
+                "모집"
             ],
             "url": "https://communication.khu.ac.kr/bbs/board.php?bo_table=notice&page=1"
         },
@@ -504,8 +503,10 @@
             "keywords": [
                 "소프트웨어융합학과",
                 "2024-09-24",
-                "공모전",
-                "모집"
+                "2학기",
+                "대회",
+                "모집",
+                "프로그램"
             ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1876"
         },
@@ -517,8 +518,10 @@
             "keywords": [
                 "소프트웨어융합학과",
                 "2024-09-24",
-                "공모전",
-                "모집"
+                "2학기",
+                "대회",
+                "모집",
+                "프로그램"
             ],
             "url": "http://swcon.khu.ac.kr/wordpress/post/?vid=1875"
         },
@@ -530,8 +533,11 @@
             "keywords": [
                 "공과대학",
                 "2024-09-24",
+                "2학기",
                 "강연",
-                "모집"
+                "모집",
+                "특강",
+                "프로그램"
             ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100020&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -543,7 +549,7 @@
             "keywords": [
                 "공과대학",
                 "2024-09-24",
-                "기타"
+                "캠프"
             ],
             "url": "https://eng.khu.ac.kr/eng_kor/user/bbs/BMSR00040/list.do?menuNo=17100020&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -555,7 +561,8 @@
             "keywords": [
                 "우주과학과",
                 "2024-09-24",
-                "공모전"
+                "개최",
+                "대회"
             ],
             "url": "https://space.khu.ac.kr/space/user/bbs/BMSR00040/list.do?menuNo=2800023&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -567,7 +574,8 @@
             "keywords": [
                 "사학과",
                 "2024-09-24",
-                "기타"
+                "2학기",
+                "프로그램"
             ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -579,7 +587,7 @@
             "keywords": [
                 "영어영문학과",
                 "2024-09-24",
-                "다·부전공"
+                "다/부전공"
             ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -591,7 +599,7 @@
             "keywords": [
                 "영어영문학과",
                 "2024-09-24",
-                "다·부전공"
+                "다/부전공"
             ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -603,7 +611,9 @@
             "keywords": [
                 "영어영문학과",
                 "2024-09-24",
-                "논문"
+                "논문",
+                "모집",
+                "연구"
             ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -615,7 +625,8 @@
             "keywords": [
                 "응용영어통번역학과",
                 "2024-09-24",
-                "기타"
+                "2학기",
+                "프로그램"
             ],
             "url": "https://com.khu.ac.kr/aelts/user/bbs/BMSR00040/list.do?menuNo=16400017&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -639,7 +650,8 @@
             "keywords": [
                 "무용학부",
                 "2024-09-24",
-                "기타"
+                "2학기",
+                "프로그램"
             ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00040/list.do?menuNo=300049&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -651,7 +663,9 @@
             "keywords": [
                 "간호대학원",
                 "2024-09-24",
-                "논문"
+                "논문",
+                "사업",
+                "신청"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
@@ -663,7 +677,9 @@
             "keywords": [
                 "문과대학",
                 "2024-09-24",
-                "기타"
+                "2학기",
+                "프로그램",
+                "행정실"
             ],
             "url": "https://human.khu.ac.kr/human_kor/user/bbs/BMSR00040/list.do?menuNo=15800019&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -675,7 +691,8 @@
             "keywords": [
                 "교육대학원(국제)",
                 "2024-09-24",
-                "기타"
+                "2학기",
+                "프로그램"
             ],
             "url": "https://eduglobal.khu.ac.kr/edu_global/user/bbs/BMSR00040/list.do?menuNo=12900045&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -687,6 +704,7 @@
             "keywords": [
                 "교육대학원(국제)",
                 "2024-09-24",
+                "2학기",
                 "논문"
             ],
             "url": "https://eduglobal.khu.ac.kr/edu_global/user/bbs/BMSR00040/list.do?menuNo=12900045&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -711,9 +729,12 @@
             "keywords": [
                 "생체의공학과",
                 "2024-09-24",
-                "공모전",
+                "2학기",
+                "대회",
                 "모집",
-                "취업"
+                "취업",
+                "프로그램",
+                "홍보"
             ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800031&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -725,9 +746,12 @@
             "keywords": [
                 "생체의공학과",
                 "2024-09-24",
-                "공모전",
+                "2학기",
+                "대회",
                 "모집",
-                "취업"
+                "취업",
+                "프로그램",
+                "홍보"
             ],
             "url": "https://bme.khu.ac.kr/bme/user/bbs/BMSR00040/list.do?menuNo=1800031&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -739,7 +763,8 @@
             "keywords": [
                 "정보전자신소재공학과",
                 "2024-09-24",
-                "기타"
+                "2학기",
+                "상담"
             ],
             "url": "https://amie.khu.ac.kr/amie/user/bbs/BMSR00040/list.do?menuNo=17700015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -776,7 +801,7 @@
             "keywords": [
                 "한의과대학",
                 "2024-09-24",
-                "기타"
+                "연구"
             ],
             "url": "https://kmc.khu.ac.kr/kmc_kor/user/bbs/BMSR00040/list.do?menuNo=4200052&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -800,7 +825,7 @@
             "keywords": [
                 "무용학부",
                 "2024-09-24",
-                "기타"
+                "프로그램"
             ],
             "url": "https://dance.khu.ac.kr/dance/user/bbs/BMSR00041/list.do?menuNo=300046&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -813,6 +838,7 @@
                 "체육대학",
                 "2024-09-24",
                 "강연",
+                "설명회",
                 "연수"
             ],
             "url": "http://sports.khu.ac.kr/bbs/board.php?bo_table=05_01&page=1"
@@ -825,6 +851,8 @@
             "keywords": [
                 "국어국문학과",
                 "2024-09-24",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://com.khu.ac.kr/gukmun/user/bbs/BMSR00040/list.do?menuNo=16000042&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -837,7 +865,9 @@
             "keywords": [
                 "국어국문학과",
                 "2024-09-24",
-                "강연"
+                "강연",
+                "개최",
+                "전과"
             ],
             "url": "https://com.khu.ac.kr/gukmun/user/bbs/BMSR00040/list.do?menuNo=16000042&boardType=&pageIndex=1&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -849,7 +879,7 @@
             "keywords": [
                 "호텔관광대학",
                 "2024-09-24",
-                "기타"
+                "행사"
             ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -861,7 +891,7 @@
             "keywords": [
                 "호텔관광대학",
                 "2024-09-24",
-                "기타"
+                "신청"
             ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -873,7 +903,8 @@
             "keywords": [
                 "공공대학원",
                 "2024-09-24",
-                "기타"
+                "2학기",
+                "프로그램"
             ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
@@ -897,7 +928,9 @@
             "keywords": [
                 "체육대학원",
                 "2024-09-24",
-                "논문"
+                "2학기",
+                "논문",
+                "신청"
             ],
             "url": "http://gradsport.khu.ac.kr/bbs/board.php?bo_table=07_01&page=1"
         },
@@ -909,7 +942,7 @@
             "keywords": [
                 "체육대학원",
                 "2024-09-24",
-                "기타"
+                "2학기"
             ],
             "url": "http://gradsport.khu.ac.kr/bbs/board.php?bo_table=07_01&page=1"
         },
@@ -921,7 +954,9 @@
             "keywords": [
                 "사학과",
                 "2024-09-24",
-                "기타"
+                "2학기",
+                "상담",
+                "신청"
             ],
             "url": "https://com.khu.ac.kr/history/user/bbs/BMSR00040/list.do?menuNo=16100052&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -933,7 +968,8 @@
             "keywords": [
                 "영어영문학과",
                 "2024-09-24",
-                "기타"
+                "2학기",
+                "프로그램"
             ],
             "url": "https://com.khu.ac.kr/khenglish/user/bbs/BMSR00040/list.do?menuNo=16300016&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
         },
@@ -957,7 +993,7 @@
             "keywords": [
                 "호텔관광대학",
                 "2024-09-24",
-                "기타"
+                "행사"
             ],
             "url": "https://hot.khu.ac.kr/hot20_kor/user/bbs/BMSR00040/list.do?menuNo=10900108&pageIndex=1&searchCondition=&searchKeyword="
         },
@@ -981,6 +1017,8 @@
             "keywords": [
                 "수학과",
                 "2024-09-24",
+                "2학기",
+                "신청",
                 "장학"
             ],
             "url": "https://maths.khu.ac.kr/maths/user/bbs/BMSR00040/list.do?menuNo=600018&pageIndex=1&searchCondition=&searchKeyword="
@@ -1005,7 +1043,7 @@
             "keywords": [
                 "물리학과",
                 "2024-09-24",
-                "기타"
+                "행사"
             ],
             "url": "https://phy.khu.ac.kr/phy/user/bbs/BMSR00050/list.do?menuNo=3800084&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
@@ -1029,6 +1067,7 @@
             "keywords": [
                 "교육대학원(서울)",
                 "2024-09-24",
+                "2학기",
                 "모집"
             ],
             "url": "https://eduseoul.khu.ac.kr/edu_seoul/user/bbs/BMSR00040/list.do?menuNo=12800075&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -1089,7 +1128,7 @@
             "keywords": [
                 "의과대학",
                 "2024-09-24",
-                "기타"
+                "홍보"
             ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
         },
@@ -1113,7 +1152,9 @@
             "keywords": [
                 "간호대학원",
                 "2024-09-24",
-                "강연"
+                "강연",
+                "연구",
+                "특강"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
@@ -1221,7 +1262,9 @@
             "keywords": [
                 "간호대학원",
                 "2024-09-24",
-                "논문"
+                "논문",
+                "사업",
+                "신청"
             ],
             "url": "https://khcns21.khu.ac.kr/index/community/notice_2.php?&page=1"
         },
@@ -1245,6 +1288,7 @@
             "keywords": [
                 "의과대학",
                 "2024-09-24",
+                "2학기",
                 "장학"
             ],
             "url": "https://khusm.khu.ac.kr/bbs/board.php?bo_table=s6_1&page=1"
@@ -1270,7 +1314,8 @@
             "keywords": [
                 "우정원",
                 "2024-09-24",
-                "기숙사"
+                "기숙사",
+                "휴무"
             ],
             "url": "https://wjwdorm.khu.ac.kr/60/6010.kmc"
         },
@@ -1282,6 +1327,8 @@
             "keywords": [
                 "정보전자신소재공학과",
                 "2024-09-24",
+                "2학기",
+                "강의",
                 "졸업"
             ],
             "url": "https://amie.khu.ac.kr/amie/user/bbs/BMSR00040/list.do?menuNo=17700015&boardType=&pageIndex=1&searchCategory=&searchCondition=&searchKeyword=&userDisplayCount=10"
@@ -1294,7 +1341,9 @@
             "keywords": [
                 "공공대학원",
                 "2024-09-24",
-                "모집"
+                "모집",
+                "인턴",
+                "프로그램"
             ],
             "url": "https://pnc.khu.ac.kr/pnc/user/bbs/BMSR00049/list.do?menuNo=800202&pageIndex=1&searchGubunCd=&searchCondition=&searchKeyword="
         },
@@ -1306,7 +1355,7 @@
             "keywords": [
                 "중앙박물관",
                 "2024-09-24",
-                "기타"
+                "프로그램"
             ],
             "url": "http://museum.khu.ac.kr/contents/bbs/bbs_list.html?bbs_cls_cd=007001"
         }
