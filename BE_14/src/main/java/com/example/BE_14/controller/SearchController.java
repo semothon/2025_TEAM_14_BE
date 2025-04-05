@@ -33,4 +33,22 @@ public class SearchController {
     }
 
 
+
+    // ✅ 2. 선호 키워드 기반 추천 (로그인된 유저 id 필요)
+    @GetMapping("/preference/{userId}")
+    public ResponseEntity<?> getUserPreferences(@PathVariable Long userId) {
+        return searchService.searchByUserPreference(userId);
+    }
+
+    // ✅ 3. 프론트 클릭 시 점수 +5
+    @PutMapping("/score")
+    public ResponseEntity<?> addScore(@RequestParam("keyword") String keyword) {
+        return searchService.increaseScoreByKeyword(keyword);
+    }
+
+    // ✅ 4. 인기 키워드 top 5
+    @GetMapping("/top")
+    public ResponseEntity<?> getTopKeywords() {
+        return searchService.getTopKeywords();
+    }
 }
