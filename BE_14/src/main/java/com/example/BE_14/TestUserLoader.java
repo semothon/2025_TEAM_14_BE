@@ -16,23 +16,26 @@ public class TestUserLoader implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        String testEmail = "test@example.com";
+        createTestUser("test@example.com", "testpass", "김세모");
+        createTestUser("test2@example.com", "testpass2", "이네모");
+        createTestUser("test3@example.com", "testpass3", "박세모");
+    }
+
+    private void createTestUser(String email, String password, String name) {
         try {
-            // 만약 이미 로그인 가능한 계정이면 예외 발생하지 않고 기존 계정이 있음
-            userService.login(testEmail, "testpass");
-            System.out.println("테스트 계정 이미 존재합니다: " + testEmail);
+            userService.login(email, password);
+            System.out.println("테스트 계정 이미 존재합니다: " + email);
         } catch (IllegalArgumentException e) {
-            // 계정이 없으면 새로 생성
             SignUpRequest request = SignUpRequest.builder()
-                    .email(testEmail)
-                    .password("testpass")
-                    .name("김세모")
+                    .email(email)
+                    .password(password)
+                    .name(name)
                     .department("컴퓨터공학과")
                     .studyYear(1)
                     .transferMinor("none")
                     .build();
             userService.signUp(request);
-            System.out.println("테스트 계정 생성 완료: " + testEmail);
+            System.out.println("테스트 계정 생성 완료: " + email);
         }
     }
 }

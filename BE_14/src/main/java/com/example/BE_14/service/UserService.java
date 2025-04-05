@@ -89,4 +89,12 @@ public class UserService {
                 .orElseThrow(() -> new IllegalArgumentException("해당 유저가 존재하지 않습니다."));
     }
 
+    @Transactional
+    public void deleteUser(Long userId) {
+        User user = userRepository.findById(userId)
+                .orElseThrow(() -> new IllegalArgumentException("해당 유저가 존재하지 않습니다."));
+        userRepository.delete(user);
+    }
+
+
 }

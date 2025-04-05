@@ -38,4 +38,25 @@ public class UserController {
             return ResponseEntity.internalServerError().body("오류 발생: " + e.getMessage());
         }
     }
+
+    // ✅ 회원탈퇴
+    @DeleteMapping("/delete")
+    public ResponseEntity<?> deleteUser(HttpServletRequest request) {
+        HttpSession session = request.getSession(false);
+        if (session == null || session.getAttribute("userId") == null) {
+            return ResponseEntity.status(401).body("로그인이 필요합니다.");
+        }
+
+        Long userId = (Long) session.getAttribute("userId");
+
+        try {
+            userService.deleteUser(userId);
+            session.invalidate(); // 로그아웃
+            return ResponseEntity.ok("회원 탈퇴가 완료되었습니다.");
+        } catch (IllegalArgumentException e) {
+            return ResponseEntity.badRequest().body("회원 탈퇴 실패: " + e.getMessage());
+        } catch (Exception e) {
+            return ResponseEntity.internalServerError().body("오류 발생: " + e.getMessage());
+        }
+    }
 }
